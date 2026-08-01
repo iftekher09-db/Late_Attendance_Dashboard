@@ -22,7 +22,7 @@
       "designation": "Assistant General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "1999-05-15",
+      "doj": "1999-05-14",
       "dob": "1973-10-24"
     },
     "15100011": {
@@ -81,6 +81,14 @@
       "doj": "2002-12-31",
       "dob": "1970-03-31"
     },
+    "15100019": {
+      "name": "Mr.Sakayet Hossain",
+      "designation": "Senior Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2003-01-18",
+      "dob": "1979-06-12"
+    },
     "15100020": {
       "name": "Mr.Swapan Kumar Das",
       "designation": "Senior Manager",
@@ -102,7 +110,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2003-07-19",
+      "doj": "2003-07-18",
       "dob": "1968-08-11"
     },
     "15100023": {
@@ -137,6 +145,14 @@
       "doj": "2004-09-25",
       "dob": "1976-03-08"
     },
+    "15100028": {
+      "name": "Mr.Shahenshah Kabir Khan",
+      "designation": "Senior Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2005-03-09",
+      "dob": "1978-02-20"
+    },
     "15100029": {
       "name": "Mr.Md. Mehedi Alam",
       "designation": "Additional General Manager",
@@ -150,7 +166,7 @@
       "designation": "Deputy General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2005-07-01",
+      "doj": "2005-06-30",
       "dob": "1972-09-09"
     },
     "15100032": {
@@ -206,7 +222,7 @@
       "designation": "Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2009-10-07",
+      "doj": "2009-10-06",
       "dob": "1984-10-16"
     },
     "15100046": {
@@ -214,7 +230,7 @@
       "designation": "Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2001-03-25",
+      "doj": "2001-03-24",
       "dob": "1954-05-10"
     },
     "15100052": {
@@ -224,6 +240,14 @@
       "location": "Corporate Office",
       "doj": "2008-12-01",
       "dob": "1975-01-15"
+    },
+    "15100055": {
+      "name": "Mr.Md. Abu Bakkar Siddik",
+      "designation": "Executive",
+      "department": "C and F",
+      "location": "Corporate Office",
+      "doj": "2009-10-18",
+      "dob": "1980-11-11"
     },
     "15100056": {
       "name": "Mr.Md. Nahid Islam",
@@ -246,7 +270,7 @@
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2010-01-23",
+      "doj": "2010-01-22",
       "dob": "1983-08-07"
     },
     "15100061": {
@@ -278,8 +302,16 @@
       "designation": "Senior Programmer",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2011-04-10",
+      "doj": "2011-04-09",
       "dob": "1990-12-10"
+    },
+    "15100072": {
+      "name": "Mr.Md. Moshiar Rahman",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2011-05-31",
+      "dob": "1989-07-07"
     },
     "15100073": {
       "name": "Mr.Liton Kumar Bhadra",
@@ -310,7 +342,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Pharma Corporate",
-      "doj": "2012-03-17",
+      "doj": "2012-03-16",
       "dob": "1984-12-31"
     },
     "15100086": {
@@ -320,6 +352,14 @@
       "location": "Corporate Office",
       "doj": "2012-06-02",
       "dob": "1981-07-10"
+    },
+    "15100087": {
+      "name": "Mr.Md. Mostofa Kamal",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2011-07-24",
+      "dob": "1985-10-01"
     },
     "15100088": {
       "name": "Mr.Khaled Mahmud Quayyum",
@@ -366,7 +406,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2013-01-24",
+      "doj": "2013-01-23",
       "dob": "1980-05-16"
     },
     "15100098": {
@@ -390,7 +430,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2013-04-08",
+      "doj": "2013-04-07",
       "dob": "1979-02-26"
     },
     "15100103": {
@@ -438,7 +478,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2013-07-17",
+      "doj": "2013-07-16",
       "dob": "1988-02-06"
     },
     "15100111": {
@@ -497,6 +537,14 @@
       "doj": "2014-03-05",
       "dob": "1981-02-20"
     },
+    "15100131": {
+      "name": "Mr.Mahfuz Alam",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2014-04-14",
+      "dob": "1989-10-12"
+    },
     "15100132": {
       "name": "Mr.Mohammad Abdullah Al-Rabbi",
       "designation": "Assistant Manager",
@@ -542,7 +590,7 @@
       "designation": "Deputy Manager",
       "department": "Installation and Servicing",
       "location": "Corporate Office",
-      "doj": "2014-10-15",
+      "doj": "2014-10-14",
       "dob": "1992-05-21"
     },
     "15100154": {
@@ -590,7 +638,7 @@
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2015-05-05",
+      "doj": "2015-05-04",
       "dob": "1980-08-19"
     },
     "15100169": {
@@ -598,7 +646,7 @@
       "designation": "Senior Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2015-05-12",
+      "doj": "2015-05-11",
       "dob": "1977-07-15"
     },
     "15100170": {
@@ -622,7 +670,7 @@
       "designation": "Senior Manager",
       "department": "Corporate Admin",
       "location": "Corporate Office",
-      "doj": "2015-08-01",
+      "doj": "2015-07-31",
       "dob": "1979-02-01"
     },
     "15100185": {
@@ -686,7 +734,7 @@
       "designation": "Senior Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2016-01-12",
+      "doj": "2016-01-11",
       "dob": "1967-12-31"
     },
     "15100226": {
@@ -710,8 +758,16 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2016-07-16",
+      "doj": "2016-07-15",
       "dob": "1991-01-19"
+    },
+    "15100240": {
+      "name": "Mr.Md. Alauddin",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2016-07-15",
+      "dob": "1984-11-10"
     },
     "15100248": {
       "name": "Mr.Mujtaba Ali",
@@ -742,7 +798,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2016-12-01",
+      "doj": "2016-11-30",
       "dob": "1982-04-05"
     },
     "15100267": {
@@ -774,7 +830,7 @@
       "designation": "Deputy Manager",
       "department": "Brand and Communication",
       "location": "Corporate Office",
-      "doj": "2017-02-01",
+      "doj": "2017-01-31",
       "dob": "1985-02-21"
     },
     "15100288": {
@@ -790,7 +846,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2017-03-01",
+      "doj": "2017-02-28",
       "dob": "1988-01-01"
     },
     "15100301": {
@@ -838,7 +894,7 @@
       "designation": "Senior Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2013-12-09",
+      "doj": "2013-12-08",
       "dob": "1983-12-31"
     },
     "15100792": {
@@ -870,7 +926,7 @@
       "designation": "Deputy Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2008-02-10",
+      "doj": "2008-02-09",
       "dob": "1986-12-08"
     },
     "15101347": {
@@ -878,7 +934,7 @@
       "designation": "Deputy Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2014-08-10",
+      "doj": "2014-08-09",
       "dob": "1986-12-30"
     },
     "15101573": {
@@ -950,7 +1006,7 @@
       "designation": "Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2017-06-01",
+      "doj": "2017-05-31",
       "dob": "1985-01-10"
     },
     "15101715": {
@@ -990,7 +1046,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2017-07-01",
+      "doj": "2017-06-30",
       "dob": "1983-05-05"
     },
     "15101755": {
@@ -1014,7 +1070,7 @@
       "designation": "Assistant General Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2017-07-15",
+      "doj": "2017-07-14",
       "dob": "1987-02-01"
     },
     "15101786": {
@@ -1030,7 +1086,7 @@
       "designation": "Senior Manager",
       "department": "Customer Service and Research",
       "location": "Ceramics Corporate",
-      "doj": "2017-09-20",
+      "doj": "2017-09-19",
       "dob": "1986-07-08"
     },
     "15101995": {
@@ -1062,7 +1118,7 @@
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2017-12-03",
+      "doj": "2017-12-02",
       "dob": "1988-01-01"
     },
     "15102060": {
@@ -1070,7 +1126,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2017-12-03",
+      "doj": "2017-12-02",
       "dob": "1991-12-10"
     },
     "15102063": {
@@ -1134,7 +1190,7 @@
       "designation": "Deputy Manager",
       "department": "Sourcing",
       "location": "Corporate Office",
-      "doj": "2018-02-01",
+      "doj": "2018-01-31",
       "dob": "1989-12-23"
     },
     "15102282": {
@@ -1152,6 +1208,14 @@
       "location": "Corporate Office",
       "doj": "2018-02-28",
       "dob": "1988-03-31"
+    },
+    "15102339": {
+      "name": "Mr.Sk. Zakaria Amin",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2018-03-14",
+      "dob": "1989-10-21"
     },
     "15102340": {
       "name": "Mrs.Rumana Alam",
@@ -1174,7 +1238,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2018-04-15",
+      "doj": "2018-04-14",
       "dob": "1989-12-10"
     },
     "15103196": {
@@ -1230,7 +1294,7 @@
       "designation": "Deputy Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2018-08-01",
+      "doj": "2018-07-31",
       "dob": "1989-10-08"
     },
     "15103289": {
@@ -1249,12 +1313,20 @@
       "doj": "2012-05-01",
       "dob": "1981-05-01"
     },
+    "15103363": {
+      "name": "Ms.Hamida Akter Pinky",
+      "designation": "Senior Executive",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2016-05-02",
+      "dob": "1991-02-20"
+    },
     "15103428": {
       "name": "Mr.Md. Rasel Hossain",
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2018-11-01",
+      "doj": "2018-10-31",
       "dob": "1986-12-31"
     },
     "15103460": {
@@ -1286,7 +1358,7 @@
       "designation": "Deputy Manager",
       "department": "Director's Secretariat",
       "location": "Corporate Office",
-      "doj": "2019-01-15",
+      "doj": "2019-01-14",
       "dob": "1986-08-30"
     },
     "15103505": {
@@ -1310,7 +1382,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2019-03-02",
+      "doj": "2019-03-01",
       "dob": "1991-08-01"
     },
     "15103549": {
@@ -1318,7 +1390,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2019-03-05",
+      "doj": "2019-03-04",
       "dob": "1990-10-24"
     },
     "15103556": {
@@ -1328,6 +1400,14 @@
       "location": "Digital Corporate",
       "doj": "2019-03-01",
       "dob": "1995-05-22"
+    },
+    "15103577": {
+      "name": "Mr.Md. Tahsin Ibne Mohsin",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-03-31",
+      "dob": "1984-10-05"
     },
     "15103588": {
       "name": "Mr.Mesbah Hossain Azmaeen",
@@ -1425,6 +1505,14 @@
       "doj": "2019-09-02",
       "dob": "1992-02-02"
     },
+    "15103781": {
+      "name": "Mr.S M Toufik Elahi",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-09-30",
+      "dob": "1994-06-01"
+    },
     "15103789": {
       "name": "Mr.Nurul Kabir Sazzad",
       "designation": "Deputy General Manager",
@@ -1486,7 +1574,7 @@
       "designation": "Assistant General Manager",
       "department": "Logistics",
       "location": "Ceramics Corporate",
-      "doj": "2020-01-05",
+      "doj": "2020-01-04",
       "dob": "1977-07-01"
     },
     "15103978": {
@@ -1518,7 +1606,7 @@
       "designation": "Head of Procurement",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2020-01-15",
+      "doj": "2020-01-14",
       "dob": "1969-09-30"
     },
     "15104046": {
@@ -1534,7 +1622,7 @@
       "designation": "Territory Sales Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2020-02-02",
+      "doj": "2020-02-01",
       "dob": "1991-06-07"
     },
     "15104105": {
@@ -1592,6 +1680,14 @@
       "location": "Corporate Office",
       "doj": "2020-08-15",
       "dob": "1987-11-21"
+    },
+    "15104242": {
+      "name": "Ms.Rokshana Akter Ripa",
+      "designation": "Executive II",
+      "department": "Corporate Admin",
+      "location": "Pharma Corporate",
+      "doj": "2021-02-14",
+      "dob": "1989-12-15"
     },
     "15104243": {
       "name": "Mr.Shamsul Hoque",
@@ -1662,7 +1758,7 @@
       "designation": "Deputy Manager",
       "department": "Business Excellence",
       "location": "Pharma Corporate",
-      "doj": "2021-02-10",
+      "doj": "2021-02-09",
       "dob": "1971-06-30"
     },
     "15104473": {
@@ -1686,7 +1782,7 @@
       "designation": "Senior Manager",
       "department": "Market Supply Chain",
       "location": "Pharma Corporate",
-      "doj": "2021-03-01",
+      "doj": "2021-02-28",
       "dob": "1983-01-12"
     },
     "15104509": {
@@ -1742,7 +1838,7 @@
       "designation": "Executive",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2021-07-01",
+      "doj": "2021-06-30",
       "dob": "1990-04-22"
     },
     "15104698": {
@@ -1760,6 +1856,14 @@
       "location": "Pharma Corporate",
       "doj": "2021-07-31",
       "dob": "1992-05-09"
+    },
+    "15104733": {
+      "name": "Mr.Md. Ashikur Hossain",
+      "designation": "Executive II",
+      "department": "Market Supply Chain",
+      "location": "Pharma Corporate",
+      "doj": "2021-07-31",
+      "dob": "1995-07-10"
     },
     "15104735": {
       "name": "Ms.Rejbin Sultana Apu",
@@ -1894,7 +1998,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-11-15",
+      "doj": "2021-11-14",
       "dob": "1995-01-17"
     },
     "15105176": {
@@ -1966,7 +2070,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2022-01-02",
+      "doj": "2022-01-01",
       "dob": "1993-11-08"
     },
     "15105346": {
@@ -2145,6 +2249,14 @@
       "doj": "2022-05-14",
       "dob": "1988-06-05"
     },
+    "15105700": {
+      "name": "Mr.Md. Borhan Uddin",
+      "designation": "Assistant Manager",
+      "department": "Logistics",
+      "location": "Ceramics Corporate",
+      "doj": "2022-05-09",
+      "dob": "1995-05-07"
+    },
     "15105701": {
       "name": "Mr.S.M Sohag",
       "designation": "Assistant Manager",
@@ -2166,7 +2278,7 @@
       "designation": "Assistant Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2022-05-15",
+      "doj": "2022-05-14",
       "dob": "1993-10-31"
     },
     "15105780": {
@@ -2174,7 +2286,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-05-18",
+      "doj": "2022-05-17",
       "dob": "1986-01-05"
     },
     "15105786": {
@@ -2190,7 +2302,7 @@
       "designation": "Lead Architect",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2022-06-01",
+      "doj": "2022-05-31",
       "dob": "1987-06-01"
     },
     "15105898": {
@@ -2254,7 +2366,7 @@
       "designation": "Assistant Officer",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2020-07-11",
+      "doj": "2020-07-10",
       "dob": "1991-07-17"
     },
     "15105964": {
@@ -2302,7 +2414,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-09-01",
+      "doj": "2022-08-31",
       "dob": "1987-09-19"
     },
     "15106110": {
@@ -2350,7 +2462,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-10-15",
+      "doj": "2022-10-14",
       "dob": "1995-12-31"
     },
     "15106242": {
@@ -2398,7 +2510,7 @@
       "designation": "Assistant Manager",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2022-11-15",
+      "doj": "2022-11-14",
       "dob": "1994-08-12"
     },
     "15106323": {
@@ -2585,6 +2697,14 @@
       "doj": "2023-04-09",
       "dob": "1994-01-07"
     },
+    "15106724": {
+      "name": "Mr.Debashish Halder",
+      "designation": "Manager",
+      "department": "Planning and Implementation",
+      "location": "Ceramics Corporate",
+      "doj": "2023-05-01",
+      "dob": "1991-11-05"
+    },
     "15106726": {
       "name": "Mr.Sadman Ul Quavi",
       "designation": "Senior Executive",
@@ -2646,7 +2766,7 @@
       "designation": "Executive I",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2023-07-22",
+      "doj": "2023-07-21",
       "dob": "1995-01-16"
     },
     "15106966": {
@@ -2694,7 +2814,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-08-07",
+      "doj": "2023-08-06",
       "dob": "1994-12-10"
     },
     "15107015": {
@@ -2710,7 +2830,7 @@
       "designation": "Assistant Manager",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2023-09-02",
+      "doj": "2023-09-01",
       "dob": "1995-11-16"
     },
     "15107021": {
@@ -2734,7 +2854,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-08-03",
+      "doj": "2023-08-02",
       "dob": "1998-08-06"
     },
     "15107080": {
@@ -2865,6 +2985,14 @@
       "doj": "2023-12-09",
       "dob": "1991-07-06"
     },
+    "15107332": {
+      "name": "Ms.Mst. Ramisa Anjum",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2023-12-01",
+      "dob": "1998-03-10"
+    },
     "15107333": {
       "name": "Mr.Manazzamul Islam",
       "designation": "Manager",
@@ -2942,8 +3070,16 @@
       "designation": "Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2023-12-13",
+      "doj": "2023-12-12",
       "dob": "1991-08-13"
+    },
+    "15107493": {
+      "name": "Ms.Nawshin Anjum",
+      "designation": "Senior Executive",
+      "department": "Customer Service and Research",
+      "location": "Ceramics Corporate",
+      "doj": "2023-12-31",
+      "dob": "1998-12-25"
     },
     "15107511": {
       "name": "Mr.Md Nabed Hasan Patwary",
@@ -2990,7 +3126,7 @@
       "designation": "Senior Executive",
       "department": "Land and Legal Affairs",
       "location": "Corporate Office",
-      "doj": "2024-01-15",
+      "doj": "2024-01-14",
       "dob": "1997-11-10"
     },
     "15107606": {
@@ -3022,7 +3158,7 @@
       "designation": "Senior Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2024-03-02",
+      "doj": "2024-03-01",
       "dob": "1983-11-21"
     },
     "15107635": {
@@ -3038,7 +3174,7 @@
       "designation": "Executive",
       "department": "SCM",
       "location": "Corporate Office",
-      "doj": "2024-02-15",
+      "doj": "2024-02-14",
       "dob": "1998-11-05"
     },
     "15107645": {
@@ -3097,12 +3233,20 @@
       "doj": "2024-04-15",
       "dob": "1996-08-15"
     },
+    "15107786": {
+      "name": "Mr.Md. Ashraful Islam",
+      "designation": "Manager",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2024-04-19",
+      "dob": "1987-01-02"
+    },
     "15107797": {
       "name": "Mr.Md. Naimur Rahman",
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-04-21",
+      "doj": "2024-04-20",
       "dob": "1995-12-11"
     },
     "15107799": {
@@ -3126,7 +3270,7 @@
       "designation": "Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2024-05-02",
+      "doj": "2024-05-01",
       "dob": "1985-02-08"
     },
     "15107812": {
@@ -3158,7 +3302,7 @@
       "designation": "Senior Executive",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2024-06-23",
+      "doj": "2024-06-22",
       "dob": "1997-08-10"
     },
     "15107851": {
@@ -3190,7 +3334,7 @@
       "designation": "Senior Manager",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2024-07-15",
+      "doj": "2024-07-14",
       "dob": "1994-10-28"
     },
     "15107958": {
@@ -3206,7 +3350,7 @@
       "designation": "Deputy Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2024-06-25",
+      "doj": "2024-06-24",
       "dob": "1990-07-06"
     },
     "15107965": {
@@ -3217,12 +3361,20 @@
       "doj": "2024-06-24",
       "dob": "1995-11-25"
     },
+    "15107981": {
+      "name": "Mr.S.M.Nahid Hasan",
+      "designation": "Executive II",
+      "department": "Sales",
+      "location": "Pharma Corporate",
+      "doj": "2024-06-30",
+      "dob": "1994-10-20"
+    },
     "15107983": {
       "name": "Mr.Mohammad Shahidozzaman",
       "designation": "Head of Sales",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2024-07-10",
+      "doj": "2024-07-09",
       "dob": "1977-08-16"
     },
     "15107989": {
@@ -3318,7 +3470,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2024-08-20",
+      "doj": "2024-08-19",
       "dob": "1991-09-08"
     },
     "15108088": {
@@ -3342,7 +3494,7 @@
       "designation": "Engineer",
       "department": "Installation and Servicing",
       "location": "Farmgate Office",
-      "doj": "2024-09-15",
+      "doj": "2024-09-14",
       "dob": "2000-03-22"
     },
     "15108132": {
@@ -3350,7 +3502,7 @@
       "designation": "System Engineer",
       "department": "IT Support",
       "location": "Corporate Office",
-      "doj": "2024-09-22",
+      "doj": "2024-09-21",
       "dob": "1993-11-12"
     },
     "15108150": {
@@ -3393,12 +3545,20 @@
       "doj": "2024-10-19",
       "dob": "1969-01-20"
     },
+    "15108193": {
+      "name": "Mr.M Mahbubul Alam",
+      "designation": "General Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2024-10-20",
+      "dob": "1971-07-17"
+    },
     "15108208": {
       "name": "Mr.Salman Alam",
       "designation": "Officer",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2024-11-02",
+      "doj": "2024-11-01",
       "dob": "1996-04-12"
     },
     "15108209": {
@@ -3510,7 +3670,7 @@
       "designation": "Executive I",
       "department": "Accounts and Finance",
       "location": "Pharma Corporate",
-      "doj": "2025-02-05",
+      "doj": "2025-02-04",
       "dob": "1996-07-12"
     },
     "15108398": {
@@ -3518,7 +3678,7 @@
       "designation": "Executive",
       "department": "Pre-Audit",
       "location": "Corporate Office",
-      "doj": "2025-01-15",
+      "doj": "2025-01-14",
       "dob": "1999-12-16"
     },
     "15108399": {
@@ -3529,6 +3689,14 @@
       "doj": "2025-01-14",
       "dob": "1992-09-11"
     },
+    "15108433": {
+      "name": "Mr.MD. Akhter Farook Chowdhury",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2024-12-31",
+      "dob": "1964-12-20"
+    },
     "15108437": {
       "name": "Ms.Shuraiya Islam Preity",
       "designation": "Executive",
@@ -3536,6 +3704,14 @@
       "location": "Ceramics Corporate",
       "doj": "2025-02-01",
       "dob": "2000-12-05"
+    },
+    "15108438": {
+      "name": "Mr.MD Ahsan Habib",
+      "designation": "Manager",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2025-02-01",
+      "dob": "1965-02-02"
     },
     "15108444": {
       "name": "Mr.Md. Ahosun Habib Santo",
@@ -3606,7 +3782,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2025-04-12",
+      "doj": "2025-04-11",
       "dob": "1994-05-06"
     },
     "15108673": {
@@ -3614,7 +3790,7 @@
       "designation": "Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2025-05-03",
+      "doj": "2025-05-02",
       "dob": "1984-12-15"
     },
     "15108709": {
@@ -3630,7 +3806,7 @@
       "designation": "Manager",
       "department": "Brand and Communication",
       "location": "Corporate Office",
-      "doj": "2025-05-03",
+      "doj": "2025-05-02",
       "dob": "1982-01-26"
     },
     "15108726": {
@@ -3662,7 +3838,7 @@
       "designation": "Deputy Manager",
       "department": "Merchandising",
       "location": "Lifestyle Corporate",
-      "doj": "2025-05-08",
+      "doj": "2025-05-07",
       "dob": "1993-08-19"
     },
     "15108801": {
@@ -3806,7 +3982,7 @@
       "designation": "Executive",
       "department": "Business Excellence",
       "location": "Ceramics Corporate",
-      "doj": "2025-08-17",
+      "doj": "2025-08-16",
       "dob": "2001-05-07"
     },
     "15109106": {
@@ -3814,7 +3990,7 @@
       "designation": "Assistant Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2025-08-20",
+      "doj": "2025-08-19",
       "dob": "1991-10-18"
     },
     "15109119": {
@@ -3982,7 +4158,7 @@
       "designation": "Assistant Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2025-11-01",
+      "doj": "2025-10-31",
       "dob": "1996-08-01"
     },
     "15109341": {
@@ -4070,7 +4246,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2026-01-01",
+      "doj": "2025-12-31",
       "dob": "1990-07-22"
     },
     "15109486": {
@@ -4121,6 +4297,22 @@
       "doj": "2026-01-31",
       "dob": "1995-10-09"
     },
+    "15109550": {
+      "name": "Mr.Md. Abu Raihan",
+      "designation": "Associate I",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2026-02-04",
+      "dob": "2004-09-30"
+    },
+    "15109569": {
+      "name": "Ms.Shabrina Akter Poly",
+      "designation": "Executive",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2026-01-31",
+      "dob": "1993-10-02"
+    },
     "15109572": {
       "name": "Mr.Dr. Mortuja Mahmud",
       "designation": "Executive I",
@@ -4153,6 +4345,22 @@
       "doj": "2026-03-01",
       "dob": "1995-09-21"
     },
+    "15109688": {
+      "name": "Ms.Faiza Azam",
+      "designation": "Executive",
+      "department": "Corporate HR",
+      "location": "Ceramics Corporate",
+      "doj": "2026-03-15",
+      "dob": "2002-07-02"
+    },
+    "15109690": {
+      "name": "Mr.Jahid Hossain",
+      "designation": "Brand Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2026-04-04",
+      "dob": "1995-01-01"
+    },
     "15109694": {
       "name": "Mr.Sojib Saha",
       "designation": "Executive",
@@ -4160,6 +4368,46 @@
       "location": "Corporate Office",
       "doj": "2026-03-02",
       "dob": "1998-07-20"
+    },
+    "15109736": {
+      "name": "Mr.Minhaj Mahmood",
+      "designation": "Senior Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2026-03-31",
+      "dob": "1993-12-31"
+    },
+    "15109743": {
+      "name": "Ms.Karina Supti Mondol",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-11-19",
+      "dob": "1996-09-04"
+    },
+    "15109760": {
+      "name": "Mr.Bulbul Ahmed",
+      "designation": "Assistant Manager",
+      "department": "IT Infrastructure",
+      "location": "Corporate Office",
+      "doj": "2026-03-31",
+      "dob": "1991-12-31"
+    },
+    "15109761": {
+      "name": "Mr.Md. Tahmidul Huda",
+      "designation": "Senior Executive",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2026-03-31",
+      "dob": "1995-07-23"
+    },
+    "15109785": {
+      "name": "Mr.Md. Fahim Faysal Hemal",
+      "designation": "Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2026-04-22",
+      "dob": "1998-12-23"
     }
   },
   "records": [
@@ -16472,12 +16720,4523 @@
       "normal": 1,
       "maxrun": 1,
       "swipeAvg": 551
+    },
+    {
+      "id": "15100005",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 67,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15100006",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 133,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15100009",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 94,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15100011",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 241,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 661
+    },
+    {
+      "id": "15100014",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 34,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100015",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 161,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15100016",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 90,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100017",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 48,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100018",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 448,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15100019",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 29,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100020",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 173,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15100021",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 160,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15100022",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100023",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 1030,
+      "consec": 6,
+      "normal": 5,
+      "maxrun": 6,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15100024",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100028",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100029",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 225,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15100031",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 53,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15100032",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 194,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15100033",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 34,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100044",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100045",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 105,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 645
+    },
+    {
+      "id": "15100046",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 28,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15100055",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100058",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 47,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15100060",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100061",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100063",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100065",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 105,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100067",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 235,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 658
+    },
+    {
+      "id": "15100072",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100082",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100083",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 116,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15100086",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 150,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100087",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100088",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 132,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15100090",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 77,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100092",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100096",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15100097",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100099",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 41,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100101",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100104",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 131,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15100106",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 63,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100107",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 66,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15100108",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 720,
+      "consec": 8,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15100110",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 47,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100111",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100119",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 269,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15100123",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100124",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 41,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100131",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100132",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100134",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 407,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15100135",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 277,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15100145",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100147",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 724,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 631
+    },
+    {
+      "id": "15100150",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15100154",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 651,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15100162",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 77,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100164",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 104,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100165",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 154,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 591
+    },
+    {
+      "id": "15100168",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 39,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100169",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 568,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15100170",
+      "ym": "2026-04",
+      "days": 15,
+      "min": 512,
+      "consec": 11,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15100173",
+      "ym": "2026-04",
+      "days": 19,
+      "min": 1318,
+      "consec": 15,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15100184",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100185",
+      "ym": "2026-04",
+      "days": 9,
+      "min": 389,
+      "consec": 6,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15100189",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 256,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 668
+    },
+    {
+      "id": "15100195",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100201",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 330,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15100210",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 29,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15100211",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 108,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100213",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 61,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15100222",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100226",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 124,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 664
+    },
+    {
+      "id": "15100231",
+      "ym": "2026-04",
+      "days": 9,
+      "min": 507,
+      "consec": 5,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15100237",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 186,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15100240",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100252",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 1176,
+      "consec": 8,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 638
+    },
+    {
+      "id": "15100258",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 212,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15100265",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15100267",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 82,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15100277",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 257,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 591
+    },
+    {
+      "id": "15100282",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 468,
+      "consec": 8,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15100286",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100288",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 58,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100289",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 217,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15100303",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 65,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15100372",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 514,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 643
+    },
+    {
+      "id": "15100788",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100927",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 297,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 639
+    },
+    {
+      "id": "15101055",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 388,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15101182",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 73,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15101347",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 176,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15101573",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 229,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15101636",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 223,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15101642",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 102,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15101647",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 515,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 643
+    },
+    {
+      "id": "15101688",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 541,
+      "consec": 10,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15101707",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 54,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15101715",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15101723",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 146,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15101731",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 291,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15101752",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 99,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15101753",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 132,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15101755",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15101758",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 264,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15101784",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15101786",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 58,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15101913",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15101995",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 38,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15102005",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 52,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15102055",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 92,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15102059",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15102060",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15102063",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15102166",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 268,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15102227",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 110,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15102263",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 27,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15102282",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 75,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15102333",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 72,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15102339",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 40,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15102340",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15102552",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15102784",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 53,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15103207",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 351,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15103216",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 44,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15103233",
+      "ym": "2026-04",
+      "days": 20,
+      "min": 2063,
+      "consec": 17,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 643
+    },
+    {
+      "id": "15103275",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 81,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15103279",
+      "ym": "2026-04",
+      "days": 17,
+      "min": 2068,
+      "consec": 13,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15103286",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 40,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15103289",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 529,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15103363",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15103428",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 218,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15103463",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 80,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15103502",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15103503",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103511",
+      "ym": "2026-04",
+      "days": 13,
+      "min": 601,
+      "consec": 7,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15103548",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 183,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 723
+    },
+    {
+      "id": "15103549",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 41,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15103556",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 176,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15103577",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15103596",
+      "ym": "2026-04",
+      "days": 13,
+      "min": 409,
+      "consec": 8,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103618",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 167,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 707
+    },
+    {
+      "id": "15103625",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 129,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15103635",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103703",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 108,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15103704",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 69,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15103721",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 132,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15103726",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 225,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 615
+    },
+    {
+      "id": "15103755",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 175,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15103763",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 105,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15103781",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15103789",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 184,
+      "consec": 8,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15103790",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15103804",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 201,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15103911",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 209,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15103913",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 109,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15103952",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 464,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15103967",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 301,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15103977",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 109,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15103978",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15103982",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 63,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15104012",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104029",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 83,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15104086",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104105",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 341,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 597
+    },
+    {
+      "id": "15104156",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 176,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15104184",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15104203",
+      "ym": "2026-04",
+      "days": 15,
+      "min": 1218,
+      "consec": 9,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15104237",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104242",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15104243",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 145,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15104315",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15104328",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 233,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15104343",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 237,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15104413",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 55,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15104425",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 255,
+      "consec": 6,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15104445",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15104452",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 77,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15104453",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15104473",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15104491",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 1235,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15104492",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15104603",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 409,
+      "consec": 10,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15104653",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 272,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 676
+    },
+    {
+      "id": "15104663",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 84,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15104693",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 510,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15104696",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 29,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104698",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 84,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15104712",
+      "ym": "2026-04",
+      "days": 9,
+      "min": 481,
+      "consec": 5,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15104733",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 89,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 629
+    },
+    {
+      "id": "15104738",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15104742",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15104746",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15104775",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 125,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15104793",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 38,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15104846",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15105038",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 71,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15105057",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 129,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15105058",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 90,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15105062",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 186,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15105176",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15105218",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 191,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15105221",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 323,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15105222",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 168,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15105225",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 174,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15105321",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 522,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 644
+    },
+    {
+      "id": "15105331",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15105346",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 48,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15105358",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 136,
+      "consec": 4,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15105359",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 602,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 640
+    },
+    {
+      "id": "15105370",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15105380",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 2556,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 936
+    },
+    {
+      "id": "15105387",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 84,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15105393",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 92,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15105397",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 139,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15105462",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 67,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15105503",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 76,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105568",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 87,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15105631",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 143,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15105632",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 188,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15105633",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15105635",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105675",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 135,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15105676",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15105699",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 37,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105700",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 55,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15105737",
+      "ym": "2026-04",
+      "days": 17,
+      "min": 1452,
+      "consec": 12,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15105766",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 121,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15105780",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105803",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15105898",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15105926",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 180,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15105927",
+      "ym": "2026-04",
+      "days": 15,
+      "min": 274,
+      "consec": 9,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15105931",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 224,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15105950",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 466,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15105951",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 85,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15105957",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105964",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 417,
+      "consec": 7,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15106004",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 105,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 645
+    },
+    {
+      "id": "15106006",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 50,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15106084",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15106088",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 234,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 657
+    },
+    {
+      "id": "15106110",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 281,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15106146",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 60,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106167",
+      "ym": "2026-04",
+      "days": 14,
+      "min": 483,
+      "consec": 10,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15106217",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15106242",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15106262",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 49,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106263",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 90,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15106264",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 173,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106266",
+      "ym": "2026-04",
+      "days": 9,
+      "min": 1552,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 712
+    },
+    {
+      "id": "15106322",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 160,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15106323",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 113,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15106396",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 50,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15106397",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15106398",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 121,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15106399",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 78,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106436",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 168,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15106438",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15106472",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 131,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15106500",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 1794,
+      "consec": 5,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 703
+    },
+    {
+      "id": "15106507",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 109,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15106517",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 113,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106520",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 928,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 695
+    },
+    {
+      "id": "15106550",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 284,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 635
+    },
+    {
+      "id": "15106594",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 118,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15106595",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 235,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15106628",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 219,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15106636",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 40,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15106676",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 141,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15106683",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 120,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15106724",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 28,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15106726",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 280,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15106768",
+      "ym": "2026-04",
+      "days": 17,
+      "min": 502,
+      "consec": 15,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15106801",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 198,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 639
+    },
+    {
+      "id": "15106852",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 171,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15106884",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 284,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15106949",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 179,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 719
+    },
+    {
+      "id": "15106959",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 358,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 629
+    },
+    {
+      "id": "15106966",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 321,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15106971",
+      "ym": "2026-04",
+      "days": 20,
+      "min": 1180,
+      "consec": 17,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15106976",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 29,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106977",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 223,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15106981",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 185,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106996",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15107019",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 358,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 629
+    },
+    {
+      "id": "15107021",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 45,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15107024",
+      "ym": "2026-04",
+      "days": 17,
+      "min": 728,
+      "consec": 12,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15107036",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 44,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15107080",
+      "ym": "2026-04",
+      "days": 14,
+      "min": 708,
+      "consec": 12,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 591
+    },
+    {
+      "id": "15107096",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 172,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15107148",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 105,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15107155",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 147,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15107177",
+      "ym": "2026-04",
+      "days": 12,
+      "min": 368,
+      "consec": 9,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15107179",
+      "ym": "2026-04",
+      "days": 25,
+      "min": 2454,
+      "consec": 20,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 638
+    },
+    {
+      "id": "15107187",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 177,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15107217",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 54,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15107231",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 55,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107261",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 627,
+      "consec": 8,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15107268",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 170,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15107283",
+      "ym": "2026-04",
+      "days": 16,
+      "min": 573,
+      "consec": 9,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15107303",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 85,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15107323",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 678,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15107332",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 210,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15107333",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 28,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107349",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107399",
+      "ym": "2026-04",
+      "days": 7,
+      "min": 272,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15107405",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 315,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15107406",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 204,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 642
+    },
+    {
+      "id": "15107423",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 138,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15107433",
+      "ym": "2026-04",
+      "days": 14,
+      "min": 1032,
+      "consec": 13,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15107441",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107468",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15107493",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15107521",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107522",
+      "ym": "2026-04",
+      "days": 15,
+      "min": 346,
+      "consec": 11,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15107549",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 354,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15107559",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 64,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15107606",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 50,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107624",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 221,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 651
+    },
+    {
+      "id": "15107631",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 136,
+      "consec": 3,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15107635",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 27,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107643",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 40,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107645",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107678",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 404,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15107730",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 28,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107764",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 87,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107773",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 161,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15107774",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 99,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15107786",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15107797",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 68,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15107799",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 789,
+      "consec": 6,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 612
+    },
+    {
+      "id": "15107804",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 266,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15107807",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 190,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 730
+    },
+    {
+      "id": "15107838",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 56,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107840",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 27,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107841",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107854",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 321,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15107858",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 60,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107957",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 168,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15107958",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 313,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15107964",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 70,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15107965",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 154,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 617
+    },
+    {
+      "id": "15107981",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 530
+    },
+    {
+      "id": "15107983",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 346,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 655
+    },
+    {
+      "id": "15107989",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 96,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107990",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 49,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15107992",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 174,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15107993",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15107998",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 175,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108045",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 255,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15108066",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15108123",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 342,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 711
+    },
+    {
+      "id": "15108131",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 99,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15108132",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 219,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15108150",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108152",
+      "ym": "2026-04",
+      "days": 19,
+      "min": 761,
+      "consec": 13,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15108162",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 133,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15108185",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108193",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 57,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15108208",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 120,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108209",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15108215",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 185,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15108218",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108234",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 145,
+      "consec": 8,
+      "normal": 0,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108237",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 983,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 674
+    },
+    {
+      "id": "15108297",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 58,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15108304",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 455,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15108323",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 386,
+      "consec": 6,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15108372",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108386",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 118,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108392",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 103,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15108398",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 145,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 685
+    },
+    {
+      "id": "15108399",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 92,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15108433",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108438",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 20,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108469",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 43,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15108487",
+      "ym": "2026-04",
+      "days": 17,
+      "min": 1242,
+      "consec": 10,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15108554",
+      "ym": "2026-04",
+      "days": 16,
+      "min": 2678,
+      "consec": 9,
+      "normal": 7,
+      "maxrun": 4,
+      "swipeAvg": 707
+    },
+    {
+      "id": "15108563",
+      "ym": "2026-04",
+      "days": 16,
+      "min": 604,
+      "consec": 13,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15108622",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108673",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15108709",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 73,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108713",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15108726",
+      "ym": "2026-04",
+      "days": 10,
+      "min": 477,
+      "consec": 9,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15108728",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 802,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 640
+    },
+    {
+      "id": "15108729",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 338,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15108730",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 60,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108801",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 119,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15108853",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 144,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15108872",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108873",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 300,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15108874",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 42,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15108875",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 207,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15108890",
+      "ym": "2026-04",
+      "days": 15,
+      "min": 1024,
+      "consec": 11,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15108902",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15108916",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 186,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108923",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 128,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 668
+    },
+    {
+      "id": "15108927",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 68,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15108977",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15109017",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 261,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15109039",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 60,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109072",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 94,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15109106",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 458,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 693
+    },
+    {
+      "id": "15109119",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 219,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15109131",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 381,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15109150",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 379,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15109217",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15109221",
+      "ym": "2026-04",
+      "days": 23,
+      "min": 2581,
+      "consec": 18,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15109248",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 342,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15109249",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 87,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15109250",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 193,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15109260",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 246,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15109261",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 101,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15109263",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 32,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15109287",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 69,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15109318",
+      "ym": "2026-04",
+      "days": 13,
+      "min": 585,
+      "consec": 12,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109322",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 398,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15109323",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 483,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 701
+    },
+    {
+      "id": "15109334",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 289,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15109338",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 110,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15109341",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15109394",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 69,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15109409",
+      "ym": "2026-04",
+      "days": 6,
+      "min": 157,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15109411",
+      "ym": "2026-04",
+      "days": 8,
+      "min": 300,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15109413",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 282,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15109428",
+      "ym": "2026-04",
+      "days": 11,
+      "min": 301,
+      "consec": 10,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15109431",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 125,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15109442",
+      "ym": "2026-04",
+      "days": 14,
+      "min": 595,
+      "consec": 12,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15109484",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 270,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 675
+    },
+    {
+      "id": "15109485",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 158,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15109486",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15109503",
+      "ym": "2026-04",
+      "days": 23,
+      "min": 2582,
+      "consec": 18,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15109530",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 66,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15109537",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 138,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 678
+    },
+    {
+      "id": "15109540",
+      "ym": "2026-04",
+      "days": 4,
+      "min": 105,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15109550",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109569",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 40,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15109573",
+      "ym": "2026-04",
+      "days": 3,
+      "min": 47,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109641",
+      "ym": "2026-04",
+      "days": 5,
+      "min": 92,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109688",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109690",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 66,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15109694",
+      "ym": "2026-04",
+      "days": 2,
+      "min": 69,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15109736",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 191,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 731
+    },
+    {
+      "id": "15109743",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15109760",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 33,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15109761",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109785",
+      "ym": "2026-04",
+      "days": 1,
+      "min": 150,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 690
     }
   ],
   "months": [
     "2026-01",
     "2026-02",
-    "2026-03"
+    "2026-03",
+    "2026-04"
   ],
-  "updatedAt": "2026-08-01T06:58:07.123Z"
+  "updatedAt": "2026-08-01T07:00:59.803Z"
 }
