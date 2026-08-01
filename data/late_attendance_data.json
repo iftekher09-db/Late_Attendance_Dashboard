@@ -457,6 +457,14 @@
       "doj": "2013-05-01",
       "dob": "1984-08-07"
     },
+    "15100105": {
+      "name": "Mr.Md. Nour Hossain Lablu",
+      "designation": "Deputy Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2013-05-24",
+      "dob": "1980-01-01"
+    },
     "15100106": {
       "name": "Mr.AKM Shariful Haque",
       "designation": "Manager",
@@ -673,6 +681,14 @@
       "doj": "2015-05-31",
       "dob": "1990-06-25"
     },
+    "15100180": {
+      "name": "Mr.Shamim Ahmad Sarker",
+      "designation": "Deputy Manager",
+      "department": "Corporate Admin",
+      "location": "Corporate Office",
+      "doj": "2015-07-24",
+      "dob": "1986-01-06"
+    },
     "15100184": {
       "name": "Mr.Md. Abu Suaib Khan",
       "designation": "Senior Manager",
@@ -713,6 +729,14 @@
       "doj": "2013-01-13",
       "dob": "1990-05-30"
     },
+    "15100208": {
+      "name": "Ms.Ananna Azmir",
+      "designation": "Senior Executive",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2015-11-09",
+      "dob": "1990-12-31"
+    },
     "15100210": {
       "name": "Mr.Md. Harun Ur Rashid",
       "designation": "Deputy Manager",
@@ -728,6 +752,14 @@
       "location": "Corporate Office",
       "doj": "2015-11-20",
       "dob": "1968-11-07"
+    },
+    "15100212": {
+      "name": "Mr.Mohammad Ataur Ataur rahman",
+      "designation": "Senior Manager",
+      "department": "Installation and Servicing",
+      "location": "Corporate Office",
+      "doj": "2018-01-14",
+      "dob": "1983-01-01"
     },
     "15100213": {
       "name": "Mr.Md. Tafrikul Alam",
@@ -1166,7 +1198,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2018-02-01",
+      "doj": "2018-01-31",
       "dob": "1988-01-01"
     },
     "15102227": {
@@ -1401,6 +1433,14 @@
       "doj": "2019-02-01",
       "dob": "1981-03-20"
     },
+    "15103537": {
+      "name": "Mr.Shamim Ahmmed",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2016-08-15",
+      "dob": "1992-03-31"
+    },
     "15103548": {
       "name": "Ms.Rehana Akter",
       "designation": "Assistant Manager",
@@ -1446,7 +1486,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Ceramics Corporate",
-      "doj": "2020-12-12",
+      "doj": "2020-12-11",
       "dob": "1983-04-01"
     },
     "15103596": {
@@ -1982,7 +2022,7 @@
       "designation": "Deputy General Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2021-10-06",
+      "doj": "2021-10-05",
       "dob": "1980-12-02"
     },
     "15104852": {
@@ -2361,6 +2401,14 @@
       "doj": "2022-07-15",
       "dob": "1989-12-15"
     },
+    "15105925": {
+      "name": "Mr.Md. Ashikur Rahman",
+      "designation": "Senior Executive",
+      "department": "Sales",
+      "location": "Pharma Corporate",
+      "doj": "2022-07-01",
+      "dob": "1994-06-30"
+    },
     "15105926": {
       "name": "Mr.Md. Sorforajur Rahman",
       "designation": "Senior Portfolio Executive",
@@ -2505,6 +2553,14 @@
       "doj": "2022-09-30",
       "dob": "1993-01-08"
     },
+    "15106212": {
+      "name": "Mr.Pritom Saha",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2022-10-09",
+      "dob": "1991-12-07"
+    },
     "15106217": {
       "name": "Mr.ASM Nazmul Hossain",
       "designation": "Senior Executive",
@@ -2614,7 +2670,7 @@
       "designation": "Assistant Manager",
       "department": "Business Excellence",
       "location": "Ceramics Corporate",
-      "doj": "2022-12-15",
+      "doj": "2022-12-14",
       "dob": "1983-01-01"
     },
     "15106436": {
@@ -2913,6 +2969,14 @@
       "doj": "2023-08-02",
       "dob": "1998-08-06"
     },
+    "15107042": {
+      "name": "Mr.Md. Rafiqul Islam",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2023-08-15",
+      "dob": "1995-08-15"
+    },
     "15107080": {
       "name": "Mr.Subrata Roy",
       "designation": "Assistant Manager",
@@ -2944,6 +3008,14 @@
       "location": "Ceramics Corporate",
       "doj": "2023-09-15",
       "dob": "1989-01-24"
+    },
+    "15107151": {
+      "name": "Mr.Md. Shohel Rana Talukder",
+      "designation": "Assistant General Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2023-09-15",
+      "dob": "1987-10-01"
     },
     "15107155": {
       "name": "Mrs.Nasrin Jahan",
@@ -3678,7 +3750,7 @@
       "designation": "Senior Executive",
       "department": "Merchandising",
       "location": "Lifestyle Corporate",
-      "doj": "2024-12-01",
+      "doj": "2024-11-30",
       "dob": "1996-07-25"
     },
     "15108304": {
@@ -3974,7 +4046,7 @@
       "designation": "Executive",
       "department": "Sales",
       "location": "ECO Thread Corporate",
-      "doj": "2025-07-01",
+      "doj": "2025-06-30",
       "dob": "1999-07-17"
     },
     "15108916": {
@@ -4062,7 +4134,7 @@
       "designation": "Assistant Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-09-01",
+      "doj": "2025-08-31",
       "dob": "1988-01-16"
     },
     "15109131": {
@@ -4088,6 +4160,14 @@
       "location": "Digital Corporate",
       "doj": "2025-08-31",
       "dob": "2000-03-23"
+    },
+    "15109151": {
+      "name": "Mr.Abu Bakar Siddiq",
+      "designation": "Executive I",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2025-09-14",
+      "dob": "1997-10-14"
     },
     "15109217": {
       "name": "Mr.Fazla Hossain Mohaimen",
@@ -4182,7 +4262,7 @@
       "designation": "Junior Executive",
       "department": "Corporate Admin",
       "location": "Corporate Office",
-      "doj": "2025-10-15",
+      "doj": "2025-10-14",
       "dob": "2001-08-19"
     },
     "15109318": {
@@ -4409,6 +4489,14 @@
       "doj": "2026-03-01",
       "dob": "1995-09-21"
     },
+    "15109662": {
+      "name": "Mr.Md. Al Muijul Ekram",
+      "designation": "Senior Executive",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2026-02-28",
+      "dob": "1994-05-08"
+    },
     "15109688": {
       "name": "Ms.Faiza Azam",
       "designation": "Executive",
@@ -4432,6 +4520,14 @@
       "location": "Corporate Office",
       "doj": "2026-03-02",
       "dob": "1998-07-20"
+    },
+    "15109697": {
+      "name": "Mr.Md. Khaled Haider",
+      "designation": "Assistant General Manager",
+      "department": "Corporate HR",
+      "location": "Ceramics Corporate",
+      "doj": "2026-03-27",
+      "dob": "1986-08-25"
     },
     "15109736": {
       "name": "Mr.Minhaj Mahmood",
@@ -4481,6 +4577,14 @@
       "doj": "2026-04-22",
       "dob": "1998-12-23"
     },
+    "15109793": {
+      "name": "Mr.Md. Abir Hossain",
+      "designation": "Product Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2026-05-04",
+      "dob": "1998-12-25"
+    },
     "15109794": {
       "name": "Ms.Rashna Sharmin Binte Zaman Aradhona",
       "designation": "Product Executive",
@@ -4512,6 +4616,54 @@
       "location": "Pharma Corporate",
       "doj": "2026-05-17",
       "dob": "2000-01-01"
+    },
+    "15109868": {
+      "name": "Mr.Md. Tamal Hossain",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2026-06-05",
+      "dob": "1997-07-30"
+    },
+    "15109871": {
+      "name": "Mr.Md. Arman Hossain",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2026-06-07",
+      "dob": "1998-04-15"
+    },
+    "15109877": {
+      "name": "Ms.Najma Akter",
+      "designation": "Senior Executive",
+      "department": "Pre-Audit",
+      "location": "Corporate Office",
+      "doj": "2026-06-09",
+      "dob": "1993-12-02"
+    },
+    "15109880": {
+      "name": "Mr.Abu Fahad Mofassal Hossain Jim",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2026-06-09",
+      "dob": "2003-04-21"
+    },
+    "15109897": {
+      "name": "Ms.Fatema Tuz Zohura",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2026-06-19",
+      "dob": "1991-11-01"
+    },
+    "15109914": {
+      "name": "Mr.Md. Imrul Kayes Bhuiyan",
+      "designation": "Junior Engineer",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2026-06-19",
+      "dob": "2003-01-01"
     }
   },
   "records": [
@@ -25554,6 +25706,4416 @@
       "normal": 1,
       "maxrun": 1,
       "swipeAvg": 676
+    },
+    {
+      "id": "15100005",
+      "ym": "2026-06",
+      "days": 17,
+      "min": 607,
+      "consec": 13,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15100006",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 87,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100011",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 107,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 647
+    },
+    {
+      "id": "15100014",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 26,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100016",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 210,
+      "consec": 9,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100017",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 108,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100018",
+      "ym": "2026-06",
+      "days": 13,
+      "min": 535,
+      "consec": 10,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15100020",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 74,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15100021",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 248,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15100022",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100023",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 450,
+      "consec": 8,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15100028",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100029",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 628,
+      "consec": 6,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15100032",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 123,
+      "consec": 7,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100033",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 37,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100039",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 10,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100044",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 76,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15100045",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 274,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 677
+    },
+    {
+      "id": "15100055",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 277,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15100058",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15100060",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 20,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100065",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 99,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100072",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 73,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15100073",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100077",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 48,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15100082",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 126,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100086",
+      "ym": "2026-06",
+      "days": 13,
+      "min": 606,
+      "consec": 12,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15100088",
+      "ym": "2026-06",
+      "days": 11,
+      "min": 473,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15100090",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 28,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15100092",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 204,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 591
+    },
+    {
+      "id": "15100097",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 297,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 837
+    },
+    {
+      "id": "15100098",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 65,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15100099",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100104",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 214,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15100105",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 35,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100106",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100107",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 114,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15100108",
+      "ym": "2026-06",
+      "days": 18,
+      "min": 849,
+      "consec": 15,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15100110",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 35,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100111",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100113",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100119",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 71,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100124",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 99,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15100131",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100132",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 215,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15100134",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 394,
+      "consec": 7,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15100135",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 95,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15100145",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100147",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 225,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 615
+    },
+    {
+      "id": "15100150",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 21,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15100154",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 1386,
+      "consec": 10,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15100162",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 511,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15100164",
+      "ym": "2026-06",
+      "days": 14,
+      "min": 370,
+      "consec": 8,
+      "normal": 6,
+      "maxrun": 4,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100165",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 125,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100166",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 82,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15100169",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 379,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15100170",
+      "ym": "2026-06",
+      "days": 16,
+      "min": 539,
+      "consec": 12,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15100173",
+      "ym": "2026-06",
+      "days": 19,
+      "min": 1333,
+      "consec": 15,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 610
+    },
+    {
+      "id": "15100180",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 45,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15100185",
+      "ym": "2026-06",
+      "days": 14,
+      "min": 702,
+      "consec": 12,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15100189",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 95,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15100195",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 29,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15100201",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 306,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 642
+    },
+    {
+      "id": "15100208",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15100210",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100211",
+      "ym": "2026-06",
+      "days": 13,
+      "min": 204,
+      "consec": 9,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100212",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100213",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 70,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100226",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 10,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100231",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 374,
+      "consec": 3,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15100237",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100240",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 45,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15100252",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 1627,
+      "consec": 15,
+      "normal": 0,
+      "maxrun": 5,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15100258",
+      "ym": "2026-06",
+      "days": 17,
+      "min": 1400,
+      "consec": 11,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15100267",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 84,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15100277",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 90,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100282",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 402,
+      "consec": 10,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15100288",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 29,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100289",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 185,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15100301",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 24,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100303",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 155,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15100372",
+      "ym": "2026-06",
+      "days": 20,
+      "min": 1596,
+      "consec": 15,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15100712",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 240,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 780
+    },
+    {
+      "id": "15100788",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100927",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 486,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 662
+    },
+    {
+      "id": "15101055",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 399,
+      "consec": 9,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15101347",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15101573",
+      "ym": "2026-06",
+      "days": 18,
+      "min": 1652,
+      "consec": 17,
+      "normal": 1,
+      "maxrun": 6,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15101636",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 144,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 539
+    },
+    {
+      "id": "15101642",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 135,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15101647",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 175,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15101688",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 139,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15101706",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 25,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15101707",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 38,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15101715",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 20,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15101723",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 183,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 723
+    },
+    {
+      "id": "15101731",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 224,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 615
+    },
+    {
+      "id": "15101752",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 70,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15101753",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 304,
+      "consec": 3,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15101758",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 492,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15101784",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 46,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15101786",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 26,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15101995",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 133,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15102055",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 204,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15102060",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 66,
+      "consec": 4,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15102063",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15102166",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 396,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15102225",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 81,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15102227",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 113,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15102244",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 32,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15102246",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 36,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15102282",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15102333",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 379,
+      "consec": 7,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15102784",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 57,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15103207",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 295,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15103216",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 105,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 645
+    },
+    {
+      "id": "15103233",
+      "ym": "2026-06",
+      "days": 23,
+      "min": 1790,
+      "consec": 21,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15103275",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 80,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15103279",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 628,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15103289",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 369,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15103298",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15103428",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 202,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 591
+    },
+    {
+      "id": "15103460",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 139,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15103463",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 26,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15103502",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 119,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15103503",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 87,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15103505",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 83,
+      "consec": 6,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15103511",
+      "ym": "2026-06",
+      "days": 17,
+      "min": 599,
+      "consec": 15,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15103537",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 127,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15103548",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15103556",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 234,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15103588",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 106,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15103590",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 10,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15103596",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 92,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15103618",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 255,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 795
+    },
+    {
+      "id": "15103635",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 49,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15103703",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15103704",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 47,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15103721",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 56,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15103726",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 190,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15103755",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 70,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 610
+    },
+    {
+      "id": "15103763",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15103789",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 266,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15103790",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 101,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15103804",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 248,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103911",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 40,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15103952",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 183,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103967",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 464,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15103977",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15103982",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 361,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15104086",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15104105",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15104156",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 478,
+      "consec": 5,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15104203",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 835,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15104227",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 159,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15104237",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 441,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 650
+    },
+    {
+      "id": "15104242",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 32,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15104243",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 37,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15104315",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 75,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15104328",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 209,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15104343",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 272,
+      "consec": 6,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15104413",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 290,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15104425",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 93,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15104445",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15104452",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 77,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 523
+    },
+    {
+      "id": "15104453",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 64,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15104473",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 203,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15104491",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 1100,
+      "consec": 14,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15104492",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 154,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15104603",
+      "ym": "2026-06",
+      "days": 11,
+      "min": 789,
+      "consec": 5,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15104653",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 245,
+      "consec": 3,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15104663",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 86,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15104693",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 383,
+      "consec": 5,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15104696",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 50,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15104712",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 265,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15104735",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 182,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 722
+    },
+    {
+      "id": "15104742",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 178,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 629
+    },
+    {
+      "id": "15104746",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 86,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15104748",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 38,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15104775",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 541,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15104809",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15104846",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 127,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15104850",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15105038",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105057",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 148,
+      "consec": 3,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105176",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 210,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 645
+    },
+    {
+      "id": "15105218",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 318,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15105221",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 471,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15105222",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 153,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15105225",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 177,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15105321",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 608,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 662
+    },
+    {
+      "id": "15105346",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 112,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15105358",
+      "ym": "2026-06",
+      "days": 18,
+      "min": 255,
+      "consec": 16,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15105359",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 242,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105370",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 38,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15105380",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 3469,
+      "consec": 10,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 799
+    },
+    {
+      "id": "15105387",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 69,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15105393",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 96,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105397",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 386,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15105462",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 43,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15105475",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 76,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15105503",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 530,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15105568",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 582,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 598
+    },
+    {
+      "id": "15105631",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 472,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 604
+    },
+    {
+      "id": "15105632",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 141,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15105633",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 158,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15105668",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 23,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15105675",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 144,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15105676",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 38,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15105699",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 41,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15105737",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 152,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 692
+    },
+    {
+      "id": "15105766",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 101,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 641
+    },
+    {
+      "id": "15105786",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 86,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15105803",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15105898",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15105925",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 10,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 515
+    },
+    {
+      "id": "15105926",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 581,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15105927",
+      "ym": "2026-06",
+      "days": 17,
+      "min": 454,
+      "consec": 14,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15105928",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 106,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15105931",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 214,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15105950",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 229,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15105957",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15105964",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 598,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 640
+    },
+    {
+      "id": "15106006",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 304,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 692
+    },
+    {
+      "id": "15106084",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 29,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15106088",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15106110",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 485,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15106121",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 191,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15106146",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 173,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 627
+    },
+    {
+      "id": "15106167",
+      "ym": "2026-06",
+      "days": 21,
+      "min": 860,
+      "consec": 16,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15106212",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15106242",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106262",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 44,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15106263",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 315,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 619
+    },
+    {
+      "id": "15106264",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 38,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15106266",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 1424,
+      "consec": 6,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15106322",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 279,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 650
+    },
+    {
+      "id": "15106323",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 113,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 597
+    },
+    {
+      "id": "15106388",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 255,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 668
+    },
+    {
+      "id": "15106396",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 61,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106397",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15106398",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 112,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15106399",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15106422",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 20,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15106436",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 135,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106438",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 86,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106470",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 33,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15106472",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 74,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15106500",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 2927,
+      "consec": 9,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 735
+    },
+    {
+      "id": "15106507",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 106,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15106517",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 102,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106520",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 478,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15106550",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 248,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 664
+    },
+    {
+      "id": "15106594",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 157,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15106595",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 97,
+      "consec": 6,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15106628",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 1265,
+      "consec": 13,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15106636",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15106676",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 280,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15106683",
+      "ym": "2026-06",
+      "days": 11,
+      "min": 343,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15106724",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 49,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106726",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 148,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15106768",
+      "ym": "2026-06",
+      "days": 17,
+      "min": 547,
+      "consec": 16,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15106884",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 367,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15106949",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 68,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15106959",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 531,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 643
+    },
+    {
+      "id": "15106966",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 87,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15106971",
+      "ym": "2026-06",
+      "days": 19,
+      "min": 1164,
+      "consec": 17,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15106976",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 133,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15106977",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 94,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15106981",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 329,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15106996",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15107019",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 562,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 791
+    },
+    {
+      "id": "15107021",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 112,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15107024",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 398,
+      "consec": 7,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15107036",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 64,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15107042",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15107080",
+      "ym": "2026-06",
+      "days": 12,
+      "min": 424,
+      "consec": 7,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15107096",
+      "ym": "2026-06",
+      "days": 21,
+      "min": 403,
+      "consec": 17,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107148",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 257,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 669
+    },
+    {
+      "id": "15107151",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107155",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 107,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15107177",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 371,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15107179",
+      "ym": "2026-06",
+      "days": 23,
+      "min": 2735,
+      "consec": 17,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15107187",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 52,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 520
+    },
+    {
+      "id": "15107217",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15107231",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15107261",
+      "ym": "2026-06",
+      "days": 18,
+      "min": 2058,
+      "consec": 17,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15107268",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 887,
+      "consec": 2,
+      "normal": 7,
+      "maxrun": 2,
+      "swipeAvg": 639
+    },
+    {
+      "id": "15107283",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 139,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107303",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 76,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15107323",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 560,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15107332",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 79,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107333",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 93,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15107349",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15107399",
+      "ym": "2026-06",
+      "days": 14,
+      "min": 360,
+      "consec": 10,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15107405",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 243,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15107406",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 196,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15107433",
+      "ym": "2026-06",
+      "days": 22,
+      "min": 2289,
+      "consec": 21,
+      "normal": 1,
+      "maxrun": 6,
+      "swipeAvg": 644
+    },
+    {
+      "id": "15107441",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 353,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15107511",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 36,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15107522",
+      "ym": "2026-06",
+      "days": 25,
+      "min": 701,
+      "consec": 21,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107549",
+      "ym": "2026-06",
+      "days": 11,
+      "min": 318,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15107609",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 41,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107624",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 595,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15107631",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 130,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15107635",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 22,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15107645",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15107678",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 320,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 647
+    },
+    {
+      "id": "15107730",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 318,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15107747",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 62,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15107764",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15107773",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 48,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15107774",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 731,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15107786",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 31,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15107797",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 405,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 641
+    },
+    {
+      "id": "15107799",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 562,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15107804",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 324,
+      "consec": 6,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15107807",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 198,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107812",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 221,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15107838",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107840",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 72,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15107854",
+      "ym": "2026-06",
+      "days": 11,
+      "min": 145,
+      "consec": 6,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15107858",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 221,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15107957",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 60,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107958",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 220,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15107964",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 60,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15107965",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 137,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15107989",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 365,
+      "consec": 5,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15107990",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 81,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107992",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 112,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15107993",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15107998",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 157,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15108045",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 82,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15108049",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 110,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15108088",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 85,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15108123",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15108131",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 50,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108132",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 131,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15108150",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 76,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15108152",
+      "ym": "2026-06",
+      "days": 19,
+      "min": 1468,
+      "consec": 16,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 617
+    },
+    {
+      "id": "15108162",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 192,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15108185",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 26,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15108192",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 154,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15108193",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 55,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15108208",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 18,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108209",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15108215",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 169,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15108234",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 44,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108237",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 448,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15108297",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 20,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15108298",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 231,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 771
+    },
+    {
+      "id": "15108304",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 69,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108323",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 372,
+      "consec": 7,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15108335",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 281,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15108372",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15108386",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 205,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15108392",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108398",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15108399",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 220,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15108437",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 159,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15108444",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 45,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15108487",
+      "ym": "2026-06",
+      "days": 22,
+      "min": 2534,
+      "consec": 12,
+      "normal": 10,
+      "maxrun": 4,
+      "swipeAvg": 655
+    },
+    {
+      "id": "15108551",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 53,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15108554",
+      "ym": "2026-06",
+      "days": 24,
+      "min": 2689,
+      "consec": 16,
+      "normal": 8,
+      "maxrun": 4,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15108563",
+      "ym": "2026-06",
+      "days": 16,
+      "min": 874,
+      "consec": 12,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15108709",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 146,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15108726",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 198,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15108729",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 188,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15108730",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15108801",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 94,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15108853",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 274,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15108872",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 69,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15108873",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 353,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15108874",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15108875",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 176,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15108890",
+      "ym": "2026-06",
+      "days": 15,
+      "min": 1272,
+      "consec": 11,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 625
+    },
+    {
+      "id": "15108902",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 156,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 696
+    },
+    {
+      "id": "15108915",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 75,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15108916",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 103,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108923",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 251,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 666
+    },
+    {
+      "id": "15108927",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 214,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15108959",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 136,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15108977",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 339,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 710
+    },
+    {
+      "id": "15109017",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 439,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15109039",
+      "ym": "2026-06",
+      "days": 8,
+      "min": 140,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109072",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 119,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15109106",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 332,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 706
+    },
+    {
+      "id": "15109119",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 280,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 610
+    },
+    {
+      "id": "15109121",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15109131",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 264,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15109150",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 341,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 711
+    },
+    {
+      "id": "15109151",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 152,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15109221",
+      "ym": "2026-06",
+      "days": 21,
+      "min": 3069,
+      "consec": 17,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 686
+    },
+    {
+      "id": "15109248",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 274,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15109249",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 41,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109250",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 256,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15109260",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 246,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15109261",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 49,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15109287",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 304,
+      "consec": 2,
+      "normal": 8,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15109289",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 18,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15109318",
+      "ym": "2026-06",
+      "days": 14,
+      "min": 697,
+      "consec": 12,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15109322",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 86,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15109323",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 55,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109334",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 269,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 630
+    },
+    {
+      "id": "15109341",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15109409",
+      "ym": "2026-06",
+      "days": 9,
+      "min": 423,
+      "consec": 6,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15109411",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 556,
+      "consec": 4,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15109413",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 204,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 642
+    },
+    {
+      "id": "15109428",
+      "ym": "2026-06",
+      "days": 13,
+      "min": 555,
+      "consec": 8,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15109431",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 161,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15109442",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 112,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15109484",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 644,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 701
+    },
+    {
+      "id": "15109485",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 297,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15109486",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 57,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 597
+    },
+    {
+      "id": "15109503",
+      "ym": "2026-06",
+      "days": 26,
+      "min": 2795,
+      "consec": 21,
+      "normal": 5,
+      "maxrun": 6,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15109530",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 55,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15109537",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 187,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15109540",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 10,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15109550",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 168,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 708
+    },
+    {
+      "id": "15109572",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 214,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15109573",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 93,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15109587",
+      "ym": "2026-06",
+      "days": 10,
+      "min": 626,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15109641",
+      "ym": "2026-06",
+      "days": 6,
+      "min": 180,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15109662",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109688",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 5,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15109690",
+      "ym": "2026-06",
+      "days": 5,
+      "min": 390,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15109694",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 37,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15109697",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 216,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 612
+    },
+    {
+      "id": "15109743",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 148,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109761",
+      "ym": "2026-06",
+      "days": 3,
+      "min": 400,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15109785",
+      "ym": "2026-06",
+      "days": 7,
+      "min": 81,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15109793",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 125,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15109794",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 148,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15109806",
+      "ym": "2026-06",
+      "days": 4,
+      "min": 45,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15109825",
+      "ym": "2026-06",
+      "days": 22,
+      "min": 2405,
+      "consec": 12,
+      "normal": 10,
+      "maxrun": 4,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15109868",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 78,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15109871",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 119,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15109877",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15109880",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 106,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15109897",
+      "ym": "2026-06",
+      "days": 1,
+      "min": 103,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 643
+    },
+    {
+      "id": "15109914",
+      "ym": "2026-06",
+      "days": 2,
+      "min": 456,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 768
     }
   ],
   "months": [
@@ -25561,7 +30123,8 @@
     "2026-02",
     "2026-03",
     "2026-04",
-    "2026-05"
+    "2026-05",
+    "2026-06"
   ],
-  "updatedAt": "2026-08-01T07:01:16.243Z"
+  "updatedAt": "2026-08-01T07:03:08.260Z"
 }
