@@ -1,7 +1,7373 @@
 {
   "version": 2,
-  "employees": {},
-  "records": [],
-  "months": [],
-  "updatedAt": "2026-08-09T07:43:32.514Z"
+  "employees": {
+    "15100005": {
+      "name": "Mr.Mizanur Rahman Chowdhury",
+      "designation": "Deputy General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "1993-07-15",
+      "dob": "1967-07-07"
+    },
+    "15100006": {
+      "name": "Mr.Md. Muzaffar Hussain",
+      "designation": "General Manager",
+      "department": "Logistics",
+      "location": "Corporate Office",
+      "doj": "1995-11-01",
+      "dob": "1954-09-01"
+    },
+    "15100015": {
+      "name": "Mr.Md. Abu Hannan",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2001-09-09",
+      "dob": "1971-01-01"
+    },
+    "15100016": {
+      "name": "Mr.Md. Ibrahim Bhuiyan",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2002-01-22",
+      "dob": "1977-03-05"
+    },
+    "15100017": {
+      "name": "Mr.Mohammod Habibur Rahman",
+      "designation": "Senior Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2002-09-17",
+      "dob": "1975-11-28"
+    },
+    "15100018": {
+      "name": "Mr.Md. Zahid Ullah",
+      "designation": "Chief Sustainability Officer",
+      "department": "Sustainability",
+      "location": "Corporate Office",
+      "doj": "2003-01-01",
+      "dob": "1970-03-31"
+    },
+    "15100021": {
+      "name": "Mr.Md. Shahidul Islam",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2003-06-12",
+      "dob": "1975-12-10"
+    },
+    "15100022": {
+      "name": "Mr.Md. Moniruzzaman Khan",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2003-07-19",
+      "dob": "1968-08-11"
+    },
+    "15100023": {
+      "name": "Mr.Md. Nasir Uddin Munsi",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2003-07-20",
+      "dob": "1974-01-02"
+    },
+    "15100024": {
+      "name": "Mr.Fachiul Fachiul Alam",
+      "designation": "Deputy Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2004-01-15",
+      "dob": "1981-01-01"
+    },
+    "15100025": {
+      "name": "Mr.Shah Alam",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2004-06-02",
+      "dob": "1977-05-01"
+    },
+    "15100029": {
+      "name": "Mr.Md. Mehedi Alam",
+      "designation": "Additional General Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2005-06-08",
+      "dob": "1977-01-01"
+    },
+    "15100032": {
+      "name": "Mr.Md. Ahsanul Islam",
+      "designation": "Additional General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2010-04-17",
+      "dob": "1976-01-01"
+    },
+    "15100034": {
+      "name": "Mr.Md. Anamul Karim",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2009-01-28",
+      "dob": "1984-08-06"
+    },
+    "15100043": {
+      "name": "Mr.MMG Kaiser",
+      "designation": "Deputy Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2010-04-10",
+      "dob": "1971-06-28"
+    },
+    "15100044": {
+      "name": "Mr.Md. Shamim Reza",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2008-06-09",
+      "dob": "1981-12-25"
+    },
+    "15100045": {
+      "name": "Mr.Mohammad Shakirul Kabir",
+      "designation": "Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2009-10-07",
+      "dob": "1984-10-16"
+    },
+    "15100046": {
+      "name": "Mr.Md. Delwar Hossain",
+      "designation": "Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2001-03-25",
+      "dob": "1954-05-10"
+    },
+    "15100052": {
+      "name": "Mr.Sayed Mohammed Ziaul Alam",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2008-12-01",
+      "dob": "1975-01-15"
+    },
+    "15100058": {
+      "name": "Mr.Md. Abdus Salek",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2010-01-02",
+      "dob": "1976-02-03"
+    },
+    "15100061": {
+      "name": "Mr.Moniruzzaman Khan",
+      "designation": "Assistant General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2010-02-27",
+      "dob": "1980-06-25"
+    },
+    "15100063": {
+      "name": "Mr.Mohammad Monirul Hasan",
+      "designation": "Senior Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2010-04-15",
+      "dob": "1978-01-01"
+    },
+    "15100065": {
+      "name": "Mr.Md. Waliullah Faruki",
+      "designation": "Deputy General Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2010-11-01",
+      "dob": "1970-01-24"
+    },
+    "15100067": {
+      "name": "Mr.Md. Sazzad Hossain",
+      "designation": "Senior Programmer",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2011-04-10",
+      "dob": "1990-12-10"
+    },
+    "15100082": {
+      "name": "Mr.Md. Shah Alam Miah",
+      "designation": "Secretary",
+      "department": "Board and Company Affairs",
+      "location": "Corporate Office",
+      "doj": "2012-03-01",
+      "dob": "1968-09-30"
+    },
+    "15100083": {
+      "name": "Mr.Md. Tajul Islam Bhuiyan",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2012-03-17",
+      "dob": "1984-12-31"
+    },
+    "15100086": {
+      "name": "Mr.Md. Rafiqul Amin Rizvy",
+      "designation": "Assistant General Manager",
+      "department": "Director's Secretariat",
+      "location": "Corporate Office",
+      "doj": "2012-06-03",
+      "dob": "1981-07-10"
+    },
+    "15100090": {
+      "name": "Mr.Md. Abdullah Al Imam",
+      "designation": "Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2012-09-02",
+      "dob": "1987-12-18"
+    },
+    "15100092": {
+      "name": "Mr.Md. Humayun Kabir Prodhania",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2012-11-10",
+      "dob": "1974-01-01"
+    },
+    "15100096": {
+      "name": "Mr.Syed Mehdi Islam",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2013-01-07",
+      "dob": "1987-11-10"
+    },
+    "15100097": {
+      "name": "Mr.Mahmudur Rahman",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2013-01-24",
+      "dob": "1980-05-16"
+    },
+    "15100099": {
+      "name": "Mr.Quazi Tanvir Rashid",
+      "designation": "Deputy General Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2013-04-04",
+      "dob": "1972-01-27"
+    },
+    "15100103": {
+      "name": "Mr.Mohammad Moshin Manik",
+      "designation": "Assistant General Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2013-05-02",
+      "dob": "1977-01-08"
+    },
+    "15100104": {
+      "name": "Mr.Mashook Mujib Chowdhury",
+      "designation": "Senior Manager",
+      "department": "Sustainability",
+      "location": "Corporate Office",
+      "doj": "2013-05-02",
+      "dob": "1984-08-07"
+    },
+    "15100107": {
+      "name": "Mr.Abu Saleh Mohammed Iftekher Nur",
+      "designation": "Deputy General Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2003-04-08",
+      "dob": "1977-07-09"
+    },
+    "15100108": {
+      "name": "Mr.Khandakar Rashedul Islam",
+      "designation": "Assistant General Manager",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2019-09-01",
+      "dob": "1984-11-21"
+    },
+    "15100110": {
+      "name": "Mr.Md. Didar Ul alam Ananda",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2013-07-17",
+      "dob": "1988-02-06"
+    },
+    "15100113": {
+      "name": "Mr.S.M. Atikul Alam Salamy",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2013-08-20",
+      "dob": "1984-05-21"
+    },
+    "15100118": {
+      "name": "Mr.Mohammad Mizanur Rahman",
+      "designation": "Deputy Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2013-09-21",
+      "dob": "1979-02-02"
+    },
+    "15100119": {
+      "name": "Mr.Md. Masudur Rahman Siddiqui",
+      "designation": "Deputy Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2013-11-02",
+      "dob": "1989-01-01"
+    },
+    "15100123": {
+      "name": "Mr.Md. Arifur Rahman",
+      "designation": "Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2014-01-11",
+      "dob": "1982-07-22"
+    },
+    "15100124": {
+      "name": "Mr.Md. Anisuzzaman",
+      "designation": "Assistant Manager",
+      "department": "Board and Company Affairs",
+      "location": "Corporate Office",
+      "doj": "2014-01-25",
+      "dob": "1984-01-01"
+    },
+    "15100132": {
+      "name": "Mr.Mohammad Abdullah Al-Rabbi",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2014-04-16",
+      "dob": "1987-05-25"
+    },
+    "15100134": {
+      "name": "Mr.Mohammad Majedul Bhuiyan",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2014-05-03",
+      "dob": "1985-07-12"
+    },
+    "15100135": {
+      "name": "Mr.Md. AlAmin Sapon",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2014-05-03",
+      "dob": "1986-06-28"
+    },
+    "15100147": {
+      "name": "Mr.Md. Aminul Islam",
+      "designation": "Assistant General Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2014-10-11",
+      "dob": "1980-01-02"
+    },
+    "15100154": {
+      "name": "Mr.Sazzad Bin Yusuf",
+      "designation": "Manager",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2015-01-05",
+      "dob": "1988-09-17"
+    },
+    "15100162": {
+      "name": "Mr.Talukder Mohammad Jakir",
+      "designation": "Manager",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2017-09-01",
+      "dob": "1989-07-10"
+    },
+    "15100164": {
+      "name": "Mr.Md. Sulaiman Hosen",
+      "designation": "Assistant Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2015-04-15",
+      "dob": "1990-03-14"
+    },
+    "15100165": {
+      "name": "Mr.Md. Nur E Alom",
+      "designation": "Senior Executive",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2015-04-15",
+      "dob": "1991-05-27"
+    },
+    "15100168": {
+      "name": "Mr.Md. Abu Mahmood",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2015-05-05",
+      "dob": "1980-08-19"
+    },
+    "15100170": {
+      "name": "Mr.Rezwan Habib",
+      "designation": "Head of Operation",
+      "department": "Operations",
+      "location": "Lifestyle Corporate",
+      "doj": "2015-05-16",
+      "dob": "1988-09-10"
+    },
+    "15100173": {
+      "name": "Ms.Shahida Sharmin",
+      "designation": "Manager",
+      "department": "Planning and Implementation",
+      "location": "Corporate Office",
+      "doj": "2015-06-01",
+      "dob": "1990-06-25"
+    },
+    "15100184": {
+      "name": "Mr.Md. Abu Suaib Khan",
+      "designation": "Senior Manager",
+      "department": "Corporate Admin",
+      "location": "Corporate Office",
+      "doj": "2015-08-01",
+      "dob": "1979-02-01"
+    },
+    "15100185": {
+      "name": "Mr.Md. Remaz Uddin",
+      "designation": "Manager",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2015-08-01",
+      "dob": "1989-10-24"
+    },
+    "15100189": {
+      "name": "Mr.Md. Jahid Imran",
+      "designation": "Senior Executive",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2015-08-25",
+      "dob": "1993-12-19"
+    },
+    "15100195": {
+      "name": "Mr.Md. Asaduzzaman",
+      "designation": "Deputy Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2015-10-01",
+      "dob": "1985-02-25"
+    },
+    "15100201": {
+      "name": "Mr.Md. Imrul Hasan",
+      "designation": "Head of IT",
+      "department": "IT Infrastructure and Operations",
+      "location": "Corporate Office",
+      "doj": "2013-01-14",
+      "dob": "1990-05-30"
+    },
+    "15100211": {
+      "name": "Mr.Mohammad Jakaria Chowdhury",
+      "designation": "Additional General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2015-11-21",
+      "dob": "1968-11-07"
+    },
+    "15100213": {
+      "name": "Mr.Md. Tafrikul Alam",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2015-12-01",
+      "dob": "1987-02-15"
+    },
+    "15100231": {
+      "name": "Mr.Md. Sazedur Rahman",
+      "designation": "Senior Manager",
+      "department": "Planning and Implementation",
+      "location": "Corporate Office",
+      "doj": "2016-04-16",
+      "dob": "1989-11-03"
+    },
+    "15100237": {
+      "name": "Ms.Tasmiah Tazim",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2016-07-16",
+      "dob": "1991-01-19"
+    },
+    "15100248": {
+      "name": "Mr.Mujtaba Ali",
+      "designation": "Assistant General Manager",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2016-08-16",
+      "dob": "1975-02-01"
+    },
+    "15100252": {
+      "name": "Mr.Md. Shakhawat Hossain",
+      "designation": "Chief Executive Officer",
+      "department": "Operations",
+      "location": "ECO Thread Corporate",
+      "doj": "2016-09-17",
+      "dob": "1973-05-15"
+    },
+    "15100258": {
+      "name": "Mr.Riazul Hasan Shishir",
+      "designation": "Deputy Manager",
+      "department": "Planning and Implementation",
+      "location": "Corporate Office",
+      "doj": "2016-10-01",
+      "dob": "1992-12-29"
+    },
+    "15100267": {
+      "name": "Mr.Md. Nur A Alam",
+      "designation": "Senior Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2016-12-01",
+      "dob": "1980-11-20"
+    },
+    "15100277": {
+      "name": "Mr.Md. Abdul Majid",
+      "designation": "Deputy General Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2017-01-16",
+      "dob": "1982-11-11"
+    },
+    "15100282": {
+      "name": "Mr.Md. Kaziul Islam",
+      "designation": "Deputy General Manager",
+      "department": "IT Infrastructure",
+      "location": "Digital Corporate",
+      "doj": "2017-02-01",
+      "dob": "1983-11-02"
+    },
+    "15100286": {
+      "name": "Mr.Md. Rafiqul Islam",
+      "designation": "Deputy Manager",
+      "department": "Brand and Communication",
+      "location": "Corporate Office",
+      "doj": "2017-02-01",
+      "dob": "1985-02-21"
+    },
+    "15100288": {
+      "name": "Mr.Md. Mustafizur Rahman",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2017-03-01",
+      "dob": "1978-12-16"
+    },
+    "15100289": {
+      "name": "Mr.Abdur Rahman",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2017-03-01",
+      "dob": "1988-01-01"
+    },
+    "15100301": {
+      "name": "Mr.Md. Forhad Ali",
+      "designation": "Manager",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2001-10-21",
+      "dob": "1981-05-05"
+    },
+    "15100303": {
+      "name": "Mr.Al Masud",
+      "designation": "Assistant Manager",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2013-05-02",
+      "dob": "1983-05-12"
+    },
+    "15100304": {
+      "name": "Mr.Suresh Paik",
+      "designation": "Assistant Manager",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2014-10-11",
+      "dob": "1990-05-04"
+    },
+    "15100372": {
+      "name": "Mr.Mohammad Bayazed Bashar",
+      "designation": "Chief Business Officer",
+      "department": "Operations",
+      "location": "Ceramics Corporate",
+      "doj": "2007-08-05",
+      "dob": "1984-11-16"
+    },
+    "15100712": {
+      "name": "Mr.Md. Momen Sarker",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2012-06-04",
+      "dob": "1983-05-04"
+    },
+    "15100788": {
+      "name": "Mr.Humayun Molla",
+      "designation": "Senior Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2013-12-09",
+      "dob": "1983-12-31"
+    },
+    "15100792": {
+      "name": "Mr.Md. Abdullah Al Mamun",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2014-01-01",
+      "dob": "1985-05-10"
+    },
+    "15100927": {
+      "name": "Mr.A.N. Tanvir Ahmed",
+      "designation": "Deputy Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2016-03-15",
+      "dob": "1981-03-24"
+    },
+    "15101055": {
+      "name": "Mr.Md. Golam Kibria",
+      "designation": "Additional General Manager",
+      "department": "Land and Legal Affairs",
+      "location": "Corporate Office",
+      "doj": "2005-07-02",
+      "dob": "1970-03-02"
+    },
+    "15101182": {
+      "name": "Mr.Nilkamal Sarker",
+      "designation": "Deputy Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2008-02-10",
+      "dob": "1986-12-08"
+    },
+    "15101347": {
+      "name": "Mr.Md. Omar Faruq",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2014-08-10",
+      "dob": "1986-12-30"
+    },
+    "15101573": {
+      "name": "Mr.Murtoza Mamun Al Azim",
+      "designation": "Senior Manager",
+      "department": "Merchandising",
+      "location": "Atelier Office",
+      "doj": "2010-12-01",
+      "dob": "1980-12-18"
+    },
+    "15101636": {
+      "name": "Mr.Md. Rajaul Karim",
+      "designation": "Senior Marketing Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2017-04-01",
+      "dob": "1982-05-21"
+    },
+    "15101642": {
+      "name": "Mrs.Sharmin Afroz",
+      "designation": "Manager",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2017-04-05",
+      "dob": "1985-09-14"
+    },
+    "15101647": {
+      "name": "Mr.Mohammed Monjur Hossen Patwary",
+      "designation": "Manager",
+      "department": "Marketing",
+      "location": "Corporate Office",
+      "doj": "2017-04-02",
+      "dob": "1981-01-01"
+    },
+    "15101660": {
+      "name": "Mr.Muhammad Ibrahim",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2017-05-02",
+      "dob": "1989-12-01"
+    },
+    "15101664": {
+      "name": "Mr.Md. Mamunur Rashid",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2017-05-02",
+      "dob": "1984-11-03"
+    },
+    "15101688": {
+      "name": "Mr.Muhammad Liton Fakir",
+      "designation": "Manager",
+      "department": "Sales and Marketing",
+      "location": "Corporate Office",
+      "doj": "2015-04-11",
+      "dob": "1988-06-12"
+    },
+    "15101706": {
+      "name": "Mr.Md Monjurul Alam",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2017-06-01",
+      "dob": "1992-04-20"
+    },
+    "15101707": {
+      "name": "Mr.Abu Noman Sohel Rana",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2017-06-01",
+      "dob": "1985-01-10"
+    },
+    "15101715": {
+      "name": "Mr.Md. Kamruzzaman",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2017-06-05",
+      "dob": "1988-10-25"
+    },
+    "15101723": {
+      "name": "Mr.Mohammad Mosharaf Hossain",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2017-06-15",
+      "dob": "1982-05-25"
+    },
+    "15101731": {
+      "name": "Mr.Md. Tanimul Azad Rifat",
+      "designation": "Deputy Manager",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2017-06-15",
+      "dob": "1988-01-31"
+    },
+    "15101752": {
+      "name": "Mr.Md. Rayhan Hossain",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2017-07-01",
+      "dob": "1982-10-26"
+    },
+    "15101753": {
+      "name": "Mr.Md. Qudrat E Khoda",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2017-07-01",
+      "dob": "1983-05-05"
+    },
+    "15101758": {
+      "name": "Mr.Md. Jahurul Islam",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2017-07-01",
+      "dob": "1980-06-04"
+    },
+    "15101786": {
+      "name": "Mr.Md. Amanur Rahman",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2017-07-15",
+      "dob": "1990-11-16"
+    },
+    "15101913": {
+      "name": "Mr.Md. Tanvir Hossain",
+      "designation": "Senior Manager",
+      "department": "Customer Service and Research",
+      "location": "Ceramics Corporate",
+      "doj": "2017-09-20",
+      "dob": "1986-07-08"
+    },
+    "15101995": {
+      "name": "Mr.Mohammad Asifur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2017-11-01",
+      "dob": "1990-08-03"
+    },
+    "15102005": {
+      "name": "Mr.Mohammad Sabbir Reza",
+      "designation": "Deputy General Manager",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2017-11-01",
+      "dob": "1971-03-17"
+    },
+    "15102055": {
+      "name": "Mr.Mujahidul Islam",
+      "designation": "Deputy Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2017-12-03",
+      "dob": "1985-11-01"
+    },
+    "15102059": {
+      "name": "Mr.Mohammad Nazrul Islam",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2017-12-03",
+      "dob": "1988-01-01"
+    },
+    "15102060": {
+      "name": "Mr.A.B.M Emdadul Haque",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2017-12-03",
+      "dob": "1991-12-10"
+    },
+    "15102166": {
+      "name": "Mr.A. K. M. Aleptagin",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2018-01-15",
+      "dob": "1988-12-18"
+    },
+    "15102225": {
+      "name": "Mr.Ajgarar Rahaman",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2018-02-01",
+      "dob": "1988-01-01"
+    },
+    "15102227": {
+      "name": "Mr.Shekh Nur Mohammad",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2018-02-15",
+      "dob": "1982-11-14"
+    },
+    "15102244": {
+      "name": "Mr.Md. Mahbubur Rahman",
+      "designation": "Senior Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2018-03-01",
+      "dob": "1985-03-01"
+    },
+    "15102246": {
+      "name": "Mr.Nayem Shahariar",
+      "designation": "Deputy Manager",
+      "department": "Planning and Implementation",
+      "location": "Ceramics Corporate",
+      "doj": "2018-02-02",
+      "dob": "1994-12-31"
+    },
+    "15102263": {
+      "name": "Mr.Shahedul Karim",
+      "designation": "Deputy Manager",
+      "department": "Sourcing",
+      "location": "Corporate Office",
+      "doj": "2018-02-01",
+      "dob": "1989-12-23"
+    },
+    "15102282": {
+      "name": "Mr.Md. Manik Parvage",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2018-02-06",
+      "dob": "1989-10-15"
+    },
+    "15102333": {
+      "name": "Mr.Md. Zahangir Alam",
+      "designation": "Deputy Manager",
+      "department": "Marketing",
+      "location": "Corporate Office",
+      "doj": "2018-03-01",
+      "dob": "1988-03-31"
+    },
+    "15102552": {
+      "name": "Mr.Md. Sohel Rana Khandaker",
+      "designation": "Assistant Manager",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2018-04-01",
+      "dob": "1983-09-25"
+    },
+    "15103196": {
+      "name": "Mr.Rakib Ull Haque",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2018-06-02",
+      "dob": "1987-09-22"
+    },
+    "15103207": {
+      "name": "Mr.Mohammad Suzaet Hossain",
+      "designation": "Senior Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2018-06-07",
+      "dob": "1985-09-22"
+    },
+    "15103233": {
+      "name": "Mr.S.M. Tanvir Rahman",
+      "designation": "Assistant General Manager",
+      "department": "Corporate HR",
+      "location": "ECO Thread Corporate",
+      "doj": "2018-06-24",
+      "dob": "1984-07-07"
+    },
+    "15103275": {
+      "name": "Mr.Mohiuddin Biswas",
+      "designation": "Lead, Credit Control",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2018-07-15",
+      "dob": "1988-05-04"
+    },
+    "15103279": {
+      "name": "Mr.Tushar Dey",
+      "designation": "Assistant Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2018-07-15",
+      "dob": "1988-12-20"
+    },
+    "15103286": {
+      "name": "Mr.Md. Moktar Alam",
+      "designation": "Deputy Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2018-08-01",
+      "dob": "1989-10-08"
+    },
+    "15103289": {
+      "name": "Ms.Taharima Ehetesham Khusbu",
+      "designation": "Senior Portfolio Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2018-08-01",
+      "dob": "1988-10-20"
+    },
+    "15103298": {
+      "name": "Mr.Md. Jashim Uddin",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "ECO Thread Corporate",
+      "doj": "2012-05-02",
+      "dob": "1981-05-01"
+    },
+    "15103428": {
+      "name": "Mr.Md. Rasel Hossain",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2018-11-01",
+      "dob": "1986-12-31"
+    },
+    "15103460": {
+      "name": "Mr.Md. Rezaul Karim",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2018-11-20",
+      "dob": "1990-10-20"
+    },
+    "15103502": {
+      "name": "Mr.Md. Yaser Imam Khan",
+      "designation": "Deputy Manager",
+      "department": "Brand and Communication",
+      "location": "Corporate Office",
+      "doj": "2019-01-05",
+      "dob": "1990-11-17"
+    },
+    "15103503": {
+      "name": "Mr.M. Tanvir Hosen",
+      "designation": "Deputy Manager",
+      "department": "Director's Secretariat",
+      "location": "Corporate Office",
+      "doj": "2019-01-15",
+      "dob": "1986-08-30"
+    },
+    "15103505": {
+      "name": "Mr.Shahidul Islam",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2019-01-15",
+      "dob": "1992-07-17"
+    },
+    "15103511": {
+      "name": "MS.Sharmin Sultana",
+      "designation": "Senior Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2019-02-02",
+      "dob": "1981-03-20"
+    },
+    "15103548": {
+      "name": "Ms.Rehana Akter",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2019-03-02",
+      "dob": "1991-08-01"
+    },
+    "15103556": {
+      "name": "Ms.Roksana Akter",
+      "designation": "Senior Executive",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2019-03-02",
+      "dob": "1995-05-22"
+    },
+    "15103588": {
+      "name": "Mr.Mesbah Hossain Azmaeen",
+      "designation": "Engineer",
+      "department": "Operations and Maintenance",
+      "location": "Corporate Office",
+      "doj": "2019-04-01",
+      "dob": "1996-01-01"
+    },
+    "15103596": {
+      "name": "Mr.Md. Nazmul Huda",
+      "designation": "Deputy Manager",
+      "department": "Director's Secretariat",
+      "location": "Corporate Office",
+      "doj": "2019-04-09",
+      "dob": "1988-03-01"
+    },
+    "15103618": {
+      "name": "Mr.Khandakar Touhid Alam",
+      "designation": "Assistant Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2019-05-02",
+      "dob": "1992-01-11"
+    },
+    "15103625": {
+      "name": "Mr.Md. Razaul Karim",
+      "designation": "Deputy Manager",
+      "department": "Visa Processing and Ticketing",
+      "location": "Corporate Office",
+      "doj": "2019-05-02",
+      "dob": "1986-10-17"
+    },
+    "15103703": {
+      "name": "Mr.Perves Mosarof",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2015-02-25",
+      "dob": "1994-03-08"
+    },
+    "15103704": {
+      "name": "Mr.Junaed Ahmmed",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2013-01-21",
+      "dob": "1995-02-07"
+    },
+    "15103721": {
+      "name": "Mr.Borhan Uddin",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-08-20",
+      "dob": "1990-10-24"
+    },
+    "15103726": {
+      "name": "Mr.Md. Saimoom Mahbub",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2019-08-20",
+      "dob": "1990-01-19"
+    },
+    "15103763": {
+      "name": "Mr.Md Mizanur Rahaman",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-09-03",
+      "dob": "1992-02-02"
+    },
+    "15103789": {
+      "name": "Mr.Nurul Kabir Sazzad",
+      "designation": "Deputy General Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2019-10-01",
+      "dob": "1983-01-01"
+    },
+    "15103790": {
+      "name": "Mr.Mohammed Khalid Hossain",
+      "designation": "Senior Manager",
+      "department": "Regulatory Affairs",
+      "location": "Pharma Corporate",
+      "doj": "2019-10-01",
+      "dob": "1985-12-31"
+    },
+    "15103804": {
+      "name": "Mr.Md. Sybon Islam",
+      "designation": "Manager",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2019-11-02",
+      "dob": "1993-09-30"
+    },
+    "15103911": {
+      "name": "Mr.Mohammad Zahangir Alam",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-12-17",
+      "dob": "1991-01-01"
+    },
+    "15103952": {
+      "name": "Mr.Md. Helal Uddin",
+      "designation": "Senior Executive",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2020-01-01",
+      "dob": "1990-01-01"
+    },
+    "15103967": {
+      "name": "Mr.Md. Arshad Ali",
+      "designation": "Manager",
+      "department": "IT Infrastructure",
+      "location": "Digital Corporate",
+      "doj": "2020-01-01",
+      "dob": "1990-06-16"
+    },
+    "15103977": {
+      "name": "Mr.Mohammad Alamgir Chowdhury",
+      "designation": "Assistant General Manager",
+      "department": "Logistics",
+      "location": "Ceramics Corporate",
+      "doj": "2020-01-05",
+      "dob": "1977-07-01"
+    },
+    "15103982": {
+      "name": "Mr.Md. Niaz Mahmud",
+      "designation": "Deputy Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2020-01-01",
+      "dob": "1986-08-01"
+    },
+    "15104029": {
+      "name": "Mr.Momtajuddin Ahmed",
+      "designation": "Head of Procurement",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2020-01-15",
+      "dob": "1969-09-30"
+    },
+    "15104046": {
+      "name": "Mr.Md. Shariful Islam",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2020-01-20",
+      "dob": "1991-11-15"
+    },
+    "15104086": {
+      "name": "Mr.Md. Atiqur Rahman",
+      "designation": "Territory Sales Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2020-02-02",
+      "dob": "1991-06-07"
+    },
+    "15104105": {
+      "name": "Mr.Md. Abu Sayed",
+      "designation": "Senior Executive",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2020-02-15",
+      "dob": "1986-01-31"
+    },
+    "15104203": {
+      "name": "Mr.Khondaker Al Mazin",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2020-07-01",
+      "dob": "1993-01-30"
+    },
+    "15104227": {
+      "name": "Mr.Md. Nazmul Islam Hoq",
+      "designation": "Assistant Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2020-07-16",
+      "dob": "1988-11-27"
+    },
+    "15104237": {
+      "name": "Mr.Kazi Md. Siddikul Azam",
+      "designation": "Chief Financial Officer",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2020-08-16",
+      "dob": "1976-11-18"
+    },
+    "15104240": {
+      "name": "Mr.Imran Ahamed",
+      "designation": "Assistant Secretary",
+      "department": "Board and Company Affairs",
+      "location": "Corporate Office",
+      "doj": "2020-08-16",
+      "dob": "1987-11-21"
+    },
+    "15104243": {
+      "name": "Mr.Shamsul Hoque",
+      "designation": "Deputy Manager",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2020-09-01",
+      "dob": "1984-10-15"
+    },
+    "15104315": {
+      "name": "Mr.Md. Rabiul Islam",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2020-11-07",
+      "dob": "1992-12-27"
+    },
+    "15104328": {
+      "name": "Mr.Md. Noor Ul Alam",
+      "designation": "Chief Internal Audit Officer",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2020-11-11",
+      "dob": "1982-11-29"
+    },
+    "15104343": {
+      "name": "Mr.Khan Abdul Latif",
+      "designation": "Assistant Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2020-12-01",
+      "dob": "1988-06-30"
+    },
+    "15104413": {
+      "name": "Mr.Masud Parvez",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-01-05",
+      "dob": "1993-08-17"
+    },
+    "15104425": {
+      "name": "Mr.Md. Moniruzzaman",
+      "designation": "Manager",
+      "department": "Commercial",
+      "location": "Pharma Corporate",
+      "doj": "2021-01-16",
+      "dob": "1983-12-10"
+    },
+    "15104445": {
+      "name": "Mr.Md. Selim",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-02-01",
+      "dob": "1993-05-04"
+    },
+    "15104452": {
+      "name": "Mr.Md. Shahriar Hasan Khondoker",
+      "designation": "Senior Marketing Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2021-02-07",
+      "dob": "1982-11-30"
+    },
+    "15104473": {
+      "name": "Mr.Md. Nasir Uddin",
+      "designation": "Assistant Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2021-02-15",
+      "dob": "1990-12-17"
+    },
+    "15104491": {
+      "name": "Mr.Imtias Mehedi",
+      "designation": "Senior Portfolio Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2021-03-01",
+      "dob": "1992-01-16"
+    },
+    "15104492": {
+      "name": "Mr.Daboprosad Saha",
+      "designation": "Senior Manager",
+      "department": "Market Supply Chain",
+      "location": "Pharma Corporate",
+      "doj": "2021-03-01",
+      "dob": "1983-01-12"
+    },
+    "15104603": {
+      "name": "Mr.Md. Shariful Islam",
+      "designation": "Chief Financial Officer",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2021-04-12",
+      "dob": "1981-11-23"
+    },
+    "15104653": {
+      "name": "Mr.Mohammad Emarot Hossain FCA FCS",
+      "designation": "Chief Financial Officer",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-07-01",
+      "dob": "1978-05-15"
+    },
+    "15104693": {
+      "name": "Mr.Nurul Karim",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2021-07-01",
+      "dob": "1990-03-01"
+    },
+    "15104696": {
+      "name": "Mrs.Mahbuba Akter Sathi",
+      "designation": "Executive",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2021-07-01",
+      "dob": "1990-04-22"
+    },
+    "15104698": {
+      "name": "Mr.Md. Fokrul Bashar",
+      "designation": "Assistant Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2021-07-01",
+      "dob": "1990-01-01"
+    },
+    "15104712": {
+      "name": "Ms.Riffat Iram Fatema",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2021-08-01",
+      "dob": "1992-05-09"
+    },
+    "15104746": {
+      "name": "Mr.Md. Abu Talha",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2021-08-16",
+      "dob": "1985-02-12"
+    },
+    "15104748": {
+      "name": "Mr.Mahbubur Rahman",
+      "designation": "Head of Sales",
+      "department": "Sales",
+      "location": "Pharma Corporate",
+      "doj": "2021-08-16",
+      "dob": "1962-10-24"
+    },
+    "15104775": {
+      "name": "Mr.Md. Mahmudul Hassan",
+      "designation": "Assistant General Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2021-09-01",
+      "dob": "1978-10-01"
+    },
+    "15104809": {
+      "name": "Mr.Tariqul Islam",
+      "designation": "Senior Executive",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2021-09-15",
+      "dob": "1996-06-19"
+    },
+    "15104846": {
+      "name": "Mr.Md. Al Amin",
+      "designation": "Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2021-10-05",
+      "dob": "1994-01-01"
+    },
+    "15105038": {
+      "name": "Mr.Mohammad Kamal Hosen",
+      "designation": "Chief Human Resources Officer",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2021-11-07",
+      "dob": "1975-11-26"
+    },
+    "15105054": {
+      "name": "Mr.Md. Razibul Islam",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2021-11-01",
+      "dob": "1991-08-24"
+    },
+    "15105057": {
+      "name": "Ms.Jannatul Taslima Munia",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-11-15",
+      "dob": "1986-12-31"
+    },
+    "15105058": {
+      "name": "Mr.Md. Nazmul Khan",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-11-15",
+      "dob": "1993-12-25"
+    },
+    "15105062": {
+      "name": "Mrs.Nasrin Akter Lata",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-11-15",
+      "dob": "1995-01-17"
+    },
+    "15105176": {
+      "name": "Mr.Abdullha Al Amin",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-12-01",
+      "dob": "1987-01-19"
+    },
+    "15105218": {
+      "name": "Mr.M. H. Kabir",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2021-12-01",
+      "dob": "1995-12-05"
+    },
+    "15105219": {
+      "name": "Ms.Ruma Khanam",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-12-18",
+      "dob": "1987-04-16"
+    },
+    "15105221": {
+      "name": "Mr.Aoyon Hassan Rudro",
+      "designation": "Assistant Manager",
+      "department": "IT Infrastructure",
+      "location": "Corporate Office",
+      "doj": "2021-12-26",
+      "dob": "1994-05-24"
+    },
+    "15105222": {
+      "name": "Mr.Md. Sabbir Hossain",
+      "designation": "Assistant System Engineer",
+      "department": "IT Support",
+      "location": "Corporate Office",
+      "doj": "2021-12-18",
+      "dob": "1998-02-15"
+    },
+    "15105225": {
+      "name": "Mr.Md. Abdul Quiyum",
+      "designation": "Deputy Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2021-12-12",
+      "dob": "1989-01-01"
+    },
+    "15105282": {
+      "name": "Mr.Prasenjit Gharami",
+      "designation": "Assistant Officer",
+      "department": "Transport",
+      "location": "Farmgate Office",
+      "doj": "2021-12-26",
+      "dob": "1995-12-05"
+    },
+    "15105321": {
+      "name": "Mr.Md Mamun Ar Rashid",
+      "designation": "Assistant Manager",
+      "department": "Director's Secretariat",
+      "location": "Corporate Office",
+      "doj": "2022-01-01",
+      "dob": "1984-10-08"
+    },
+    "15105331": {
+      "name": "Mr.Md Omer Faruk",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2022-01-02",
+      "dob": "1993-11-08"
+    },
+    "15105346": {
+      "name": "Mr.Md. Shafiqul Islam",
+      "designation": "Assistant General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-01-06",
+      "dob": "1988-12-31"
+    },
+    "15105358": {
+      "name": "Mr.Md. Asif Alamgir",
+      "designation": "Executive",
+      "department": "Corporate HR",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-01-15",
+      "dob": "1996-10-05"
+    },
+    "15105359": {
+      "name": "Mr.Md. Adittay Ashraf",
+      "designation": "Senior Executive",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-01-15",
+      "dob": "1997-12-30"
+    },
+    "15105370": {
+      "name": "Mr.Robiul Haque",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2022-01-15",
+      "dob": "1973-08-21"
+    },
+    "15105380": {
+      "name": "Mr.Ahmed Kamrul Alam",
+      "designation": "Executive Director",
+      "department": "Business Operations",
+      "location": "Pharma Corporate",
+      "doj": "2022-01-20",
+      "dob": "1970-01-01"
+    },
+    "15105387": {
+      "name": "Mr.Mohammad Al Amin",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2022-01-25",
+      "dob": "1987-07-21"
+    },
+    "15105393": {
+      "name": "Mr.Shahib Jaman Jim",
+      "designation": "Senior Executive",
+      "department": "Sales and Distribution",
+      "location": "Ceramics Corporate",
+      "doj": "2022-02-01",
+      "dob": "1996-03-08"
+    },
+    "15105397": {
+      "name": "Mr.Md Shamsur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Director's Secretariat",
+      "location": "Corporate Office",
+      "doj": "2022-02-01",
+      "dob": "1989-01-05"
+    },
+    "15105462": {
+      "name": "Mr.Md. Ismail Hossain",
+      "designation": "Junior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2019-03-02",
+      "dob": "1992-01-02"
+    },
+    "15105503": {
+      "name": "Mr.Md. Nashid Hasan",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-03-15",
+      "dob": "1995-06-06"
+    },
+    "15105568": {
+      "name": "Mr.Isbat Raihan",
+      "designation": "Assistant Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2022-04-02",
+      "dob": "1996-10-26"
+    },
+    "15105631": {
+      "name": "Mr.Sajan Das",
+      "designation": "Deputy Manager",
+      "department": "Strategic Sourcing",
+      "location": "Pharma Corporate",
+      "doj": "2022-04-02",
+      "dob": "1992-02-23"
+    },
+    "15105632": {
+      "name": "Mr.Nur Karim",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-04-09",
+      "dob": "1991-01-01"
+    },
+    "15105633": {
+      "name": "Mr.Mizanur Rahman",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-04-09",
+      "dob": "1990-01-01"
+    },
+    "15105675": {
+      "name": "Mr.Md. Nuruzzaman",
+      "designation": "Senior Manager",
+      "department": "Commercial",
+      "location": "Ceramics Corporate",
+      "doj": "2022-04-16",
+      "dob": "1989-12-11"
+    },
+    "15105676": {
+      "name": "Mr.Md. Ziaraat Amin Rashed",
+      "designation": "Executive II",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2022-04-16",
+      "dob": "1991-12-03"
+    },
+    "15105697": {
+      "name": "Mr.Md. Sujan",
+      "designation": "Officer",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2022-04-24",
+      "dob": "1995-12-31"
+    },
+    "15105737": {
+      "name": "Mr.Md. Nezam Uddin",
+      "designation": "Senior Executive",
+      "department": "Business Development",
+      "location": "Pharma Corporate",
+      "doj": "2022-05-10",
+      "dob": "1977-06-04"
+    },
+    "15105766": {
+      "name": "Ms.Sharmin Akter",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2022-05-15",
+      "dob": "1993-10-31"
+    },
+    "15105786": {
+      "name": "Ms.Rehana Sultana",
+      "designation": "Assistant Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2022-05-25",
+      "dob": "1995-11-16"
+    },
+    "15105803": {
+      "name": "Mr.Md. Habibullah Mondal",
+      "designation": "Lead Architect",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2022-06-01",
+      "dob": "1987-06-01"
+    },
+    "15105926": {
+      "name": "Mr.Md. Sorforajur Rahman",
+      "designation": "Senior Portfolio Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2022-07-02",
+      "dob": "1990-07-01"
+    },
+    "15105927": {
+      "name": "Ms.Sharmin Sultana",
+      "designation": "Senior Executive",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-07-02",
+      "dob": "1992-12-12"
+    },
+    "15105931": {
+      "name": "Mr.Shimon Ahamed Mamun",
+      "designation": "Senior Executive",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2022-06-29",
+      "dob": "1983-10-27"
+    },
+    "15105950": {
+      "name": "Ms.Tasmia Adiba",
+      "designation": "Senior Executive",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2022-07-12",
+      "dob": "1996-08-24"
+    },
+    "15105957": {
+      "name": "Mr.Sultan Mahmud",
+      "designation": "Assistant Officer",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2020-07-11",
+      "dob": "1991-07-17"
+    },
+    "15105964": {
+      "name": "Mrs.Rubaba Tasnim",
+      "designation": "Assistant Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2022-07-20",
+      "dob": "1991-11-05"
+    },
+    "15106003": {
+      "name": "Mr.Rezuan Sarder",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2022-08-06",
+      "dob": "1992-11-25"
+    },
+    "15106004": {
+      "name": "Mrs.Farhana Ahmed",
+      "designation": "Assistant Manager",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2022-08-16",
+      "dob": "1994-06-30"
+    },
+    "15106006": {
+      "name": "Mr.Sadman Fatin",
+      "designation": "Deputy Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2022-08-01",
+      "dob": "1991-08-20"
+    },
+    "15106088": {
+      "name": "Mr.Kamrul Hasan",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-09-01",
+      "dob": "1987-09-19"
+    },
+    "15106110": {
+      "name": "Ms.Most Samia Tunazzin",
+      "designation": "Assistant Manager",
+      "department": "Sustainability",
+      "location": "Corporate Office",
+      "doj": "2022-09-07",
+      "dob": "1997-05-15"
+    },
+    "15106121": {
+      "name": "Mr.Md. Shahadat Hossain",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2022-09-10",
+      "dob": "1993-09-22"
+    },
+    "15106146": {
+      "name": "Ms.Kanika Tuz Zohura",
+      "designation": "Assistant Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-09-15",
+      "dob": "1995-05-18"
+    },
+    "15106167": {
+      "name": "Mr.Golam Sorfuddin Khan",
+      "designation": "Assistant Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2022-10-01",
+      "dob": "1993-01-08"
+    },
+    "15106262": {
+      "name": "Mr.Md. Shajibul Hasan",
+      "designation": "Deputy Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2022-11-01",
+      "dob": "1992-10-27"
+    },
+    "15106263": {
+      "name": "Mr.Md. Al Saif",
+      "designation": "Senior Executive",
+      "department": "IT Governance",
+      "location": "Digital Corporate",
+      "doj": "2022-11-01",
+      "dob": "1991-11-27"
+    },
+    "15106264": {
+      "name": "Mr.Md. Jahid Hossen",
+      "designation": "Deputy General Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-11-01",
+      "dob": "1977-02-15"
+    },
+    "15106266": {
+      "name": "Mr.Gazi Arifur Rahman",
+      "designation": "Senior Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2022-11-01",
+      "dob": "1980-02-12"
+    },
+    "15106322": {
+      "name": "Mr.Hasan Mahmud",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2022-11-15",
+      "dob": "1994-08-12"
+    },
+    "15106323": {
+      "name": "Ms.Sabrina Sadakat",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-11-15",
+      "dob": "1994-04-16"
+    },
+    "15106388": {
+      "name": "Mr.Md. Newaz Iqbal",
+      "designation": "Assistant General Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2022-12-06",
+      "dob": "1982-12-10"
+    },
+    "15106396": {
+      "name": "Mr.Md. Saidur Rahman",
+      "designation": "Officer",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2018-11-01",
+      "dob": "1992-12-26"
+    },
+    "15106397": {
+      "name": "Mr.Jane Alam Sikder",
+      "designation": "Officer",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2020-11-16",
+      "dob": "1987-10-26"
+    },
+    "15106398": {
+      "name": "Mr.Md. Raihan Sarker",
+      "designation": "Officer",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2019-07-01",
+      "dob": "1990-08-10"
+    },
+    "15106422": {
+      "name": "Mr.Anisur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Business Excellence",
+      "location": "Ceramics Corporate",
+      "doj": "2022-12-15",
+      "dob": "1983-01-01"
+    },
+    "15106436": {
+      "name": "Mr.Md. Shiful Hasan Riad",
+      "designation": "Senior Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-01-01",
+      "dob": "1992-11-14"
+    },
+    "15106438": {
+      "name": "Mr.Yiasin Arafat",
+      "designation": "Assistant General Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2022-12-26",
+      "dob": "1984-06-01"
+    },
+    "15106470": {
+      "name": "Mr.Shiplo Saha",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2023-01-01",
+      "dob": "1979-08-19"
+    },
+    "15106472": {
+      "name": "Mr.Md. Idris Ali",
+      "designation": "Deputy Manager",
+      "department": "SCM",
+      "location": "Corporate Office",
+      "doj": "2023-01-01",
+      "dob": "1991-01-02"
+    },
+    "15106500": {
+      "name": "Mr.Mohammad Ashfaqul Hoque Tanvir",
+      "designation": "Head of Design and Development",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2023-01-11",
+      "dob": "1980-04-20"
+    },
+    "15106507": {
+      "name": "Mr.Md. Akter-Uz- Zaman",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2023-02-01",
+      "dob": "1990-11-22"
+    },
+    "15106515": {
+      "name": "Mr.Md. Badruzzaman Zaman",
+      "designation": "Officer",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2023-02-01",
+      "dob": "1981-02-04"
+    },
+    "15106517": {
+      "name": "Mr.Kaiser Bin Kader",
+      "designation": "Senior Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-02-01",
+      "dob": "1984-09-26"
+    },
+    "15106520": {
+      "name": "Mr.Md. Iqbal Hossain",
+      "designation": "Assistant Manager",
+      "department": "IT Support",
+      "location": "Corporate Office",
+      "doj": "2023-02-05",
+      "dob": "1987-02-10"
+    },
+    "15106550": {
+      "name": "Mr.Rafatul Islam",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-02-22",
+      "dob": "1998-11-24"
+    },
+    "15106594": {
+      "name": "Mr.Md. Mahfujul Islam",
+      "designation": "Executive",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-05-02",
+      "dob": "1996-01-03"
+    },
+    "15106595": {
+      "name": "Mr.Mahedi Hasan Turki",
+      "designation": "Senior Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-05-02",
+      "dob": "1995-10-03"
+    },
+    "15106628": {
+      "name": "Mr.Kazi Mustak Ahmed",
+      "designation": "Group Chief Financial Officer",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-03-19",
+      "dob": "1976-10-02"
+    },
+    "15106676": {
+      "name": "Mr.A K M Farid",
+      "designation": "Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2023-04-01",
+      "dob": "1984-06-01"
+    },
+    "15106683": {
+      "name": "Ms.Fatema Akter",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-04-10",
+      "dob": "1994-01-07"
+    },
+    "15106726": {
+      "name": "Mr.Sadman Ul Quavi",
+      "designation": "Senior Executive",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2023-05-02",
+      "dob": "1998-11-25"
+    },
+    "15106768": {
+      "name": "Mr.Md. Tipu Sultan",
+      "designation": "Senior Associate",
+      "department": "Market Supply Chain",
+      "location": "Pharma Corporate",
+      "doj": "2018-12-01",
+      "dob": "1998-11-25"
+    },
+    "15106852": {
+      "name": "Mr.Sabbir Ahmad",
+      "designation": "Architect",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2023-06-05",
+      "dob": "1990-10-28"
+    },
+    "15106884": {
+      "name": "Mr.Rubaiyat Mohsin",
+      "designation": "Assistant Manager",
+      "department": "Medical Affairs",
+      "location": "Pharma Corporate",
+      "doj": "2023-07-15",
+      "dob": "1987-10-29"
+    },
+    "15106949": {
+      "name": "Mr.Mridul Kanti Biswas",
+      "designation": "Deputy Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2023-07-15",
+      "dob": "1992-12-20"
+    },
+    "15106959": {
+      "name": "Mr.Md. Tariq Ahmed Siddikee",
+      "designation": "Executive I",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2023-07-22",
+      "dob": "1995-01-16"
+    },
+    "15106966": {
+      "name": "Mrs.Tahsin Anjum Teeba",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2023-08-01",
+      "dob": "1996-05-09"
+    },
+    "15106971": {
+      "name": "Mr.Mir Asraful Islam",
+      "designation": "Chief Financial Officer",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-08-01",
+      "dob": "1978-08-08"
+    },
+    "15106976": {
+      "name": "Ms.Lubaba Rahman Spriha",
+      "designation": "Senior Executive",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2023-07-18",
+      "dob": "1997-09-15"
+    },
+    "15106977": {
+      "name": "Mr.Md. Jakaria Islam Roni",
+      "designation": "Senior Executive",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2023-07-18",
+      "dob": "2000-01-11"
+    },
+    "15106981": {
+      "name": "Mr.Thoihlaching Marma",
+      "designation": "Executive II",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2023-08-16",
+      "dob": "1993-11-28"
+    },
+    "15106996": {
+      "name": "Mr.Tasin Alif",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-08-07",
+      "dob": "1994-12-10"
+    },
+    "15107015": {
+      "name": "Mr.Sifaat Mahbub",
+      "designation": "Senior Executive",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2023-08-03",
+      "dob": "1998-12-25"
+    },
+    "15107019": {
+      "name": "Mr.Towhid Ahmed",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2023-09-02",
+      "dob": "1995-11-16"
+    },
+    "15107021": {
+      "name": "Mr.SM Afanur Monjor Shovon",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2023-08-10",
+      "dob": "1988-02-16"
+    },
+    "15107024": {
+      "name": "Mr.Md. Tajnim Kabir Sakif",
+      "designation": "Finance Controller",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-08-16",
+      "dob": "1988-12-01"
+    },
+    "15107036": {
+      "name": "Mr.Avijit Shill Avi",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-08-03",
+      "dob": "1998-08-06"
+    },
+    "15107080": {
+      "name": "Mr.Subrata Roy",
+      "designation": "Assistant Manager",
+      "department": "Central Distribution Center",
+      "location": "Lifestyle Corporate",
+      "doj": "2023-08-16",
+      "dob": "1993-11-23"
+    },
+    "15107093": {
+      "name": "Mr.Md. Azizul Haque",
+      "designation": "Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-09-05",
+      "dob": "1997-06-09"
+    },
+    "15107096": {
+      "name": "Mr.S.M. Akramuzzaman",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-09-10",
+      "dob": "1993-06-07"
+    },
+    "15107148": {
+      "name": "Ms.Anika Nower",
+      "designation": "Senior Manager",
+      "department": "Business Excellence",
+      "location": "Ceramics Corporate",
+      "doj": "2023-09-16",
+      "dob": "1989-01-24"
+    },
+    "15107155": {
+      "name": "Mrs.Nasrin Jahan",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2023-09-16",
+      "dob": "1994-06-11"
+    },
+    "15107177": {
+      "name": "Mr.Md. Hossain",
+      "designation": "Additional General Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2023-09-21",
+      "dob": "1971-01-01"
+    },
+    "15107179": {
+      "name": "Mr.MD. Habibur Rahman",
+      "designation": "Outlet In-Charge",
+      "department": "Outlet",
+      "location": "Lifestyle Corporate",
+      "doj": "2022-06-21",
+      "dob": "1996-12-15"
+    },
+    "15107187": {
+      "name": "Mr.Samit Islam Rudra",
+      "designation": "Assistant Manager",
+      "department": "International Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2023-10-15",
+      "dob": "1995-07-16"
+    },
+    "15107217": {
+      "name": "Mr.Md. Abu Said",
+      "designation": "Officer",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-10-15",
+      "dob": "1996-01-01"
+    },
+    "15107231": {
+      "name": "Mr.S.M. Tanvir Hossain",
+      "designation": "Manager",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2023-10-15",
+      "dob": "1991-11-30"
+    },
+    "15107261": {
+      "name": "Mr.Sabbir Ahmed Khan",
+      "designation": "Head of Sales and Marketing",
+      "department": "Sales and Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2023-11-01",
+      "dob": "1972-12-06"
+    },
+    "15107268": {
+      "name": "Mr.Abdullah Al Shoeb",
+      "designation": "Manager",
+      "department": "Business Development",
+      "location": "Pharma Corporate",
+      "doj": "2023-12-01",
+      "dob": "1984-09-03"
+    },
+    "15107283": {
+      "name": "Mr.Angshuman Chowdhury",
+      "designation": "Assistant General Manager",
+      "department": "Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-11-01",
+      "dob": "1971-01-01"
+    },
+    "15107323": {
+      "name": "Mr.Md. Emtiaz Yousuf",
+      "designation": "Senior Portfolio Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2023-12-10",
+      "dob": "1991-07-06"
+    },
+    "15107333": {
+      "name": "Mr.Manazzamul Islam",
+      "designation": "Manager",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2023-11-15",
+      "dob": "1990-03-12"
+    },
+    "15107399": {
+      "name": "Mrs.Tasnia Muniyat Afrida",
+      "designation": "Executive",
+      "department": "Corporate HR",
+      "location": "ECO Thread Corporate",
+      "doj": "2023-12-17",
+      "dob": "2000-07-01"
+    },
+    "15107405": {
+      "name": "Mr.Abir Roy",
+      "designation": "Executive",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2023-12-02",
+      "dob": "1994-07-03"
+    },
+    "15107406": {
+      "name": "Mr.Arif Uddin Mahmud",
+      "designation": "General Manager",
+      "department": "Operations",
+      "location": "Corporate Office",
+      "doj": "2023-12-02",
+      "dob": "1971-05-27"
+    },
+    "15107423": {
+      "name": "Mr.Joy Mazumder",
+      "designation": "Engineer",
+      "department": "IT Support",
+      "location": "Corporate Office",
+      "doj": "2023-12-05",
+      "dob": "1999-09-08"
+    },
+    "15107433": {
+      "name": "Mr.Shishir Ahmed Joy",
+      "designation": "Outlet In-Charge",
+      "department": "Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2023-12-23",
+      "dob": "1996-03-30"
+    },
+    "15107441": {
+      "name": "Mr.Md. Sajjad Hossain Sezan",
+      "designation": "Deputy Manager",
+      "department": "Corporate HR",
+      "location": "Ceramics Corporate",
+      "doj": "2023-12-17",
+      "dob": "1996-12-24"
+    },
+    "15107468": {
+      "name": "Mr.Faruque Mohammad Abdullah",
+      "designation": "Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2023-12-13",
+      "dob": "1991-08-13"
+    },
+    "15107512": {
+      "name": "Mr.Md. Shakil Hossain",
+      "designation": "Assistant Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2024-01-01",
+      "dob": "1995-10-20"
+    },
+    "15107522": {
+      "name": "Mr.Firoz Khannun Faragi",
+      "designation": "Executive Director",
+      "department": "Operations",
+      "location": "Corporate Office",
+      "doj": "2023-12-13",
+      "dob": "1970-01-01"
+    },
+    "15107549": {
+      "name": "Mr.Md. Mahbubur Rashid",
+      "designation": "Chief Engineer",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2024-01-16",
+      "dob": "1968-10-11"
+    },
+    "15107606": {
+      "name": "Mr.Md. Hasin Abrar",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-02-01",
+      "dob": "1997-11-27"
+    },
+    "15107609": {
+      "name": "Mr.S.M. Shahriar",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-02-01",
+      "dob": "1997-12-31"
+    },
+    "15107624": {
+      "name": "Mr.Md. Lutful Kabir Utsha",
+      "designation": "Senior Executive",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2024-02-01",
+      "dob": "1999-11-03"
+    },
+    "15107631": {
+      "name": "Mr.Afser Uddin",
+      "designation": "Senior Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2024-03-02",
+      "dob": "1983-11-21"
+    },
+    "15107635": {
+      "name": "Mr.A T M Murad Doha",
+      "designation": "Senior Executive",
+      "department": "Sales",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-02-15",
+      "dob": "1984-11-10"
+    },
+    "15107645": {
+      "name": "Ms.Mahida Akter",
+      "designation": "Functional Analyst",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2024-02-15",
+      "dob": "1997-07-16"
+    },
+    "15107678": {
+      "name": "Mr.Khwaja Mohammad Taha",
+      "designation": "Senior Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2024-03-02",
+      "dob": "1990-09-29"
+    },
+    "15107747": {
+      "name": "Mr.Md. Rahaman Mallik",
+      "designation": "Executive",
+      "department": "Sales",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-04-18",
+      "dob": "1996-05-02"
+    },
+    "15107764": {
+      "name": "Mr.Md. Shohel Rana",
+      "designation": "Senior Executive",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-04-01",
+      "dob": "1994-06-18"
+    },
+    "15107773": {
+      "name": "Mr.Mohammad Shahin Alam",
+      "designation": "Senior Programmer",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2024-04-15",
+      "dob": "1994-12-27"
+    },
+    "15107774": {
+      "name": "Mr.S.M Mokdum Rashid",
+      "designation": "Senior Software Engineer",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2024-04-16",
+      "dob": "1996-08-15"
+    },
+    "15107797": {
+      "name": "Mr.Md. Naimur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2024-04-21",
+      "dob": "1995-12-11"
+    },
+    "15107799": {
+      "name": "Mr.Hasan Al Faisal Marshal",
+      "designation": "Assistant Manager",
+      "department": "Retail Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2024-05-07",
+      "dob": "1996-08-08"
+    },
+    "15107804": {
+      "name": "Mr.Rojot Kumar Dash",
+      "designation": "Senior Executive",
+      "department": "Corporate Admin",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-05-05",
+      "dob": "1994-01-05"
+    },
+    "15107807": {
+      "name": "Ms.Sabrina Akter",
+      "designation": "Manager",
+      "department": "Corporate HR",
+      "location": "Corporate Office",
+      "doj": "2024-05-02",
+      "dob": "1985-02-08"
+    },
+    "15107812": {
+      "name": "Mr.Neloy Kumar Saha",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-05-02",
+      "dob": "1993-01-01"
+    },
+    "15107838": {
+      "name": "Mr.Mohammad Soaib Hossain",
+      "designation": "Senior Executive",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2024-05-11",
+      "dob": "1988-06-01"
+    },
+    "15107840": {
+      "name": "Mr.Tawhid Mollah Orpon",
+      "designation": "Senior Executive",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2024-06-01",
+      "dob": "1998-09-10"
+    },
+    "15107841": {
+      "name": "Mr.Mamunur Rashid",
+      "designation": "Senior Executive",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2024-06-23",
+      "dob": "1997-08-10"
+    },
+    "15107854": {
+      "name": "Mr.Alamin Pranto",
+      "designation": "Officer",
+      "department": "IT Infrastructure",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-05-20",
+      "dob": "1997-11-23"
+    },
+    "15107858": {
+      "name": "Mr.Syed Mostafa Tanjinul Islam",
+      "designation": "Assistant Manager",
+      "department": "Cost and Budget",
+      "location": "Corporate Office",
+      "doj": "2024-05-15",
+      "dob": "1993-09-14"
+    },
+    "15107957": {
+      "name": "Ms.Fairooz Zannat Fannana",
+      "designation": "Senior Manager",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2024-07-15",
+      "dob": "1994-10-28"
+    },
+    "15107958": {
+      "name": "Mr.Didarul Alam Khan",
+      "designation": "Head of Marketing",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2024-07-01",
+      "dob": "1986-06-15"
+    },
+    "15107964": {
+      "name": "Mr.Asifur Rahman Mallik",
+      "designation": "Deputy Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2024-06-25",
+      "dob": "1990-07-06"
+    },
+    "15107965": {
+      "name": "Mr.Furkan Ahmed",
+      "designation": "Assistant Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2024-06-25",
+      "dob": "1995-11-25"
+    },
+    "15107983": {
+      "name": "Mr.Mohammad Shahidozzaman",
+      "designation": "Head of Sales",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2024-07-10",
+      "dob": "1977-08-16"
+    },
+    "15107989": {
+      "name": "Mr.Abdullah Ahmed",
+      "designation": "Senior Executive",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2024-07-01",
+      "dob": "1996-11-28"
+    },
+    "15107990": {
+      "name": "Mr.Md. Sobuj Molla",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-07-01",
+      "dob": "1996-11-12"
+    },
+    "15107992": {
+      "name": "Mr.Md. Saiful Islam",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-07-01",
+      "dob": "1993-10-02"
+    },
+    "15107998": {
+      "name": "Mr.Md. Imtiaz Uddin",
+      "designation": "Junior Executive",
+      "department": "Commercial",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-07-01",
+      "dob": "1992-11-07"
+    },
+    "15108036": {
+      "name": "Mr.Abdul Alim",
+      "designation": "Site Engineer",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2024-07-15",
+      "dob": "1993-10-26"
+    },
+    "15108045": {
+      "name": "Mr.Md. Tanvir Hossain Bhuiyan",
+      "designation": "Senior Executive",
+      "department": "Regulatory Affairs",
+      "location": "Pharma Corporate",
+      "doj": "2024-09-01",
+      "dob": "1994-12-28"
+    },
+    "15108049": {
+      "name": "Mr.Zayed Ahmed",
+      "designation": "Assistant Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2024-08-01",
+      "dob": "1988-05-04"
+    },
+    "15108066": {
+      "name": "Mr.Md. Amirul Islam",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2024-08-20",
+      "dob": "1991-09-08"
+    },
+    "15108088": {
+      "name": "Mr.Md. Jonayed Hassan",
+      "designation": "Portfolio Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2024-09-01",
+      "dob": "1990-11-30"
+    },
+    "15108123": {
+      "name": "Mr.M. A. Jabbar Jewel",
+      "designation": "Assistant General Manager",
+      "department": "Regulatory Affairs",
+      "location": "Corporate Office",
+      "doj": "2024-09-10",
+      "dob": "1987-10-15"
+    },
+    "15108131": {
+      "name": "Mr.Pratoy Pal",
+      "designation": "Engineer",
+      "department": "Installation and Servicing",
+      "location": "Farmgate Office",
+      "doj": "2024-09-15",
+      "dob": "2000-03-22"
+    },
+    "15108132": {
+      "name": "Mr.Pulak Chandra Bhowmik",
+      "designation": "System Engineer",
+      "department": "IT Support",
+      "location": "Corporate Office",
+      "doj": "2024-09-22",
+      "dob": "1993-11-12"
+    },
+    "15108150": {
+      "name": "Mr.B. M Kashefuzzaman",
+      "designation": "Senior Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-10-01",
+      "dob": "1991-01-01"
+    },
+    "15108152": {
+      "name": "Mr.Jamil Uddin Ahmed Chowdhury",
+      "designation": "Head of Supply Chain",
+      "department": "SCM",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-10-15",
+      "dob": "1975-12-01"
+    },
+    "15108162": {
+      "name": "Mr.H M Monjurul Hassan",
+      "designation": "Senior Portfolio Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2024-10-31",
+      "dob": "1986-06-15"
+    },
+    "15108185": {
+      "name": "Mr.Md. Ebne Monsur",
+      "designation": "Senior Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2024-10-10",
+      "dob": "1982-12-15"
+    },
+    "15108192": {
+      "name": "Mr.Md. Ali Hossain",
+      "designation": "Head of Human Resources",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2024-10-20",
+      "dob": "1969-01-20"
+    },
+    "15108208": {
+      "name": "Mr.Salman Alam",
+      "designation": "Officer",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-11-02",
+      "dob": "1996-04-12"
+    },
+    "15108209": {
+      "name": "Mr.Ashik Mahmud Nur",
+      "designation": "Officer",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-11-23",
+      "dob": "1994-07-28"
+    },
+    "15108215": {
+      "name": "Mr.Md. Joynal Abedin",
+      "designation": "Assistant Manager",
+      "department": "Ecommerce",
+      "location": "Lifestyle Corporate",
+      "doj": "2024-11-02",
+      "dob": "1990-01-01"
+    },
+    "15108234": {
+      "name": "Mr.Md. Mahedy Hassan Rana",
+      "designation": "Officer",
+      "department": "Accounts and Finance",
+      "location": "ECO Thread Corporate",
+      "doj": "2024-11-10",
+      "dob": "1998-12-10"
+    },
+    "15108237": {
+      "name": "Mr.Md. Tanvir Rahat",
+      "designation": "Executive I",
+      "department": "Procurement",
+      "location": "Pharma Corporate",
+      "doj": "2024-11-17",
+      "dob": "2000-07-20"
+    },
+    "15108304": {
+      "name": "Mr.Golam Mahmudur Rahman",
+      "designation": "Architect",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2024-12-01",
+      "dob": "1996-12-10"
+    },
+    "15108323": {
+      "name": "Mr.Pronoy Kumar Biswas",
+      "designation": "Product Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2024-12-12",
+      "dob": "1998-04-04"
+    },
+    "15108335": {
+      "name": "Ms.Ormetozan Banozir",
+      "designation": "Deputy Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2024-12-17",
+      "dob": "1990-08-16"
+    },
+    "15108372": {
+      "name": "Mr.Md. Jannatun Nayem Sarker",
+      "designation": "Executive",
+      "department": "Pre-Audit",
+      "location": "Corporate Office",
+      "doj": "2025-01-01",
+      "dob": "1992-12-08"
+    },
+    "15108386": {
+      "name": "Ms.Naznin Sultana",
+      "designation": "Portfolio Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-01-06",
+      "dob": "1996-02-12"
+    },
+    "15108392": {
+      "name": "Mr.Md. Abdur Rahaman",
+      "designation": "Executive I",
+      "department": "Accounts and Finance",
+      "location": "Pharma Corporate",
+      "doj": "2025-02-05",
+      "dob": "1996-07-12"
+    },
+    "15108398": {
+      "name": "Mr.Md. Shakibul Islam",
+      "designation": "Executive",
+      "department": "Pre-Audit",
+      "location": "Corporate Office",
+      "doj": "2025-01-15",
+      "dob": "1999-12-16"
+    },
+    "15108399": {
+      "name": "Mr.Md. Ashaduzzaman",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2025-01-15",
+      "dob": "1992-09-11"
+    },
+    "15108437": {
+      "name": "Ms.Shuraiya Islam Preity",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Ceramics Corporate",
+      "doj": "2025-02-01",
+      "dob": "2000-12-05"
+    },
+    "15108469": {
+      "name": "Mr.Sharfaraj Rahman Robin",
+      "designation": "Executive II",
+      "department": "Commercial",
+      "location": "Pharma Corporate",
+      "doj": "2025-02-25",
+      "dob": "1996-02-12"
+    },
+    "15108487": {
+      "name": "Mr.Md. Rubel Hossain",
+      "designation": "Outlet In-Charge",
+      "department": "Retail Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2025-02-25",
+      "dob": "1996-03-15"
+    },
+    "15108554": {
+      "name": "Mr.Md. Zia Uddin",
+      "designation": "Outlet In-Charge",
+      "department": "Retail Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2025-03-15",
+      "dob": "1994-03-01"
+    },
+    "15108556": {
+      "name": "Mr.Md. Hasanuzzaman Rifat",
+      "designation": "Executive",
+      "department": "Accounts and Finance",
+      "location": "Ceramics Corporate",
+      "doj": "2025-04-10",
+      "dob": "1997-10-11"
+    },
+    "15108563": {
+      "name": "Mr.Shaikh Raisuzzaman",
+      "designation": "Senior Manager",
+      "department": "International Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-04-06",
+      "dob": "1989-10-01"
+    },
+    "15108622": {
+      "name": "Mr.Md. Sajid Hossain",
+      "designation": "Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2025-04-12",
+      "dob": "1994-05-06"
+    },
+    "15108673": {
+      "name": "Mr.Md. Anisur Rahmen",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2025-05-03",
+      "dob": "1984-12-15"
+    },
+    "15108709": {
+      "name": "Mr.Md. Abu Zafor",
+      "designation": "Area Manager",
+      "department": "Retail Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2025-04-30",
+      "dob": "1990-12-24"
+    },
+    "15108713": {
+      "name": "Mr.Abubakar Rahil",
+      "designation": "Manager",
+      "department": "Brand and Communication",
+      "location": "Corporate Office",
+      "doj": "2025-05-03",
+      "dob": "1982-01-26"
+    },
+    "15108726": {
+      "name": "Mr.Md. Tariqul Islam",
+      "designation": "Assistant Manager",
+      "department": "Central Distribution Center",
+      "location": "Farmgate Office",
+      "doj": "2025-05-05",
+      "dob": "1995-01-01"
+    },
+    "15108728": {
+      "name": "Ms.Shahela Akter",
+      "designation": "Senior Brand Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-05-15",
+      "dob": "1999-10-20"
+    },
+    "15108729": {
+      "name": "Ms.Chayti Mony Dey",
+      "designation": "Product Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-05-15",
+      "dob": "2000-01-06"
+    },
+    "15108853": {
+      "name": "Ms.Fariha Hossain",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2025-06-15",
+      "dob": "1998-10-11"
+    },
+    "15108872": {
+      "name": "Mr.Moazzam Abrar Mohsin",
+      "designation": "Officer",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-06-21",
+      "dob": "2000-10-28"
+    },
+    "15108873": {
+      "name": "Mr.Farid Ahmad",
+      "designation": "Assistant Manager",
+      "department": "Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-06-21",
+      "dob": "1996-12-28"
+    },
+    "15108874": {
+      "name": "Ms.Khadija Akter Alo",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2025-06-15",
+      "dob": "1997-04-21"
+    },
+    "15108875": {
+      "name": "Mr.Md. Esamy Azam",
+      "designation": "Senior Executive",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2025-06-15",
+      "dob": "1992-11-24"
+    },
+    "15108881": {
+      "name": "Mr.Riaz Ahmed",
+      "designation": "Senior Executive",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2025-06-15",
+      "dob": "1996-12-24"
+    },
+    "15108890": {
+      "name": "Mr.Rashidul Hasan",
+      "designation": "Chief Executive Officer",
+      "department": "Operations",
+      "location": "Corporate Office",
+      "doj": "2025-06-15",
+      "dob": "1972-11-13"
+    },
+    "15108902": {
+      "name": "Mr.Saad Amin",
+      "designation": "Junior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2025-06-19",
+      "dob": "2000-09-25"
+    },
+    "15108915": {
+      "name": "Mr.Arif Hosen",
+      "designation": "Executive",
+      "department": "Sales",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-07-01",
+      "dob": "1999-07-17"
+    },
+    "15108916": {
+      "name": "Mr.Md. Tabibuzzaman",
+      "designation": "Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-07-01",
+      "dob": "1999-06-30"
+    },
+    "15108923": {
+      "name": "Mr.Md. Rafiqul Anam",
+      "designation": "Executive Director",
+      "department": "Manufacturing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-06-01",
+      "dob": "1956-10-25"
+    },
+    "15108927": {
+      "name": "Mr.Muhammad Aminul Islam",
+      "designation": "Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2025-07-01",
+      "dob": "1989-05-15"
+    },
+    "15108959": {
+      "name": "Mr.Md. Fahad Rahaman Udoy",
+      "designation": "Executive I",
+      "department": "Business Excellence",
+      "location": "Pharma Corporate",
+      "doj": "2025-07-15",
+      "dob": "1999-12-25"
+    },
+    "15108977": {
+      "name": "Mr.Hasan Mahmud",
+      "designation": "Senior Brand Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-08-03",
+      "dob": "1988-12-01"
+    },
+    "15109017": {
+      "name": "Mrs.Nadia Afrin",
+      "designation": "Senior Portfolio Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-08-03",
+      "dob": "1990-08-10"
+    },
+    "15109039": {
+      "name": "Mr.Md. Tarikul Islam",
+      "designation": "Officer",
+      "department": "Customer Service",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-08-12",
+      "dob": "1998-03-23"
+    },
+    "15109072": {
+      "name": "Ms.Tahiatun Nazi",
+      "designation": "Executive",
+      "department": "Business Excellence",
+      "location": "Ceramics Corporate",
+      "doj": "2025-08-17",
+      "dob": "2001-05-07"
+    },
+    "15109106": {
+      "name": "Mr.Md. Ridwan Mahmud",
+      "designation": "Assistant Manager",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2025-08-20",
+      "dob": "1991-10-18"
+    },
+    "15109119": {
+      "name": "Mr.Md. Mosharof Hossain",
+      "designation": "Officer",
+      "department": "Commercial",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-09-01",
+      "dob": "1998-09-20"
+    },
+    "15109121": {
+      "name": "Mr.Masud Rana",
+      "designation": "Assistant Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-09-01",
+      "dob": "1988-01-16"
+    },
+    "15109131": {
+      "name": "Mr.Faysal Ahmed",
+      "designation": "Assistant Manager",
+      "department": "Enterprise System",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-09-07",
+      "dob": "1992-06-05"
+    },
+    "15109150": {
+      "name": "Ms.Tanzina Naznin Shaila",
+      "designation": "Functional Analyst",
+      "department": "Enterprise System",
+      "location": "Digital Corporate",
+      "doj": "2025-09-01",
+      "dob": "2000-03-23"
+    },
+    "15109217": {
+      "name": "Mr.Fazla Hossain Mohaimen",
+      "designation": "Deputy Manager",
+      "department": "Planning and Implementation",
+      "location": "Ceramics Corporate",
+      "doj": "2025-10-16",
+      "dob": "1995-12-11"
+    },
+    "15109221": {
+      "name": "Mr.Md. Tarequl Islam",
+      "designation": "Deputy Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2025-10-01",
+      "dob": "1990-11-01"
+    },
+    "15109248": {
+      "name": "Mr.Md. Rafiul Islam",
+      "designation": "Product Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-10-05",
+      "dob": "2000-10-15"
+    },
+    "15109249": {
+      "name": "Ms.Rahat Ara Khan",
+      "designation": "Assistant Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2025-10-15",
+      "dob": "1996-03-06"
+    },
+    "15109250": {
+      "name": "Mr.Nazmul Alam Chowdhury",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2025-10-06",
+      "dob": "1994-01-01"
+    },
+    "15109260": {
+      "name": "Mr.Nurul Al Hasan",
+      "designation": "Senior Executive",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2025-10-01",
+      "dob": "1997-04-22"
+    },
+    "15109263": {
+      "name": "Mr.Md. Tareq Hasan Ovi",
+      "designation": "Executive",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2025-10-01",
+      "dob": "1998-01-01"
+    },
+    "15109287": {
+      "name": "Mr.Shihabul Anwar",
+      "designation": "Senior Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2025-10-15",
+      "dob": "1996-03-10"
+    },
+    "15109289": {
+      "name": "Ms.Tofurun Nesa Oishy",
+      "designation": "Junior Executive",
+      "department": "Corporate Admin",
+      "location": "Corporate Office",
+      "doj": "2025-10-15",
+      "dob": "2001-08-19"
+    },
+    "15109318": {
+      "name": "Ms.Shadab Karim Nasa",
+      "designation": "Product Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2025-10-26",
+      "dob": "1999-06-06"
+    },
+    "15109322": {
+      "name": "Mr.Bhuiyan Ahmed Imtiaj Swarup",
+      "designation": "Senior Manager",
+      "department": "IT Infrastructure",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-11-01",
+      "dob": "1990-05-24"
+    },
+    "15109323": {
+      "name": "Mr.Md. Mahabubul Hossain",
+      "designation": "Senior Manager",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-11-01",
+      "dob": "1987-01-16"
+    },
+    "15109338": {
+      "name": "Mr.Md. Sultanul Arefin",
+      "designation": "Assistant Manager",
+      "department": "Procurement",
+      "location": "Corporate Office",
+      "doj": "2025-11-01",
+      "dob": "1996-08-01"
+    },
+    "15109394": {
+      "name": "Mr.Waseq Imad",
+      "designation": "Manager",
+      "department": "Marketing",
+      "location": "Ceramics Corporate",
+      "doj": "2025-12-01",
+      "dob": "1993-12-26"
+    },
+    "15109409": {
+      "name": "Mr.Fahad Bin Siddique",
+      "designation": "Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-12-01",
+      "dob": "1998-11-23"
+    },
+    "15109411": {
+      "name": "Mr.Md. Sowrab Hossain",
+      "designation": "Senior Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2025-12-01",
+      "dob": "1990-03-19"
+    },
+    "15109413": {
+      "name": "Mr.Khandaker Zahidul Alam",
+      "designation": "Chief Information Officer",
+      "department": "Operations",
+      "location": "Digital Corporate",
+      "doj": "2025-11-23",
+      "dob": "1965-11-22"
+    },
+    "15109428": {
+      "name": "Mr.Md. Sazzad Hossain Anim",
+      "designation": "Executive",
+      "department": "Sales and Marketing",
+      "location": "ECO Thread Corporate",
+      "doj": "2025-12-15",
+      "dob": "1997-07-22"
+    },
+    "15109431": {
+      "name": "Mr.Md. Sanuar Jahan Dhorjoy",
+      "designation": "Associate",
+      "department": "Sales",
+      "location": "Pharma Corporate",
+      "doj": "2025-12-21",
+      "dob": "1999-04-27"
+    },
+    "15109442": {
+      "name": "Mr.Papon Sarkar",
+      "designation": "Executive",
+      "department": "Central Distribution Center",
+      "location": "Lifestyle Corporate",
+      "doj": "2025-12-15",
+      "dob": "1991-10-09"
+    },
+    "15109481": {
+      "name": "Mr.Al Istiak Ur Rahman",
+      "designation": "Senior Marketing Manager",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2026-01-05",
+      "dob": "1983-01-01"
+    },
+    "15109484": {
+      "name": "Ms.Fairuz Humaira",
+      "designation": "Portfolio Executive",
+      "department": "Marketing",
+      "location": "Pharma Corporate",
+      "doj": "2026-01-15",
+      "dob": "1996-03-06"
+    },
+    "15109486": {
+      "name": "Ms.Marium Binte Noor",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2026-01-01",
+      "dob": "2002-04-12"
+    },
+    "15109503": {
+      "name": "Mr.Ujjal Shaha",
+      "designation": "Outlet In-Charge",
+      "department": "Retail Sales",
+      "location": "Lifestyle Corporate",
+      "doj": "2026-01-20",
+      "dob": "1994-07-26"
+    },
+    "15109504": {
+      "name": "Mr.Syed Sorwar Hossain",
+      "designation": "Deputy Manager",
+      "department": "Operations",
+      "location": "Corporate Office",
+      "doj": "2026-01-15",
+      "dob": "1979-11-25"
+    }
+  },
+  "records": [
+    {
+      "id": "15100005",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 113,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100006",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 153,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100015",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 88,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15100016",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 227,
+      "consec": 8,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100017",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 55,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100018",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 1081,
+      "consec": 14,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15100021",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 335,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15100022",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100023",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 740,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 633
+    },
+    {
+      "id": "15100024",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100025",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 28,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100029",
+      "ym": "2026-01",
+      "days": 9,
+      "min": 294,
+      "consec": 3,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15100032",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 132,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15100034",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100043",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100044",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100045",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 114,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15100046",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 47,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15100052",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100058",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100061",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 214,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15100063",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15100065",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 166,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 623
+    },
+    {
+      "id": "15100067",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 32,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15100082",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 23,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100083",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 82,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15100086",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 384,
+      "consec": 4,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15100090",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 101,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100092",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 138,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15100096",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100097",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 118,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 658
+    },
+    {
+      "id": "15100099",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100103",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 209,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 749
+    },
+    {
+      "id": "15100104",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 263,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15100107",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 139,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100108",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 440,
+      "consec": 7,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15100110",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 49,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100113",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15100118",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100119",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 181,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15100123",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100124",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 80,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15100132",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 169,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15100134",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 644,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 647
+    },
+    {
+      "id": "15100135",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 135,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15100147",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 648,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 702
+    },
+    {
+      "id": "15100154",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 256,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 625
+    },
+    {
+      "id": "15100162",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100164",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 82,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100165",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 68,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100168",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 66,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15100170",
+      "ym": "2026-01",
+      "days": 21,
+      "min": 768,
+      "consec": 18,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15100173",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 936,
+      "consec": 6,
+      "normal": 10,
+      "maxrun": 2,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15100184",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 70,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15100185",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 426,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15100189",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 106,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15100195",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 31,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15100201",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 276,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 678
+    },
+    {
+      "id": "15100211",
+      "ym": "2026-01",
+      "days": 17,
+      "min": 349,
+      "consec": 13,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15100213",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 42,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15100231",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 319,
+      "consec": 5,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15100237",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 51,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100248",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100252",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 437,
+      "consec": 6,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15100258",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 71,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15100267",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 73,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15100277",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 61,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100282",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 730,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15100286",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100288",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 123,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15100289",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 52,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15100301",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 174,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 714
+    },
+    {
+      "id": "15100303",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100304",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 47,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15100372",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15100712",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 120,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15100788",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15100792",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 39,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15100927",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 647,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 702
+    },
+    {
+      "id": "15101055",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 206,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15101182",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15101347",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15101573",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 341,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15101636",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 197,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15101642",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 39,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15101647",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 570,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15101660",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 46,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15101664",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 194,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 637
+    },
+    {
+      "id": "15101688",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 391,
+      "consec": 8,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15101706",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 39,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15101707",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 56,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15101715",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15101723",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 69,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15101731",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 637,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 631
+    },
+    {
+      "id": "15101752",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 97,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15101753",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 126,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15101758",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 437,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15101786",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 28,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15101913",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15101995",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15102005",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 580,
+      "consec": 3,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 685
+    },
+    {
+      "id": "15102055",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 61,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15102059",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15102060",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15102166",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 909,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 722
+    },
+    {
+      "id": "15102225",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15102227",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 107,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15102244",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 65,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15102246",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15102263",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 31,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15102282",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15102333",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 209,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 645
+    },
+    {
+      "id": "15102552",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 57,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15103196",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 31,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103207",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 308,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15103233",
+      "ym": "2026-01",
+      "days": 21,
+      "min": 1406,
+      "consec": 20,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15103275",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 137,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15103279",
+      "ym": "2026-01",
+      "days": 18,
+      "min": 2500,
+      "consec": 16,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15103286",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 31,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103289",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 333,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 843
+    },
+    {
+      "id": "15103298",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15103428",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 29,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15103460",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15103502",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 338,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15103503",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15103505",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15103511",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 174,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15103548",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15103556",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 374,
+      "consec": 7,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15103588",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15103596",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 289,
+      "consec": 5,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15103618",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15103625",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 23,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15103703",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 55,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15103704",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 65,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15103721",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 136,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15103726",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 162,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15103763",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 62,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103789",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 42,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15103790",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 33,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15103804",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 425,
+      "consec": 4,
+      "normal": 7,
+      "maxrun": 2,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15103911",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 56,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15103952",
+      "ym": "2026-01",
+      "days": 9,
+      "min": 301,
+      "consec": 7,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15103967",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 387,
+      "consec": 15,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15103977",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 76,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15103982",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 33,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15104029",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15104046",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 96,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15104086",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 144,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 684
+    },
+    {
+      "id": "15104105",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 641,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15104203",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 666,
+      "consec": 4,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15104227",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 66,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15104237",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15104240",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15104243",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 60,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15104315",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 47,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15104328",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 276,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15104343",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15104413",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 82,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15104425",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 523
+    },
+    {
+      "id": "15104445",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104452",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15104473",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 66,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15104491",
+      "ym": "2026-01",
+      "days": 15,
+      "min": 1537,
+      "consec": 14,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 612
+    },
+    {
+      "id": "15104492",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 175,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 685
+    },
+    {
+      "id": "15104603",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 406,
+      "consec": 11,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15104653",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 38,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15104693",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 647,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15104696",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 136,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15104698",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 191,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15104712",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 959,
+      "consec": 14,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15104746",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 168,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15104748",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 250,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15104775",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 102,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15104809",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 250,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15104846",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 292,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 686
+    },
+    {
+      "id": "15105038",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 113,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105054",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15105057",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 154,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15105058",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 60,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105062",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 172,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15105176",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 138,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15105218",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 44,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15105219",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 23,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15105221",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 109,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15105222",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 121,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15105225",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 95,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105282",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15105321",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 248,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 664
+    },
+    {
+      "id": "15105331",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105346",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 97,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15105358",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 65,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15105359",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 626,
+      "consec": 2,
+      "normal": 10,
+      "maxrun": 2,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15105370",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15105380",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 3338,
+      "consec": 6,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 927
+    },
+    {
+      "id": "15105387",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 244,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 621
+    },
+    {
+      "id": "15105393",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 82,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15105397",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 226,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 615
+    },
+    {
+      "id": "15105462",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 61,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15105503",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 86,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15105568",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 454,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15105631",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 1104,
+      "consec": 8,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15105632",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 56,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15105633",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15105675",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15105676",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 171,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15105697",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 44,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15105737",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 724,
+      "consec": 7,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15105766",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 169,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15105786",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 48,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15105803",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 29,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15105926",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 463,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15105927",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 274,
+      "consec": 12,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15105931",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 140,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 610
+    },
+    {
+      "id": "15105950",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 211,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15105957",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 63,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15105964",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 290,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15106003",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 92,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106004",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 191,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15106006",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 60,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15106088",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15106110",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 851,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 682
+    },
+    {
+      "id": "15106121",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 133,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15106146",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 322,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 647
+    },
+    {
+      "id": "15106167",
+      "ym": "2026-01",
+      "days": 18,
+      "min": 873,
+      "consec": 15,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15106262",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 431,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 612
+    },
+    {
+      "id": "15106263",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 164,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15106264",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 141,
+      "consec": 6,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15106266",
+      "ym": "2026-01",
+      "days": 9,
+      "min": 1327,
+      "consec": 5,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 687
+    },
+    {
+      "id": "15106322",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 140,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 650
+    },
+    {
+      "id": "15106323",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 163,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15106388",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 45,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15106396",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 182,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15106397",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 81,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15106398",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 170,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15106422",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15106436",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 99,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15106438",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 86,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15106470",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 36,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15106472",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 61,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15106500",
+      "ym": "2026-01",
+      "days": 17,
+      "min": 2757,
+      "consec": 14,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 702
+    },
+    {
+      "id": "15106507",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 159,
+      "consec": 6,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15106515",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106517",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 179,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15106520",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 427,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15106550",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 601,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15106594",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 70,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15106595",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 61,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15106628",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 742,
+      "consec": 11,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15106676",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 294,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15106683",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 380,
+      "consec": 9,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15106726",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 335,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 622
+    },
+    {
+      "id": "15106768",
+      "ym": "2026-01",
+      "days": 18,
+      "min": 544,
+      "consec": 17,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15106852",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 77,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 617
+    },
+    {
+      "id": "15106884",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 403,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15106949",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 28,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15106959",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 151,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 661
+    },
+    {
+      "id": "15106966",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15106971",
+      "ym": "2026-01",
+      "days": 20,
+      "min": 1082,
+      "consec": 19,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15106976",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 31,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15106977",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15106981",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 308,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15106996",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107015",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 148,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 688
+    },
+    {
+      "id": "15107019",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 34,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15107021",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107024",
+      "ym": "2026-01",
+      "days": 14,
+      "min": 409,
+      "consec": 9,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15107036",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 335,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15107080",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 554,
+      "consec": 8,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15107093",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 357,
+      "consec": 12,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15107096",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 108,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15107148",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 177,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 629
+    },
+    {
+      "id": "15107155",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 121,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15107177",
+      "ym": "2026-01",
+      "days": 14,
+      "min": 734,
+      "consec": 6,
+      "normal": 8,
+      "maxrun": 2,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15107179",
+      "ym": "2026-01",
+      "days": 24,
+      "min": 3916,
+      "consec": 20,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 703
+    },
+    {
+      "id": "15107187",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 596,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15107217",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 71,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15107231",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 63,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15107261",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 468,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 774
+    },
+    {
+      "id": "15107268",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 249,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15107283",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 499,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15107323",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 682,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 681
+    },
+    {
+      "id": "15107333",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 554,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 679
+    },
+    {
+      "id": "15107399",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 229,
+      "consec": 8,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15107405",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 779,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15107406",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 153,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107423",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 112,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107433",
+      "ym": "2026-01",
+      "days": 24,
+      "min": 3722,
+      "consec": 20,
+      "normal": 4,
+      "maxrun": 6,
+      "swipeAvg": 695
+    },
+    {
+      "id": "15107441",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 30,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107468",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 431,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 971
+    },
+    {
+      "id": "15107512",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15107522",
+      "ym": "2026-01",
+      "days": 19,
+      "min": 865,
+      "consec": 17,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15107549",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 222,
+      "consec": 5,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107606",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15107609",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 37,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107624",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 224,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15107631",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 74,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15107635",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 47,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15107645",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 132,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15107678",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 208,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15107747",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 136,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107764",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 305,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 693
+    },
+    {
+      "id": "15107773",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 207,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 644
+    },
+    {
+      "id": "15107774",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 362,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15107797",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107799",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107804",
+      "ym": "2026-01",
+      "days": 10,
+      "min": 373,
+      "consec": 4,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15107807",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 372,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15107812",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15107838",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107840",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 620,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 695
+    },
+    {
+      "id": "15107841",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107854",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 325,
+      "consec": 12,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107858",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 26,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15107957",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 235,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15107958",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 218,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15107964",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 130,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15107965",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 42,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15107983",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 664,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15107989",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 658,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15107990",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15107992",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 78,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15107998",
+      "ym": "2026-01",
+      "days": 19,
+      "min": 303,
+      "consec": 16,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108036",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 113,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 653
+    },
+    {
+      "id": "15108045",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 217,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15108049",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 147,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 614
+    },
+    {
+      "id": "15108066",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 62,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15108088",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 57,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15108123",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15108131",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 96,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15108132",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 138,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15108150",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108152",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 300,
+      "consec": 2,
+      "normal": 9,
+      "maxrun": 2,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15108162",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 211,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15108185",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 228,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15108192",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 295,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15108208",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 47,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108209",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 235,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 658
+    },
+    {
+      "id": "15108215",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 163,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15108234",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 41,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15108237",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 334,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15108304",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 389,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15108323",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 452,
+      "consec": 8,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15108335",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 114,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15108372",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 259,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15108386",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 185,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15108392",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 139,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 679
+    },
+    {
+      "id": "15108398",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108399",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 109,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 649
+    },
+    {
+      "id": "15108437",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15108469",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 77,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15108487",
+      "ym": "2026-01",
+      "days": 25,
+      "min": 4592,
+      "consec": 15,
+      "normal": 10,
+      "maxrun": 4,
+      "swipeAvg": 724
+    },
+    {
+      "id": "15108554",
+      "ym": "2026-01",
+      "days": 24,
+      "min": 5878,
+      "consec": 17,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 785
+    },
+    {
+      "id": "15108556",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 52,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108563",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 429,
+      "consec": 8,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108622",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15108673",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 147,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 687
+    },
+    {
+      "id": "15108709",
+      "ym": "2026-01",
+      "days": 9,
+      "min": 275,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15108713",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 134,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 674
+    },
+    {
+      "id": "15108726",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 448,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15108728",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 330,
+      "consec": 5,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15108729",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 78,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108853",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 127,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15108872",
+      "ym": "2026-01",
+      "days": 12,
+      "min": 177,
+      "consec": 10,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15108873",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 232,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 617
+    },
+    {
+      "id": "15108874",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 36,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108875",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 119,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15108881",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 38,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15108890",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 480,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15108902",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108915",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 27,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15108916",
+      "ym": "2026-01",
+      "days": 18,
+      "min": 246,
+      "consec": 14,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15108923",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 155,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15108927",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 113,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15108959",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 643,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15108977",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 36,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15109017",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 170,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15109039",
+      "ym": "2026-01",
+      "days": 15,
+      "min": 810,
+      "consec": 11,
+      "normal": 4,
+      "maxrun": 4,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15109072",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109106",
+      "ym": "2026-01",
+      "days": 2,
+      "min": 167,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 624
+    },
+    {
+      "id": "15109119",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 107,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109121",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15109131",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 468,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15109150",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 477,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 659
+    },
+    {
+      "id": "15109217",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109221",
+      "ym": "2026-01",
+      "days": 16,
+      "min": 1235,
+      "consec": 14,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 617
+    },
+    {
+      "id": "15109248",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 180,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15109249",
+      "ym": "2026-01",
+      "days": 3,
+      "min": 68,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15109250",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 159,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15109260",
+      "ym": "2026-01",
+      "days": 4,
+      "min": 119,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15109263",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109287",
+      "ym": "2026-01",
+      "days": 7,
+      "min": 164,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15109289",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15109318",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 537,
+      "consec": 7,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15109322",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 298,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 838
+    },
+    {
+      "id": "15109323",
+      "ym": "2026-01",
+      "days": 8,
+      "min": 485,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15109338",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15109394",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109409",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 193,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15109411",
+      "ym": "2026-01",
+      "days": 6,
+      "min": 225,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15109413",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 324,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15109428",
+      "ym": "2026-01",
+      "days": 5,
+      "min": 77,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109431",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 523
+    },
+    {
+      "id": "15109442",
+      "ym": "2026-01",
+      "days": 13,
+      "min": 697,
+      "consec": 7,
+      "normal": 6,
+      "maxrun": 5,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15109481",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 68,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15109484",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 157,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 697
+    },
+    {
+      "id": "15109486",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109503",
+      "ym": "2026-01",
+      "days": 11,
+      "min": 1576,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 6,
+      "swipeAvg": 683
+    },
+    {
+      "id": "15109504",
+      "ym": "2026-01",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 562
+    }
+  ],
+  "months": [
+    "2026-01"
+  ],
+  "updatedAt": "2026-08-09T07:44:02.800Z"
 }
