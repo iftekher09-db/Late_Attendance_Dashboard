@@ -6,7 +6,7 @@
       "designation": "Deputy General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "1993-07-15",
+      "doj": "1993-07-14",
       "dob": "1967-07-07"
     },
     "15100006": {
@@ -14,7 +14,7 @@
       "designation": "General Manager",
       "department": "Logistics",
       "location": "Corporate Office",
-      "doj": "1995-11-01",
+      "doj": "1995-10-31",
       "dob": "1954-09-01"
     },
     "15100009": {
@@ -25,6 +25,14 @@
       "doj": "1999-05-15",
       "dob": "1973-10-24"
     },
+    "15100011": {
+      "name": "Mr.Kazi Minur Hossain",
+      "designation": "Deputy Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2000-02-07",
+      "dob": "1974-12-31"
+    },
     "15100013": {
       "name": "Mr.Gourango Mondal",
       "designation": "Deputy Manager",
@@ -33,12 +41,20 @@
       "doj": "2000-07-01",
       "dob": "1972-03-01"
     },
+    "15100014": {
+      "name": "Mr.Md.Imam Hossain Noman",
+      "designation": "Senior Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2000-07-28",
+      "dob": "1966-12-31"
+    },
     "15100015": {
       "name": "Mr.Md. Abu Hannan",
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2001-09-09",
+      "doj": "2001-09-08",
       "dob": "1971-01-01"
     },
     "15100016": {
@@ -46,7 +62,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2002-01-22",
+      "doj": "2002-01-21",
       "dob": "1977-03-05"
     },
     "15100017": {
@@ -54,7 +70,7 @@
       "designation": "Senior Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2002-09-17",
+      "doj": "2002-09-16",
       "dob": "1975-11-28"
     },
     "15100018": {
@@ -62,7 +78,7 @@
       "designation": "Chief Sustainability Officer",
       "department": "Sustainability",
       "location": "Corporate Office",
-      "doj": "2003-01-01",
+      "doj": "2002-12-31",
       "dob": "1970-03-31"
     },
     "15100020": {
@@ -70,7 +86,7 @@
       "designation": "Senior Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2003-04-21",
+      "doj": "2003-04-20",
       "dob": "1973-12-01"
     },
     "15100021": {
@@ -78,7 +94,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2003-06-12",
+      "doj": "2003-06-11",
       "dob": "1975-12-10"
     },
     "15100022": {
@@ -94,7 +110,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2003-07-20",
+      "doj": "2003-07-19",
       "dob": "1974-01-02"
     },
     "15100024": {
@@ -102,7 +118,7 @@
       "designation": "Deputy Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2004-01-15",
+      "doj": "2004-01-14",
       "dob": "1981-01-01"
     },
     "15100025": {
@@ -110,7 +126,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2004-06-02",
+      "doj": "2004-06-01",
       "dob": "1977-05-01"
     },
     "15100027": {
@@ -126,7 +142,7 @@
       "designation": "Additional General Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2005-06-08",
+      "doj": "2005-06-07",
       "dob": "1977-01-01"
     },
     "15100031": {
@@ -142,7 +158,7 @@
       "designation": "Additional General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2010-04-17",
+      "doj": "2010-04-16",
       "dob": "1976-01-01"
     },
     "15100033": {
@@ -150,7 +166,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2005-12-01",
+      "doj": "2005-11-30",
       "dob": "1977-10-06"
     },
     "15100034": {
@@ -182,7 +198,7 @@
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2008-06-09",
+      "doj": "2008-06-08",
       "dob": "1981-12-25"
     },
     "15100045": {
@@ -222,7 +238,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2010-01-02",
+      "doj": "2010-01-01",
       "dob": "1976-02-03"
     },
     "15100060": {
@@ -238,7 +254,7 @@
       "designation": "Assistant General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2010-02-27",
+      "doj": "2010-02-26",
       "dob": "1980-06-25"
     },
     "15100063": {
@@ -246,7 +262,7 @@
       "designation": "Senior Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2010-04-15",
+      "doj": "2010-04-14",
       "dob": "1978-01-01"
     },
     "15100065": {
@@ -254,7 +270,7 @@
       "designation": "Deputy General Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2010-11-01",
+      "doj": "2010-10-31",
       "dob": "1970-01-24"
     },
     "15100067": {
@@ -278,7 +294,7 @@
       "designation": "Deputy Secretary",
       "department": "Board and Company Affairs",
       "location": "Corporate Office",
-      "doj": "2011-09-15",
+      "doj": "2011-09-14",
       "dob": "1981-12-30"
     },
     "15100082": {
@@ -286,7 +302,7 @@
       "designation": "Secretary",
       "department": "Board and Company Affairs",
       "location": "Corporate Office",
-      "doj": "2012-03-01",
+      "doj": "2012-02-29",
       "dob": "1968-09-30"
     },
     "15100083": {
@@ -302,15 +318,23 @@
       "designation": "Assistant General Manager",
       "department": "Director's Secretariat",
       "location": "Corporate Office",
-      "doj": "2012-06-03",
+      "doj": "2012-06-02",
       "dob": "1981-07-10"
+    },
+    "15100088": {
+      "name": "Mr.Khaled Mahmud Quayyum",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2012-06-05",
+      "dob": "1982-01-31"
     },
     "15100090": {
       "name": "Mr.Md. Abdullah Al Imam",
       "designation": "Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2012-09-02",
+      "doj": "2012-09-01",
       "dob": "1987-12-18"
     },
     "15100092": {
@@ -318,15 +342,23 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2012-11-10",
+      "doj": "2012-11-09",
       "dob": "1974-01-01"
+    },
+    "15100094": {
+      "name": "Mr.Md. Jafor Hossen",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2012-12-14",
+      "dob": "1988-09-21"
     },
     "15100096": {
       "name": "Mr.Syed Mehdi Islam",
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2013-01-07",
+      "doj": "2013-01-06",
       "dob": "1987-11-10"
     },
     "15100097": {
@@ -342,7 +374,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2013-03-13",
+      "doj": "2013-03-12",
       "dob": "1983-12-30"
     },
     "15100099": {
@@ -350,7 +382,7 @@
       "designation": "Deputy General Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2013-04-04",
+      "doj": "2013-04-03",
       "dob": "1972-01-27"
     },
     "15100101": {
@@ -374,7 +406,7 @@
       "designation": "Senior Manager",
       "department": "Sustainability",
       "location": "Corporate Office",
-      "doj": "2013-05-02",
+      "doj": "2013-05-01",
       "dob": "1984-08-07"
     },
     "15100106": {
@@ -382,7 +414,7 @@
       "designation": "Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2013-06-15",
+      "doj": "2013-06-14",
       "dob": "1983-09-04"
     },
     "15100107": {
@@ -390,7 +422,7 @@
       "designation": "Deputy General Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2003-04-08",
+      "doj": "2003-04-07",
       "dob": "1977-07-09"
     },
     "15100108": {
@@ -398,7 +430,7 @@
       "designation": "Assistant General Manager",
       "department": "Land and Legal Affairs",
       "location": "Corporate Office",
-      "doj": "2019-09-01",
+      "doj": "2019-08-31",
       "dob": "1984-11-21"
     },
     "15100110": {
@@ -414,7 +446,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2013-08-17",
+      "doj": "2013-08-16",
       "dob": "1982-02-03"
     },
     "15100113": {
@@ -422,7 +454,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2013-08-20",
+      "doj": "2013-08-19",
       "dob": "1984-05-21"
     },
     "15100118": {
@@ -438,7 +470,7 @@
       "designation": "Deputy Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2013-11-02",
+      "doj": "2013-11-01",
       "dob": "1989-01-01"
     },
     "15100123": {
@@ -446,7 +478,7 @@
       "designation": "Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2014-01-11",
+      "doj": "2014-01-10",
       "dob": "1982-07-22"
     },
     "15100124": {
@@ -454,7 +486,7 @@
       "designation": "Assistant Manager",
       "department": "Board and Company Affairs",
       "location": "Corporate Office",
-      "doj": "2014-01-25",
+      "doj": "2014-01-24",
       "dob": "1984-01-01"
     },
     "15100126": {
@@ -470,7 +502,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2014-04-16",
+      "doj": "2014-04-15",
       "dob": "1987-05-25"
     },
     "15100134": {
@@ -478,7 +510,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2014-05-03",
+      "doj": "2014-05-02",
       "dob": "1985-07-12"
     },
     "15100135": {
@@ -486,15 +518,23 @@
       "designation": "Deputy Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2014-05-03",
+      "doj": "2014-05-02",
       "dob": "1986-06-28"
+    },
+    "15100145": {
+      "name": "Mr.SM Aminur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2014-08-31",
+      "dob": "1989-12-04"
     },
     "15100147": {
       "name": "Mr.Md. Aminul Islam",
       "designation": "Assistant General Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2014-10-11",
+      "doj": "2014-10-10",
       "dob": "1980-01-02"
     },
     "15100150": {
@@ -510,7 +550,7 @@
       "designation": "Manager",
       "department": "Land and Legal Affairs",
       "location": "Corporate Office",
-      "doj": "2015-01-05",
+      "doj": "2015-01-04",
       "dob": "1988-09-17"
     },
     "15100162": {
@@ -518,7 +558,7 @@
       "designation": "Manager",
       "department": "SCM",
       "location": "ECO Thread Corporate",
-      "doj": "2017-09-01",
+      "doj": "2017-08-31",
       "dob": "1989-07-10"
     },
     "15100164": {
@@ -526,7 +566,7 @@
       "designation": "Assistant Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2015-04-15",
+      "doj": "2015-04-14",
       "dob": "1990-03-14"
     },
     "15100165": {
@@ -534,7 +574,7 @@
       "designation": "Senior Executive",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2015-04-15",
+      "doj": "2015-04-14",
       "dob": "1991-05-27"
     },
     "15100166": {
@@ -542,7 +582,7 @@
       "designation": "Assistant Manager",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2015-04-20",
+      "doj": "2015-04-19",
       "dob": "1988-11-27"
     },
     "15100168": {
@@ -566,7 +606,7 @@
       "designation": "Head of Operation",
       "department": "Operations",
       "location": "Lifestyle Corporate",
-      "doj": "2015-05-16",
+      "doj": "2015-05-15",
       "dob": "1988-09-10"
     },
     "15100173": {
@@ -574,7 +614,7 @@
       "designation": "Manager",
       "department": "Planning and Implementation",
       "location": "Corporate Office",
-      "doj": "2015-06-01",
+      "doj": "2015-05-31",
       "dob": "1990-06-25"
     },
     "15100184": {
@@ -590,7 +630,7 @@
       "designation": "Manager",
       "department": "Land and Legal Affairs",
       "location": "Corporate Office",
-      "doj": "2015-08-01",
+      "doj": "2015-07-31",
       "dob": "1989-10-24"
     },
     "15100189": {
@@ -598,7 +638,7 @@
       "designation": "Senior Executive",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2015-08-25",
+      "doj": "2015-08-24",
       "dob": "1993-12-19"
     },
     "15100195": {
@@ -606,7 +646,7 @@
       "designation": "Deputy Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2015-10-01",
+      "doj": "2015-09-30",
       "dob": "1985-02-25"
     },
     "15100201": {
@@ -614,7 +654,7 @@
       "designation": "Head of IT",
       "department": "IT Infrastructure and Operations",
       "location": "Corporate Office",
-      "doj": "2013-01-14",
+      "doj": "2013-01-13",
       "dob": "1990-05-30"
     },
     "15100210": {
@@ -622,7 +662,7 @@
       "designation": "Deputy Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2015-11-11",
+      "doj": "2015-11-10",
       "dob": "1981-12-20"
     },
     "15100211": {
@@ -630,7 +670,7 @@
       "designation": "Additional General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2015-11-21",
+      "doj": "2015-11-20",
       "dob": "1968-11-07"
     },
     "15100213": {
@@ -638,7 +678,7 @@
       "designation": "Deputy Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2015-12-01",
+      "doj": "2015-11-30",
       "dob": "1987-02-15"
     },
     "15100222": {
@@ -649,12 +689,20 @@
       "doj": "2016-01-12",
       "dob": "1967-12-31"
     },
+    "15100226": {
+      "name": "Mr.Md. Suman Hossain",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2016-02-29",
+      "dob": "1990-11-30"
+    },
     "15100231": {
       "name": "Mr.Md. Sazedur Rahman",
       "designation": "Senior Manager",
       "department": "Planning and Implementation",
       "location": "Corporate Office",
-      "doj": "2016-04-16",
+      "doj": "2016-04-15",
       "dob": "1989-11-03"
     },
     "15100237": {
@@ -678,7 +726,7 @@
       "designation": "Chief Executive Officer",
       "department": "Operations",
       "location": "ECO Thread Corporate",
-      "doj": "2016-09-17",
+      "doj": "2016-09-16",
       "dob": "1973-05-15"
     },
     "15100258": {
@@ -686,7 +734,7 @@
       "designation": "Deputy Manager",
       "department": "Planning and Implementation",
       "location": "Corporate Office",
-      "doj": "2016-10-01",
+      "doj": "2016-09-30",
       "dob": "1992-12-29"
     },
     "15100265": {
@@ -702,7 +750,7 @@
       "designation": "Senior Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2016-12-01",
+      "doj": "2016-11-30",
       "dob": "1980-11-20"
     },
     "15100277": {
@@ -710,7 +758,7 @@
       "designation": "Deputy General Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2017-01-16",
+      "doj": "2017-01-15",
       "dob": "1982-11-11"
     },
     "15100282": {
@@ -718,7 +766,7 @@
       "designation": "Deputy General Manager",
       "department": "IT Infrastructure",
       "location": "Digital Corporate",
-      "doj": "2017-02-01",
+      "doj": "2017-01-31",
       "dob": "1983-11-02"
     },
     "15100286": {
@@ -734,7 +782,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2017-03-01",
+      "doj": "2017-02-28",
       "dob": "1978-12-16"
     },
     "15100289": {
@@ -758,7 +806,7 @@
       "designation": "Assistant Manager",
       "department": "Transport",
       "location": "Farmgate Office",
-      "doj": "2013-05-02",
+      "doj": "2013-05-01",
       "dob": "1983-05-12"
     },
     "15100304": {
@@ -766,7 +814,7 @@
       "designation": "Assistant Manager",
       "department": "Transport",
       "location": "Farmgate Office",
-      "doj": "2014-10-11",
+      "doj": "2014-10-10",
       "dob": "1990-05-04"
     },
     "15100372": {
@@ -774,7 +822,7 @@
       "designation": "Chief Business Officer",
       "department": "Operations",
       "location": "Ceramics Corporate",
-      "doj": "2007-08-05",
+      "doj": "2007-08-04",
       "dob": "1984-11-16"
     },
     "15100712": {
@@ -782,7 +830,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2012-06-04",
+      "doj": "2012-06-03",
       "dob": "1983-05-04"
     },
     "15100788": {
@@ -798,7 +846,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2014-01-01",
+      "doj": "2013-12-31",
       "dob": "1985-05-10"
     },
     "15100927": {
@@ -806,7 +854,7 @@
       "designation": "Deputy Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2016-03-15",
+      "doj": "2016-03-14",
       "dob": "1981-03-24"
     },
     "15101055": {
@@ -814,7 +862,7 @@
       "designation": "Additional General Manager",
       "department": "Land and Legal Affairs",
       "location": "Corporate Office",
-      "doj": "2005-07-02",
+      "doj": "2005-07-01",
       "dob": "1970-03-02"
     },
     "15101182": {
@@ -838,7 +886,7 @@
       "designation": "Senior Manager",
       "department": "Merchandising",
       "location": "Atelier Office",
-      "doj": "2010-12-01",
+      "doj": "2010-11-30",
       "dob": "1980-12-18"
     },
     "15101636": {
@@ -846,7 +894,7 @@
       "designation": "Senior Marketing Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2017-04-01",
+      "doj": "2017-03-31",
       "dob": "1982-05-21"
     },
     "15101642": {
@@ -854,7 +902,7 @@
       "designation": "Manager",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2017-04-05",
+      "doj": "2017-04-04",
       "dob": "1985-09-14"
     },
     "15101647": {
@@ -862,7 +910,7 @@
       "designation": "Manager",
       "department": "Marketing",
       "location": "Corporate Office",
-      "doj": "2017-04-02",
+      "doj": "2017-04-01",
       "dob": "1981-01-01"
     },
     "15101660": {
@@ -878,7 +926,7 @@
       "designation": "Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2017-05-02",
+      "doj": "2017-05-01",
       "dob": "1984-11-03"
     },
     "15101688": {
@@ -886,7 +934,7 @@
       "designation": "Manager",
       "department": "Sales and Marketing",
       "location": "Corporate Office",
-      "doj": "2015-04-11",
+      "doj": "2015-04-10",
       "dob": "1988-06-12"
     },
     "15101706": {
@@ -910,7 +958,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2017-06-05",
+      "doj": "2017-06-04",
       "dob": "1988-10-25"
     },
     "15101723": {
@@ -918,7 +966,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2017-06-15",
+      "doj": "2017-06-14",
       "dob": "1982-05-25"
     },
     "15101731": {
@@ -926,7 +974,7 @@
       "designation": "Deputy Manager",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2017-06-15",
+      "doj": "2017-06-14",
       "dob": "1988-01-31"
     },
     "15101752": {
@@ -934,7 +982,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2017-07-01",
+      "doj": "2017-06-30",
       "dob": "1982-10-26"
     },
     "15101753": {
@@ -950,7 +998,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2017-07-10",
+      "doj": "2017-07-09",
       "dob": "1987-11-12"
     },
     "15101758": {
@@ -958,7 +1006,7 @@
       "designation": "Deputy Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2017-07-01",
+      "doj": "2017-06-30",
       "dob": "1980-06-04"
     },
     "15101784": {
@@ -974,7 +1022,7 @@
       "designation": "Deputy Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2017-07-15",
+      "doj": "2017-07-14",
       "dob": "1990-11-16"
     },
     "15101913": {
@@ -990,7 +1038,7 @@
       "designation": "Assistant Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2017-11-01",
+      "doj": "2017-10-31",
       "dob": "1990-08-03"
     },
     "15102005": {
@@ -998,7 +1046,7 @@
       "designation": "Deputy General Manager",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2017-11-01",
+      "doj": "2017-10-31",
       "dob": "1971-03-17"
     },
     "15102055": {
@@ -1006,7 +1054,7 @@
       "designation": "Deputy Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2017-12-03",
+      "doj": "2017-12-02",
       "dob": "1985-11-01"
     },
     "15102059": {
@@ -1030,7 +1078,7 @@
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2017-12-03",
+      "doj": "2017-12-02",
       "dob": "1990-04-26"
     },
     "15102166": {
@@ -1038,7 +1086,7 @@
       "designation": "Assistant Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2018-01-15",
+      "doj": "2018-01-14",
       "dob": "1988-12-18"
     },
     "15102225": {
@@ -1054,15 +1102,23 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2018-02-15",
+      "doj": "2018-02-14",
       "dob": "1982-11-14"
+    },
+    "15102237": {
+      "name": "Mr.Quazi Mehedi Hasan",
+      "designation": "Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2018-02-28",
+      "dob": "1988-10-18"
     },
     "15102244": {
       "name": "Mr.Md. Mahbubur Rahman",
       "designation": "Senior Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2018-03-01",
+      "doj": "2018-02-28",
       "dob": "1985-03-01"
     },
     "15102246": {
@@ -1070,7 +1126,7 @@
       "designation": "Deputy Manager",
       "department": "Planning and Implementation",
       "location": "Ceramics Corporate",
-      "doj": "2018-02-02",
+      "doj": "2018-02-01",
       "dob": "1994-12-31"
     },
     "15102263": {
@@ -1086,7 +1142,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2018-02-06",
+      "doj": "2018-02-05",
       "dob": "1989-10-15"
     },
     "15102333": {
@@ -1094,7 +1150,7 @@
       "designation": "Deputy Manager",
       "department": "Marketing",
       "location": "Corporate Office",
-      "doj": "2018-03-01",
+      "doj": "2018-02-28",
       "dob": "1988-03-31"
     },
     "15102340": {
@@ -1102,7 +1158,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2018-03-15",
+      "doj": "2018-03-14",
       "dob": "1987-10-22"
     },
     "15102552": {
@@ -1110,7 +1166,7 @@
       "designation": "Assistant Manager",
       "department": "SCM",
       "location": "ECO Thread Corporate",
-      "doj": "2018-04-01",
+      "doj": "2018-03-31",
       "dob": "1983-09-25"
     },
     "15102784": {
@@ -1126,7 +1182,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2018-06-02",
+      "doj": "2018-06-01",
       "dob": "1987-09-22"
     },
     "15103207": {
@@ -1134,7 +1190,7 @@
       "designation": "Senior Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2018-06-07",
+      "doj": "2018-06-06",
       "dob": "1985-09-22"
     },
     "15103216": {
@@ -1142,7 +1198,7 @@
       "designation": "Assistant General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-04-01",
+      "doj": "2021-03-31",
       "dob": "1972-10-15"
     },
     "15103233": {
@@ -1150,7 +1206,7 @@
       "designation": "Assistant General Manager",
       "department": "Corporate HR",
       "location": "ECO Thread Corporate",
-      "doj": "2018-06-24",
+      "doj": "2018-06-23",
       "dob": "1984-07-07"
     },
     "15103275": {
@@ -1158,7 +1214,7 @@
       "designation": "Lead, Credit Control",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2018-07-15",
+      "doj": "2018-07-14",
       "dob": "1988-05-04"
     },
     "15103279": {
@@ -1166,7 +1222,7 @@
       "designation": "Assistant Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2018-07-15",
+      "doj": "2018-07-14",
       "dob": "1988-12-20"
     },
     "15103286": {
@@ -1182,7 +1238,7 @@
       "designation": "Senior Portfolio Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2018-08-01",
+      "doj": "2018-07-31",
       "dob": "1988-10-20"
     },
     "15103298": {
@@ -1190,7 +1246,7 @@
       "designation": "Assistant Manager",
       "department": "Commercial",
       "location": "ECO Thread Corporate",
-      "doj": "2012-05-02",
+      "doj": "2012-05-01",
       "dob": "1981-05-01"
     },
     "15103428": {
@@ -1206,7 +1262,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2018-11-20",
+      "doj": "2018-11-19",
       "dob": "1990-10-20"
     },
     "15103463": {
@@ -1214,7 +1270,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2018-11-25",
+      "doj": "2018-11-24",
       "dob": "1985-11-20"
     },
     "15103502": {
@@ -1222,7 +1278,7 @@
       "designation": "Deputy Manager",
       "department": "Brand and Communication",
       "location": "Corporate Office",
-      "doj": "2019-01-05",
+      "doj": "2019-01-04",
       "dob": "1990-11-17"
     },
     "15103503": {
@@ -1238,7 +1294,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2019-01-15",
+      "doj": "2019-01-14",
       "dob": "1992-07-17"
     },
     "15103511": {
@@ -1246,7 +1302,7 @@
       "designation": "Senior Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2019-02-02",
+      "doj": "2019-02-01",
       "dob": "1981-03-20"
     },
     "15103548": {
@@ -1270,7 +1326,7 @@
       "designation": "Senior Executive",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2019-03-02",
+      "doj": "2019-03-01",
       "dob": "1995-05-22"
     },
     "15103588": {
@@ -1278,7 +1334,7 @@
       "designation": "Engineer",
       "department": "Operations and Maintenance",
       "location": "Corporate Office",
-      "doj": "2019-04-01",
+      "doj": "2019-03-31",
       "dob": "1996-01-01"
     },
     "15103590": {
@@ -1294,7 +1350,7 @@
       "designation": "Deputy Manager",
       "department": "Director's Secretariat",
       "location": "Corporate Office",
-      "doj": "2019-04-09",
+      "doj": "2019-04-08",
       "dob": "1988-03-01"
     },
     "15103618": {
@@ -1302,7 +1358,7 @@
       "designation": "Assistant Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2019-05-02",
+      "doj": "2019-05-01",
       "dob": "1992-01-11"
     },
     "15103625": {
@@ -1310,15 +1366,23 @@
       "designation": "Deputy Manager",
       "department": "Visa Processing and Ticketing",
       "location": "Corporate Office",
-      "doj": "2019-05-02",
+      "doj": "2019-05-01",
       "dob": "1986-10-17"
+    },
+    "15103635": {
+      "name": "Mr.Waziur Rahman",
+      "designation": "Senior Manager",
+      "department": "Internal Audit",
+      "location": "Corporate Office",
+      "doj": "2019-05-18",
+      "dob": "1991-02-05"
     },
     "15103703": {
       "name": "Mr.Perves Mosarof",
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2015-02-25",
+      "doj": "2015-02-24",
       "dob": "1994-03-08"
     },
     "15103704": {
@@ -1326,7 +1390,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2013-01-21",
+      "doj": "2013-01-20",
       "dob": "1995-02-07"
     },
     "15103721": {
@@ -1334,7 +1398,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2019-08-20",
+      "doj": "2019-08-19",
       "dob": "1990-10-24"
     },
     "15103726": {
@@ -1342,7 +1406,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2019-08-20",
+      "doj": "2019-08-19",
       "dob": "1990-01-19"
     },
     "15103755": {
@@ -1350,7 +1414,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2019-09-01",
+      "doj": "2019-08-31",
       "dob": "1988-12-04"
     },
     "15103763": {
@@ -1358,7 +1422,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2019-09-03",
+      "doj": "2019-09-02",
       "dob": "1992-02-02"
     },
     "15103789": {
@@ -1366,7 +1430,7 @@
       "designation": "Deputy General Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2019-10-01",
+      "doj": "2019-09-30",
       "dob": "1983-01-01"
     },
     "15103790": {
@@ -1374,7 +1438,7 @@
       "designation": "Senior Manager",
       "department": "Regulatory Affairs",
       "location": "Pharma Corporate",
-      "doj": "2019-10-01",
+      "doj": "2019-09-30",
       "dob": "1985-12-31"
     },
     "15103804": {
@@ -1382,7 +1446,7 @@
       "designation": "Manager",
       "department": "SCM",
       "location": "ECO Thread Corporate",
-      "doj": "2019-11-02",
+      "doj": "2019-11-01",
       "dob": "1993-09-30"
     },
     "15103911": {
@@ -1390,7 +1454,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2019-12-17",
+      "doj": "2019-12-16",
       "dob": "1991-01-01"
     },
     "15103913": {
@@ -1398,7 +1462,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2019-12-25",
+      "doj": "2019-12-24",
       "dob": "1977-08-12"
     },
     "15103952": {
@@ -1406,7 +1470,7 @@
       "designation": "Senior Executive",
       "department": "Transport",
       "location": "Farmgate Office",
-      "doj": "2020-01-01",
+      "doj": "2019-12-31",
       "dob": "1990-01-01"
     },
     "15103967": {
@@ -1414,7 +1478,7 @@
       "designation": "Manager",
       "department": "IT Infrastructure",
       "location": "Digital Corporate",
-      "doj": "2020-01-01",
+      "doj": "2019-12-31",
       "dob": "1990-06-16"
     },
     "15103977": {
@@ -1430,7 +1494,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2020-01-01",
+      "doj": "2019-12-31",
       "dob": "1984-09-15"
     },
     "15103982": {
@@ -1438,7 +1502,7 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2020-01-01",
+      "doj": "2019-12-31",
       "dob": "1986-08-01"
     },
     "15104012": {
@@ -1446,7 +1510,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2020-01-01",
+      "doj": "2019-12-31",
       "dob": "1990-03-13"
     },
     "15104029": {
@@ -1478,7 +1542,7 @@
       "designation": "Senior Executive",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2020-02-15",
+      "doj": "2020-02-14",
       "dob": "1986-01-31"
     },
     "15104156": {
@@ -1486,7 +1550,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2020-03-21",
+      "doj": "2020-03-20",
       "dob": "1983-02-04"
     },
     "15104184": {
@@ -1494,7 +1558,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2020-06-15",
+      "doj": "2020-06-14",
       "dob": "1988-11-01"
     },
     "15104203": {
@@ -1502,7 +1566,7 @@
       "designation": "Deputy Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2020-07-01",
+      "doj": "2020-06-30",
       "dob": "1993-01-30"
     },
     "15104227": {
@@ -1510,7 +1574,7 @@
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2020-07-16",
+      "doj": "2020-07-15",
       "dob": "1988-11-27"
     },
     "15104237": {
@@ -1518,7 +1582,7 @@
       "designation": "Chief Financial Officer",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2020-08-16",
+      "doj": "2020-08-15",
       "dob": "1976-11-18"
     },
     "15104240": {
@@ -1526,7 +1590,7 @@
       "designation": "Assistant Secretary",
       "department": "Board and Company Affairs",
       "location": "Corporate Office",
-      "doj": "2020-08-16",
+      "doj": "2020-08-15",
       "dob": "1987-11-21"
     },
     "15104243": {
@@ -1534,7 +1598,7 @@
       "designation": "Deputy Manager",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2020-09-01",
+      "doj": "2020-08-31",
       "dob": "1984-10-15"
     },
     "15104315": {
@@ -1542,7 +1606,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2020-11-07",
+      "doj": "2020-11-06",
       "dob": "1992-12-27"
     },
     "15104328": {
@@ -1550,7 +1614,7 @@
       "designation": "Chief Internal Audit Officer",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2020-11-11",
+      "doj": "2020-11-10",
       "dob": "1982-11-29"
     },
     "15104343": {
@@ -1558,7 +1622,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2020-12-01",
+      "doj": "2020-11-30",
       "dob": "1988-06-30"
     },
     "15104413": {
@@ -1566,7 +1630,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-01-05",
+      "doj": "2021-01-04",
       "dob": "1993-08-17"
     },
     "15104425": {
@@ -1574,7 +1638,7 @@
       "designation": "Manager",
       "department": "Commercial",
       "location": "Pharma Corporate",
-      "doj": "2021-01-16",
+      "doj": "2021-01-15",
       "dob": "1983-12-10"
     },
     "15104445": {
@@ -1582,7 +1646,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-02-01",
+      "doj": "2021-01-31",
       "dob": "1993-05-04"
     },
     "15104452": {
@@ -1590,7 +1654,7 @@
       "designation": "Senior Marketing Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2021-02-07",
+      "doj": "2021-02-06",
       "dob": "1982-11-30"
     },
     "15104453": {
@@ -1606,7 +1670,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2021-02-15",
+      "doj": "2021-02-14",
       "dob": "1990-12-17"
     },
     "15104491": {
@@ -1614,7 +1678,7 @@
       "designation": "Senior Portfolio Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2021-03-01",
+      "doj": "2021-02-28",
       "dob": "1992-01-16"
     },
     "15104492": {
@@ -1630,7 +1694,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2015-03-16",
+      "doj": "2015-03-15",
       "dob": "1992-01-10"
     },
     "15104592": {
@@ -1638,7 +1702,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2021-04-01",
+      "doj": "2021-03-31",
       "dob": "1994-04-10"
     },
     "15104603": {
@@ -1646,7 +1710,7 @@
       "designation": "Chief Financial Officer",
       "department": "Accounts and Finance",
       "location": "Pharma Corporate",
-      "doj": "2021-04-12",
+      "doj": "2021-04-11",
       "dob": "1981-11-23"
     },
     "15104653": {
@@ -1654,7 +1718,7 @@
       "designation": "Chief Financial Officer",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-07-01",
+      "doj": "2021-06-30",
       "dob": "1978-05-15"
     },
     "15104663": {
@@ -1662,7 +1726,7 @@
       "designation": "Assistant Manager",
       "department": "Planning and Implementation",
       "location": "Corporate Office",
-      "doj": "2021-06-15",
+      "doj": "2021-06-14",
       "dob": "1995-12-12"
     },
     "15104693": {
@@ -1670,7 +1734,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2021-07-01",
+      "doj": "2021-06-30",
       "dob": "1990-03-01"
     },
     "15104696": {
@@ -1686,7 +1750,7 @@
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2021-07-01",
+      "doj": "2021-06-30",
       "dob": "1990-01-01"
     },
     "15104712": {
@@ -1694,7 +1758,7 @@
       "designation": "Assistant Manager",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2021-08-01",
+      "doj": "2021-07-31",
       "dob": "1992-05-09"
     },
     "15104735": {
@@ -1710,15 +1774,23 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2021-08-07",
+      "doj": "2021-08-06",
       "dob": "1989-10-01"
+    },
+    "15104742": {
+      "name": "Mr.Md. Harun Or Rashid",
+      "designation": "Assistant Manager",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2021-08-06",
+      "dob": "1990-06-20"
     },
     "15104746": {
       "name": "Mr.Md. Abu Talha",
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Pharma Corporate",
-      "doj": "2021-08-16",
+      "doj": "2021-08-15",
       "dob": "1985-02-12"
     },
     "15104748": {
@@ -1726,7 +1798,7 @@
       "designation": "Head of Sales",
       "department": "Sales",
       "location": "Pharma Corporate",
-      "doj": "2021-08-16",
+      "doj": "2021-08-15",
       "dob": "1962-10-24"
     },
     "15104775": {
@@ -1734,7 +1806,7 @@
       "designation": "Assistant General Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2021-09-01",
+      "doj": "2021-08-31",
       "dob": "1978-10-01"
     },
     "15104793": {
@@ -1742,7 +1814,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-10-02",
+      "doj": "2021-10-01",
       "dob": "1992-10-02"
     },
     "15104809": {
@@ -1758,7 +1830,7 @@
       "designation": "Executive",
       "department": "Corporate Admin",
       "location": "Corporate Office",
-      "doj": "2021-09-25",
+      "doj": "2021-09-24",
       "dob": "1988-06-14"
     },
     "15104846": {
@@ -1766,7 +1838,7 @@
       "designation": "Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2021-10-05",
+      "doj": "2021-10-04",
       "dob": "1994-01-01"
     },
     "15104850": {
@@ -1790,7 +1862,7 @@
       "designation": "Chief Human Resources Officer",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2021-11-07",
+      "doj": "2021-11-06",
       "dob": "1975-11-26"
     },
     "15105054": {
@@ -1806,7 +1878,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-11-15",
+      "doj": "2021-11-14",
       "dob": "1986-12-31"
     },
     "15105058": {
@@ -1814,7 +1886,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-11-15",
+      "doj": "2021-11-14",
       "dob": "1993-12-25"
     },
     "15105062": {
@@ -1830,7 +1902,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2021-12-01",
+      "doj": "2021-11-30",
       "dob": "1987-01-19"
     },
     "15105218": {
@@ -1838,7 +1910,7 @@
       "designation": "Deputy Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2021-12-01",
+      "doj": "2021-11-30",
       "dob": "1995-12-05"
     },
     "15105219": {
@@ -1854,7 +1926,7 @@
       "designation": "Assistant Manager",
       "department": "IT Infrastructure",
       "location": "Corporate Office",
-      "doj": "2021-12-26",
+      "doj": "2021-12-25",
       "dob": "1994-05-24"
     },
     "15105222": {
@@ -1862,7 +1934,7 @@
       "designation": "Assistant System Engineer",
       "department": "IT Support",
       "location": "Corporate Office",
-      "doj": "2021-12-18",
+      "doj": "2021-12-17",
       "dob": "1998-02-15"
     },
     "15105225": {
@@ -1870,7 +1942,7 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2021-12-12",
+      "doj": "2021-12-11",
       "dob": "1989-01-01"
     },
     "15105282": {
@@ -1886,7 +1958,7 @@
       "designation": "Assistant Manager",
       "department": "Director's Secretariat",
       "location": "Corporate Office",
-      "doj": "2022-01-01",
+      "doj": "2021-12-31",
       "dob": "1984-10-08"
     },
     "15105331": {
@@ -1902,7 +1974,7 @@
       "designation": "Assistant General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-01-06",
+      "doj": "2022-01-05",
       "dob": "1988-12-31"
     },
     "15105358": {
@@ -1910,7 +1982,7 @@
       "designation": "Executive",
       "department": "Corporate HR",
       "location": "ECO Thread Corporate",
-      "doj": "2022-01-15",
+      "doj": "2022-01-14",
       "dob": "1996-10-05"
     },
     "15105359": {
@@ -1918,7 +1990,7 @@
       "designation": "Senior Executive",
       "department": "SCM",
       "location": "ECO Thread Corporate",
-      "doj": "2022-01-15",
+      "doj": "2022-01-14",
       "dob": "1997-12-30"
     },
     "15105370": {
@@ -1926,7 +1998,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Pharma Corporate",
-      "doj": "2022-01-15",
+      "doj": "2022-01-14",
       "dob": "1973-08-21"
     },
     "15105380": {
@@ -1934,7 +2006,7 @@
       "designation": "Executive Director",
       "department": "Business Operations",
       "location": "Pharma Corporate",
-      "doj": "2022-01-20",
+      "doj": "2022-01-19",
       "dob": "1970-01-01"
     },
     "15105387": {
@@ -1942,7 +2014,7 @@
       "designation": "Assistant Manager",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2022-01-25",
+      "doj": "2022-01-24",
       "dob": "1987-07-21"
     },
     "15105393": {
@@ -1950,7 +2022,7 @@
       "designation": "Senior Executive",
       "department": "Sales and Distribution",
       "location": "Ceramics Corporate",
-      "doj": "2022-02-01",
+      "doj": "2022-01-31",
       "dob": "1996-03-08"
     },
     "15105397": {
@@ -1958,7 +2030,7 @@
       "designation": "Assistant Manager",
       "department": "Director's Secretariat",
       "location": "Corporate Office",
-      "doj": "2022-02-01",
+      "doj": "2022-01-31",
       "dob": "1989-01-05"
     },
     "15105462": {
@@ -1966,7 +2038,7 @@
       "designation": "Junior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2019-03-02",
+      "doj": "2019-03-01",
       "dob": "1992-01-02"
     },
     "15105475": {
@@ -1982,7 +2054,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-03-15",
+      "doj": "2022-03-14",
       "dob": "1995-06-06"
     },
     "15105521": {
@@ -1990,7 +2062,7 @@
       "designation": "Senior Executive",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2022-03-12",
+      "doj": "2022-03-11",
       "dob": "1998-05-12"
     },
     "15105568": {
@@ -1998,7 +2070,7 @@
       "designation": "Assistant Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2022-04-02",
+      "doj": "2022-04-01",
       "dob": "1996-10-26"
     },
     "15105631": {
@@ -2006,7 +2078,7 @@
       "designation": "Deputy Manager",
       "department": "Strategic Sourcing",
       "location": "Pharma Corporate",
-      "doj": "2022-04-02",
+      "doj": "2022-04-01",
       "dob": "1992-02-23"
     },
     "15105632": {
@@ -2014,7 +2086,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-04-09",
+      "doj": "2022-04-08",
       "dob": "1991-01-01"
     },
     "15105633": {
@@ -2022,15 +2094,23 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-04-09",
+      "doj": "2022-04-08",
       "dob": "1990-01-01"
+    },
+    "15105635": {
+      "name": "Mr.Arif Mahmud",
+      "designation": "Senior Executive",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2022-04-01",
+      "dob": "1992-10-20"
     },
     "15105668": {
       "name": "Mr.Md. Shamim",
       "designation": "Executive",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2019-08-20",
+      "doj": "2019-08-19",
       "dob": "1994-10-10"
     },
     "15105675": {
@@ -2038,7 +2118,7 @@
       "designation": "Senior Manager",
       "department": "Commercial",
       "location": "Ceramics Corporate",
-      "doj": "2022-04-16",
+      "doj": "2022-04-15",
       "dob": "1989-12-11"
     },
     "15105676": {
@@ -2046,7 +2126,7 @@
       "designation": "Executive II",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2022-04-16",
+      "doj": "2022-04-15",
       "dob": "1991-12-03"
     },
     "15105697": {
@@ -2054,15 +2134,23 @@
       "designation": "Officer",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2022-04-24",
+      "doj": "2022-04-23",
       "dob": "1995-12-31"
+    },
+    "15105699": {
+      "name": "Mr.Md. Abdur Rahman Hero",
+      "designation": "Assistant Manager",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2022-05-14",
+      "dob": "1988-06-05"
     },
     "15105701": {
       "name": "Mr.S.M Sohag",
       "designation": "Assistant Manager",
       "department": "Sales and Distribution",
       "location": "Ceramics Corporate",
-      "doj": "2022-05-11",
+      "doj": "2022-05-10",
       "dob": "1994-08-05"
     },
     "15105737": {
@@ -2070,7 +2158,7 @@
       "designation": "Senior Executive",
       "department": "Business Development",
       "location": "Pharma Corporate",
-      "doj": "2022-05-10",
+      "doj": "2022-05-09",
       "dob": "1977-06-04"
     },
     "15105766": {
@@ -2094,7 +2182,7 @@
       "designation": "Assistant Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2022-05-25",
+      "doj": "2022-05-24",
       "dob": "1995-11-16"
     },
     "15105803": {
@@ -2110,7 +2198,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2022-07-16",
+      "doj": "2022-07-15",
       "dob": "1989-12-15"
     },
     "15105926": {
@@ -2118,7 +2206,7 @@
       "designation": "Senior Portfolio Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2022-07-02",
+      "doj": "2022-07-01",
       "dob": "1990-07-01"
     },
     "15105927": {
@@ -2126,7 +2214,7 @@
       "designation": "Senior Executive",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2022-07-02",
+      "doj": "2022-07-01",
       "dob": "1992-12-12"
     },
     "15105928": {
@@ -2134,7 +2222,7 @@
       "designation": "Officer",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2022-07-02",
+      "doj": "2022-07-01",
       "dob": "1999-08-08"
     },
     "15105931": {
@@ -2142,7 +2230,7 @@
       "designation": "Senior Executive",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2022-06-29",
+      "doj": "2022-06-28",
       "dob": "1983-10-27"
     },
     "15105950": {
@@ -2150,8 +2238,16 @@
       "designation": "Senior Executive",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2022-07-12",
+      "doj": "2022-07-11",
       "dob": "1996-08-24"
+    },
+    "15105951": {
+      "name": "Ms.Pallabe Saha",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Pharma Corporate",
+      "doj": "2022-07-15",
+      "dob": "1995-07-08"
     },
     "15105957": {
       "name": "Mr.Sultan Mahmud",
@@ -2166,7 +2262,7 @@
       "designation": "Assistant Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2022-07-20",
+      "doj": "2022-07-19",
       "dob": "1991-11-05"
     },
     "15106003": {
@@ -2174,7 +2270,7 @@
       "designation": "Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2022-08-06",
+      "doj": "2022-08-05",
       "dob": "1992-11-25"
     },
     "15106004": {
@@ -2182,7 +2278,7 @@
       "designation": "Assistant Manager",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2022-08-16",
+      "doj": "2022-08-15",
       "dob": "1994-06-30"
     },
     "15106006": {
@@ -2190,7 +2286,7 @@
       "designation": "Deputy Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2022-08-01",
+      "doj": "2022-07-31",
       "dob": "1991-08-20"
     },
     "15106084": {
@@ -2198,7 +2294,7 @@
       "designation": "Senior Executive",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2022-09-01",
+      "doj": "2022-08-31",
       "dob": "1995-01-15"
     },
     "15106088": {
@@ -2214,7 +2310,7 @@
       "designation": "Assistant Manager",
       "department": "Sustainability",
       "location": "Corporate Office",
-      "doj": "2022-09-07",
+      "doj": "2022-09-06",
       "dob": "1997-05-15"
     },
     "15106121": {
@@ -2230,15 +2326,23 @@
       "designation": "Assistant Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2022-09-15",
+      "doj": "2022-09-14",
       "dob": "1995-05-18"
+    },
+    "15106150": {
+      "name": "Mr.Md. Habibur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Commercial",
+      "location": "Corporate Office",
+      "doj": "2022-09-21",
+      "dob": "1989-12-10"
     },
     "15106167": {
       "name": "Mr.Golam Sorfuddin Khan",
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2022-10-01",
+      "doj": "2022-09-30",
       "dob": "1993-01-08"
     },
     "15106217": {
@@ -2254,7 +2358,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-10-20",
+      "doj": "2022-10-19",
       "dob": "1997-02-19"
     },
     "15106262": {
@@ -2262,7 +2366,7 @@
       "designation": "Deputy Manager",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2022-11-01",
+      "doj": "2022-10-31",
       "dob": "1992-10-27"
     },
     "15106263": {
@@ -2270,7 +2374,7 @@
       "designation": "Senior Executive",
       "department": "IT Governance",
       "location": "Digital Corporate",
-      "doj": "2022-11-01",
+      "doj": "2022-10-31",
       "dob": "1991-11-27"
     },
     "15106264": {
@@ -2278,7 +2382,7 @@
       "designation": "Deputy General Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2022-11-01",
+      "doj": "2022-10-31",
       "dob": "1977-02-15"
     },
     "15106266": {
@@ -2286,7 +2390,7 @@
       "designation": "Senior Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2022-11-01",
+      "doj": "2022-10-31",
       "dob": "1980-02-12"
     },
     "15106322": {
@@ -2302,7 +2406,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-11-15",
+      "doj": "2022-11-14",
       "dob": "1994-04-16"
     },
     "15106388": {
@@ -2310,7 +2414,7 @@
       "designation": "Assistant General Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2022-12-06",
+      "doj": "2022-12-05",
       "dob": "1982-12-10"
     },
     "15106396": {
@@ -2318,7 +2422,7 @@
       "designation": "Officer",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2018-11-01",
+      "doj": "2018-10-31",
       "dob": "1992-12-26"
     },
     "15106397": {
@@ -2326,7 +2430,7 @@
       "designation": "Officer",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2020-11-16",
+      "doj": "2020-11-15",
       "dob": "1987-10-26"
     },
     "15106398": {
@@ -2334,7 +2438,7 @@
       "designation": "Officer",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2019-07-01",
+      "doj": "2019-06-30",
       "dob": "1990-08-10"
     },
     "15106399": {
@@ -2342,7 +2446,7 @@
       "designation": "Officer",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2019-09-15",
+      "doj": "2019-09-14",
       "dob": "1989-12-31"
     },
     "15106422": {
@@ -2358,7 +2462,7 @@
       "designation": "Senior Executive",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2023-01-01",
+      "doj": "2022-12-31",
       "dob": "1992-11-14"
     },
     "15106438": {
@@ -2366,7 +2470,7 @@
       "designation": "Assistant General Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2022-12-26",
+      "doj": "2022-12-25",
       "dob": "1984-06-01"
     },
     "15106470": {
@@ -2374,7 +2478,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2023-01-01",
+      "doj": "2022-12-31",
       "dob": "1979-08-19"
     },
     "15106472": {
@@ -2382,7 +2486,7 @@
       "designation": "Deputy Manager",
       "department": "SCM",
       "location": "Corporate Office",
-      "doj": "2023-01-01",
+      "doj": "2022-12-31",
       "dob": "1991-01-02"
     },
     "15106500": {
@@ -2390,7 +2494,7 @@
       "designation": "Head of Design and Development",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2023-01-11",
+      "doj": "2023-01-10",
       "dob": "1980-04-20"
     },
     "15106507": {
@@ -2398,7 +2502,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2023-02-01",
+      "doj": "2023-01-31",
       "dob": "1990-11-22"
     },
     "15106515": {
@@ -2414,7 +2518,7 @@
       "designation": "Senior Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2023-02-01",
+      "doj": "2023-01-31",
       "dob": "1984-09-26"
     },
     "15106520": {
@@ -2422,7 +2526,7 @@
       "designation": "Assistant Manager",
       "department": "IT Support",
       "location": "Corporate Office",
-      "doj": "2023-02-05",
+      "doj": "2023-02-04",
       "dob": "1987-02-10"
     },
     "15106550": {
@@ -2430,7 +2534,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-02-22",
+      "doj": "2023-02-21",
       "dob": "1998-11-24"
     },
     "15106594": {
@@ -2438,7 +2542,7 @@
       "designation": "Executive",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2023-05-02",
+      "doj": "2023-05-01",
       "dob": "1996-01-03"
     },
     "15106595": {
@@ -2446,7 +2550,7 @@
       "designation": "Senior Executive",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2023-05-02",
+      "doj": "2023-05-01",
       "dob": "1995-10-03"
     },
     "15106628": {
@@ -2454,7 +2558,7 @@
       "designation": "Group Chief Financial Officer",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-03-19",
+      "doj": "2023-03-18",
       "dob": "1976-10-02"
     },
     "15106636": {
@@ -2462,7 +2566,7 @@
       "designation": "Assistant General Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2023-05-02",
+      "doj": "2023-05-01",
       "dob": "1977-02-02"
     },
     "15106676": {
@@ -2470,7 +2574,7 @@
       "designation": "Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2023-04-01",
+      "doj": "2023-03-31",
       "dob": "1984-06-01"
     },
     "15106683": {
@@ -2478,7 +2582,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2023-04-10",
+      "doj": "2023-04-09",
       "dob": "1994-01-07"
     },
     "15106726": {
@@ -2486,7 +2590,7 @@
       "designation": "Senior Executive",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2023-05-02",
+      "doj": "2023-05-01",
       "dob": "1998-11-25"
     },
     "15106768": {
@@ -2494,7 +2598,7 @@
       "designation": "Senior Associate",
       "department": "Market Supply Chain",
       "location": "Pharma Corporate",
-      "doj": "2018-12-01",
+      "doj": "2018-11-30",
       "dob": "1998-11-25"
     },
     "15106801": {
@@ -2502,7 +2606,7 @@
       "designation": "Junior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2022-03-01",
+      "doj": "2022-02-28",
       "dob": "1997-10-04"
     },
     "15106803": {
@@ -2510,7 +2614,7 @@
       "designation": "Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2022-04-10",
+      "doj": "2022-04-09",
       "dob": "1997-12-05"
     },
     "15106852": {
@@ -2518,7 +2622,7 @@
       "designation": "Architect",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2023-06-05",
+      "doj": "2023-06-04",
       "dob": "1990-10-28"
     },
     "15106884": {
@@ -2526,7 +2630,7 @@
       "designation": "Assistant Manager",
       "department": "Medical Affairs",
       "location": "Pharma Corporate",
-      "doj": "2023-07-15",
+      "doj": "2023-07-14",
       "dob": "1987-10-29"
     },
     "15106949": {
@@ -2534,7 +2638,7 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2023-07-15",
+      "doj": "2023-07-14",
       "dob": "1992-12-20"
     },
     "15106959": {
@@ -2550,7 +2654,7 @@
       "designation": "Assistant Manager",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2023-08-01",
+      "doj": "2023-07-31",
       "dob": "1996-05-09"
     },
     "15106971": {
@@ -2558,7 +2662,7 @@
       "designation": "Chief Financial Officer",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2023-08-01",
+      "doj": "2023-07-31",
       "dob": "1978-08-08"
     },
     "15106976": {
@@ -2566,7 +2670,7 @@
       "designation": "Senior Executive",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2023-07-18",
+      "doj": "2023-07-17",
       "dob": "1997-09-15"
     },
     "15106977": {
@@ -2574,7 +2678,7 @@
       "designation": "Senior Executive",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2023-07-18",
+      "doj": "2023-07-17",
       "dob": "2000-01-11"
     },
     "15106981": {
@@ -2582,7 +2686,7 @@
       "designation": "Executive II",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2023-08-16",
+      "doj": "2023-08-15",
       "dob": "1993-11-28"
     },
     "15106996": {
@@ -2598,7 +2702,7 @@
       "designation": "Senior Executive",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2023-08-03",
+      "doj": "2023-08-02",
       "dob": "1998-12-25"
     },
     "15107019": {
@@ -2614,7 +2718,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2023-08-10",
+      "doj": "2023-08-09",
       "dob": "1988-02-16"
     },
     "15107024": {
@@ -2622,7 +2726,7 @@
       "designation": "Finance Controller",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-08-16",
+      "doj": "2023-08-15",
       "dob": "1988-12-01"
     },
     "15107036": {
@@ -2638,7 +2742,7 @@
       "designation": "Assistant Manager",
       "department": "Central Distribution Center",
       "location": "Lifestyle Corporate",
-      "doj": "2023-08-16",
+      "doj": "2023-08-15",
       "dob": "1993-11-23"
     },
     "15107093": {
@@ -2654,7 +2758,7 @@
       "designation": "Assistant Manager",
       "department": "Corporate HR",
       "location": "ECO Thread Corporate",
-      "doj": "2023-09-10",
+      "doj": "2023-09-09",
       "dob": "1993-06-07"
     },
     "15107148": {
@@ -2662,7 +2766,7 @@
       "designation": "Senior Manager",
       "department": "Business Excellence",
       "location": "Ceramics Corporate",
-      "doj": "2023-09-16",
+      "doj": "2023-09-15",
       "dob": "1989-01-24"
     },
     "15107155": {
@@ -2670,7 +2774,7 @@
       "designation": "Deputy Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2023-09-16",
+      "doj": "2023-09-15",
       "dob": "1994-06-11"
     },
     "15107177": {
@@ -2678,7 +2782,7 @@
       "designation": "Additional General Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2023-09-21",
+      "doj": "2023-09-20",
       "dob": "1971-01-01"
     },
     "15107179": {
@@ -2686,7 +2790,7 @@
       "designation": "Outlet In-Charge",
       "department": "Outlet",
       "location": "Lifestyle Corporate",
-      "doj": "2022-06-21",
+      "doj": "2022-06-20",
       "dob": "1996-12-15"
     },
     "15107187": {
@@ -2694,7 +2798,7 @@
       "designation": "Assistant Manager",
       "department": "International Marketing",
       "location": "Pharma Corporate",
-      "doj": "2023-10-15",
+      "doj": "2023-10-14",
       "dob": "1995-07-16"
     },
     "15107189": {
@@ -2702,7 +2806,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2023-10-01",
+      "doj": "2023-09-30",
       "dob": "1994-11-07"
     },
     "15107217": {
@@ -2710,7 +2814,7 @@
       "designation": "Officer",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2023-10-15",
+      "doj": "2023-10-14",
       "dob": "1996-01-01"
     },
     "15107231": {
@@ -2718,7 +2822,7 @@
       "designation": "Manager",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2023-10-15",
+      "doj": "2023-10-14",
       "dob": "1991-11-30"
     },
     "15107261": {
@@ -2726,7 +2830,7 @@
       "designation": "Head of Sales and Marketing",
       "department": "Sales and Marketing",
       "location": "Pharma Corporate",
-      "doj": "2023-11-01",
+      "doj": "2023-10-31",
       "dob": "1972-12-06"
     },
     "15107268": {
@@ -2734,7 +2838,7 @@
       "designation": "Manager",
       "department": "Business Development",
       "location": "Pharma Corporate",
-      "doj": "2023-12-01",
+      "doj": "2023-11-30",
       "dob": "1984-09-03"
     },
     "15107283": {
@@ -2742,15 +2846,23 @@
       "designation": "Assistant General Manager",
       "department": "Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2023-11-01",
+      "doj": "2023-10-31",
       "dob": "1971-01-01"
+    },
+    "15107303": {
+      "name": "Mr.Md. Samshuzzoha Zoha",
+      "designation": "Manager",
+      "department": "Construction",
+      "location": "Corporate Office",
+      "doj": "2023-10-31",
+      "dob": "1988-12-10"
     },
     "15107323": {
       "name": "Mr.Md. Emtiaz Yousuf",
       "designation": "Senior Portfolio Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2023-12-10",
+      "doj": "2023-12-09",
       "dob": "1991-07-06"
     },
     "15107333": {
@@ -2758,7 +2870,7 @@
       "designation": "Manager",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2023-11-15",
+      "doj": "2023-11-14",
       "dob": "1990-03-12"
     },
     "15107349": {
@@ -2766,7 +2878,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2023-11-20",
+      "doj": "2023-11-19",
       "dob": "1995-09-25"
     },
     "15107399": {
@@ -2774,7 +2886,7 @@
       "designation": "Executive",
       "department": "Corporate HR",
       "location": "ECO Thread Corporate",
-      "doj": "2023-12-17",
+      "doj": "2023-12-16",
       "dob": "2000-07-01"
     },
     "15107405": {
@@ -2782,7 +2894,7 @@
       "designation": "Executive",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2023-12-02",
+      "doj": "2023-12-01",
       "dob": "1994-07-03"
     },
     "15107406": {
@@ -2790,7 +2902,7 @@
       "designation": "General Manager",
       "department": "Operations",
       "location": "Corporate Office",
-      "doj": "2023-12-02",
+      "doj": "2023-12-01",
       "dob": "1971-05-27"
     },
     "15107409": {
@@ -2798,7 +2910,7 @@
       "designation": "Business Development Manager",
       "department": "Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2023-12-17",
+      "doj": "2023-12-16",
       "dob": "1985-03-31"
     },
     "15107423": {
@@ -2806,7 +2918,7 @@
       "designation": "Engineer",
       "department": "IT Support",
       "location": "Corporate Office",
-      "doj": "2023-12-05",
+      "doj": "2023-12-04",
       "dob": "1999-09-08"
     },
     "15107433": {
@@ -2814,7 +2926,7 @@
       "designation": "Outlet In-Charge",
       "department": "Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2023-12-23",
+      "doj": "2023-12-22",
       "dob": "1996-03-30"
     },
     "15107441": {
@@ -2822,7 +2934,7 @@
       "designation": "Deputy Manager",
       "department": "Corporate HR",
       "location": "Ceramics Corporate",
-      "doj": "2023-12-17",
+      "doj": "2023-12-16",
       "dob": "1996-12-24"
     },
     "15107468": {
@@ -2838,7 +2950,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-01-01",
+      "doj": "2023-12-31",
       "dob": "1989-01-24"
     },
     "15107512": {
@@ -2846,7 +2958,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-01-01",
+      "doj": "2023-12-31",
       "dob": "1995-10-20"
     },
     "15107521": {
@@ -2854,7 +2966,7 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-01-10",
+      "doj": "2024-01-09",
       "dob": "1987-03-02"
     },
     "15107522": {
@@ -2862,7 +2974,7 @@
       "designation": "Executive Director",
       "department": "Operations",
       "location": "Corporate Office",
-      "doj": "2023-12-13",
+      "doj": "2023-12-12",
       "dob": "1970-01-01"
     },
     "15107549": {
@@ -2870,7 +2982,7 @@
       "designation": "Chief Engineer",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2024-01-16",
+      "doj": "2024-01-15",
       "dob": "1968-10-11"
     },
     "15107559": {
@@ -2886,7 +2998,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-02-01",
+      "doj": "2024-01-31",
       "dob": "1997-11-27"
     },
     "15107609": {
@@ -2894,7 +3006,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-02-01",
+      "doj": "2024-01-31",
       "dob": "1997-12-31"
     },
     "15107624": {
@@ -2902,7 +3014,7 @@
       "designation": "Senior Executive",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2024-02-01",
+      "doj": "2024-01-31",
       "dob": "1999-11-03"
     },
     "15107631": {
@@ -2918,7 +3030,7 @@
       "designation": "Senior Executive",
       "department": "Sales",
       "location": "ECO Thread Corporate",
-      "doj": "2024-02-15",
+      "doj": "2024-02-14",
       "dob": "1984-11-10"
     },
     "15107643": {
@@ -2934,7 +3046,7 @@
       "designation": "Functional Analyst",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2024-02-15",
+      "doj": "2024-02-14",
       "dob": "1997-07-16"
     },
     "15107678": {
@@ -2942,7 +3054,7 @@
       "designation": "Senior Manager",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2024-03-02",
+      "doj": "2024-03-01",
       "dob": "1990-09-29"
     },
     "15107730": {
@@ -2950,7 +3062,7 @@
       "designation": "Functional Analyst",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2024-03-16",
+      "doj": "2024-03-15",
       "dob": "1994-07-07"
     },
     "15107747": {
@@ -2966,7 +3078,7 @@
       "designation": "Senior Executive",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2024-04-01",
+      "doj": "2024-03-31",
       "dob": "1994-06-18"
     },
     "15107773": {
@@ -2974,7 +3086,7 @@
       "designation": "Senior Programmer",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2024-04-15",
+      "doj": "2024-04-14",
       "dob": "1994-12-27"
     },
     "15107774": {
@@ -2982,7 +3094,7 @@
       "designation": "Senior Software Engineer",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2024-04-16",
+      "doj": "2024-04-15",
       "dob": "1996-08-15"
     },
     "15107797": {
@@ -2998,7 +3110,7 @@
       "designation": "Assistant Manager",
       "department": "Retail Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2024-05-07",
+      "doj": "2024-05-06",
       "dob": "1996-08-08"
     },
     "15107804": {
@@ -3006,7 +3118,7 @@
       "designation": "Senior Executive",
       "department": "Corporate Admin",
       "location": "ECO Thread Corporate",
-      "doj": "2024-05-05",
+      "doj": "2024-05-04",
       "dob": "1994-01-05"
     },
     "15107807": {
@@ -3022,7 +3134,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-05-02",
+      "doj": "2024-05-01",
       "dob": "1993-01-01"
     },
     "15107838": {
@@ -3030,7 +3142,7 @@
       "designation": "Senior Executive",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2024-05-11",
+      "doj": "2024-05-10",
       "dob": "1988-06-01"
     },
     "15107840": {
@@ -3038,7 +3150,7 @@
       "designation": "Senior Executive",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2024-06-01",
+      "doj": "2024-05-31",
       "dob": "1998-09-10"
     },
     "15107841": {
@@ -3062,7 +3174,7 @@
       "designation": "Officer",
       "department": "IT Infrastructure",
       "location": "ECO Thread Corporate",
-      "doj": "2024-05-20",
+      "doj": "2024-05-19",
       "dob": "1997-11-23"
     },
     "15107858": {
@@ -3070,7 +3182,7 @@
       "designation": "Assistant Manager",
       "department": "Cost and Budget",
       "location": "Corporate Office",
-      "doj": "2024-05-15",
+      "doj": "2024-05-14",
       "dob": "1993-09-14"
     },
     "15107957": {
@@ -3086,7 +3198,7 @@
       "designation": "Head of Marketing",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1986-06-15"
     },
     "15107964": {
@@ -3102,7 +3214,7 @@
       "designation": "Assistant Manager",
       "department": "Construction",
       "location": "Corporate Office",
-      "doj": "2024-06-25",
+      "doj": "2024-06-24",
       "dob": "1995-11-25"
     },
     "15107983": {
@@ -3118,7 +3230,7 @@
       "designation": "Senior Executive",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1996-11-28"
     },
     "15107990": {
@@ -3126,7 +3238,7 @@
       "designation": "Junior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1996-11-12"
     },
     "15107992": {
@@ -3134,7 +3246,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1993-10-02"
     },
     "15107993": {
@@ -3142,7 +3254,7 @@
       "designation": "Deputy Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1992-09-01"
     },
     "15107994": {
@@ -3150,7 +3262,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1991-08-12"
     },
     "15107997": {
@@ -3166,7 +3278,7 @@
       "designation": "Junior Executive",
       "department": "Commercial",
       "location": "ECO Thread Corporate",
-      "doj": "2024-07-01",
+      "doj": "2024-06-30",
       "dob": "1992-11-07"
     },
     "15108006": {
@@ -3174,7 +3286,7 @@
       "designation": "Executive",
       "department": "Sales",
       "location": "ECO Thread Corporate",
-      "doj": "2024-08-18",
+      "doj": "2024-08-17",
       "dob": "1995-12-08"
     },
     "15108036": {
@@ -3182,7 +3294,7 @@
       "designation": "Site Engineer",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2024-07-15",
+      "doj": "2024-07-14",
       "dob": "1993-10-26"
     },
     "15108045": {
@@ -3190,7 +3302,7 @@
       "designation": "Senior Executive",
       "department": "Regulatory Affairs",
       "location": "Pharma Corporate",
-      "doj": "2024-09-01",
+      "doj": "2024-08-31",
       "dob": "1994-12-28"
     },
     "15108049": {
@@ -3198,7 +3310,7 @@
       "designation": "Assistant Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2024-08-01",
+      "doj": "2024-07-31",
       "dob": "1988-05-04"
     },
     "15108066": {
@@ -3214,7 +3326,7 @@
       "designation": "Portfolio Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2024-09-01",
+      "doj": "2024-08-31",
       "dob": "1990-11-30"
     },
     "15108123": {
@@ -3222,7 +3334,7 @@
       "designation": "Assistant General Manager",
       "department": "Regulatory Affairs",
       "location": "Corporate Office",
-      "doj": "2024-09-10",
+      "doj": "2024-09-09",
       "dob": "1987-10-15"
     },
     "15108131": {
@@ -3246,7 +3358,7 @@
       "designation": "Senior Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2024-10-01",
+      "doj": "2024-09-30",
       "dob": "1991-01-01"
     },
     "15108152": {
@@ -3254,7 +3366,7 @@
       "designation": "Head of Supply Chain",
       "department": "SCM",
       "location": "ECO Thread Corporate",
-      "doj": "2024-10-15",
+      "doj": "2024-10-14",
       "dob": "1975-12-01"
     },
     "15108162": {
@@ -3262,7 +3374,7 @@
       "designation": "Senior Portfolio Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2024-10-31",
+      "doj": "2024-10-30",
       "dob": "1986-06-15"
     },
     "15108185": {
@@ -3270,7 +3382,7 @@
       "designation": "Senior Manager",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2024-10-10",
+      "doj": "2024-10-09",
       "dob": "1982-12-15"
     },
     "15108192": {
@@ -3278,7 +3390,7 @@
       "designation": "Head of Human Resources",
       "department": "Corporate HR",
       "location": "Pharma Corporate",
-      "doj": "2024-10-20",
+      "doj": "2024-10-19",
       "dob": "1969-01-20"
     },
     "15108208": {
@@ -3294,7 +3406,7 @@
       "designation": "Officer",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2024-11-23",
+      "doj": "2024-11-22",
       "dob": "1994-07-28"
     },
     "15108215": {
@@ -3302,15 +3414,31 @@
       "designation": "Assistant Manager",
       "department": "Ecommerce",
       "location": "Lifestyle Corporate",
-      "doj": "2024-11-02",
+      "doj": "2024-11-01",
       "dob": "1990-01-01"
+    },
+    "15108217": {
+      "name": "Mr.Nur Mohammad Arefin",
+      "designation": "Executive",
+      "department": "Sales",
+      "location": "Ceramics Corporate",
+      "doj": "2024-11-15",
+      "dob": "1997-05-02"
+    },
+    "15108218": {
+      "name": "Mr.Md. Momenur Rahman",
+      "designation": "Assistant Manager",
+      "department": "Marketing",
+      "location": "Corporate Office",
+      "doj": "2024-11-01",
+      "dob": "1991-11-01"
     },
     "15108234": {
       "name": "Mr.Md. Mahedy Hassan Rana",
       "designation": "Officer",
       "department": "Accounts and Finance",
       "location": "ECO Thread Corporate",
-      "doj": "2024-11-10",
+      "doj": "2024-11-09",
       "dob": "1998-12-10"
     },
     "15108237": {
@@ -3318,8 +3446,16 @@
       "designation": "Executive I",
       "department": "Procurement",
       "location": "Pharma Corporate",
-      "doj": "2024-11-17",
+      "doj": "2024-11-16",
       "dob": "2000-07-20"
+    },
+    "15108297": {
+      "name": "Mr.Md. Enamul Haque Ibn Shams",
+      "designation": "Deputy Manager",
+      "department": "Merchandising",
+      "location": "Lifestyle Corporate",
+      "doj": "2024-11-30",
+      "dob": "1994-12-31"
     },
     "15108298": {
       "name": "Ms.Tahsin Tarannum",
@@ -3334,7 +3470,7 @@
       "designation": "Architect",
       "department": "Design and Development",
       "location": "Corporate Office",
-      "doj": "2024-12-01",
+      "doj": "2024-11-30",
       "dob": "1996-12-10"
     },
     "15108323": {
@@ -3342,7 +3478,7 @@
       "designation": "Product Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2024-12-12",
+      "doj": "2024-12-11",
       "dob": "1998-04-04"
     },
     "15108335": {
@@ -3358,7 +3494,7 @@
       "designation": "Executive",
       "department": "Pre-Audit",
       "location": "Corporate Office",
-      "doj": "2025-01-01",
+      "doj": "2024-12-31",
       "dob": "1992-12-08"
     },
     "15108386": {
@@ -3366,7 +3502,7 @@
       "designation": "Portfolio Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-01-06",
+      "doj": "2025-01-05",
       "dob": "1996-02-12"
     },
     "15108392": {
@@ -3390,7 +3526,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2025-01-15",
+      "doj": "2025-01-14",
       "dob": "1992-09-11"
     },
     "15108437": {
@@ -3406,7 +3542,7 @@
       "designation": "Executive",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2025-02-01",
+      "doj": "2025-01-31",
       "dob": "1998-04-05"
     },
     "15108469": {
@@ -3414,7 +3550,7 @@
       "designation": "Executive II",
       "department": "Commercial",
       "location": "Pharma Corporate",
-      "doj": "2025-02-25",
+      "doj": "2025-02-24",
       "dob": "1996-02-12"
     },
     "15108474": {
@@ -3430,7 +3566,7 @@
       "designation": "Outlet In-Charge",
       "department": "Retail Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2025-02-25",
+      "doj": "2025-02-24",
       "dob": "1996-03-15"
     },
     "15108551": {
@@ -3438,7 +3574,7 @@
       "designation": "Assistant Officer",
       "department": "Transport",
       "location": "Farmgate Office",
-      "doj": "2025-03-06",
+      "doj": "2025-03-05",
       "dob": "1995-11-11"
     },
     "15108554": {
@@ -3446,7 +3582,7 @@
       "designation": "Outlet In-Charge",
       "department": "Retail Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2025-03-15",
+      "doj": "2025-03-14",
       "dob": "1994-03-01"
     },
     "15108556": {
@@ -3454,7 +3590,7 @@
       "designation": "Executive",
       "department": "Accounts and Finance",
       "location": "Ceramics Corporate",
-      "doj": "2025-04-10",
+      "doj": "2025-04-09",
       "dob": "1997-10-11"
     },
     "15108563": {
@@ -3462,7 +3598,7 @@
       "designation": "Senior Manager",
       "department": "International Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-04-06",
+      "doj": "2025-04-05",
       "dob": "1989-10-01"
     },
     "15108622": {
@@ -3486,7 +3622,7 @@
       "designation": "Area Manager",
       "department": "Retail Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2025-04-30",
+      "doj": "2025-04-29",
       "dob": "1990-12-24"
     },
     "15108713": {
@@ -3502,7 +3638,7 @@
       "designation": "Assistant Manager",
       "department": "Central Distribution Center",
       "location": "Farmgate Office",
-      "doj": "2025-05-05",
+      "doj": "2025-05-04",
       "dob": "1995-01-01"
     },
     "15108728": {
@@ -3510,7 +3646,7 @@
       "designation": "Senior Brand Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-05-15",
+      "doj": "2025-05-14",
       "dob": "1999-10-20"
     },
     "15108729": {
@@ -3518,7 +3654,7 @@
       "designation": "Product Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-05-15",
+      "doj": "2025-05-14",
       "dob": "2000-01-06"
     },
     "15108730": {
@@ -3534,7 +3670,7 @@
       "designation": "Senior Brand Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-06-01",
+      "doj": "2025-05-31",
       "dob": "1994-05-15"
     },
     "15108853": {
@@ -3542,7 +3678,7 @@
       "designation": "Junior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2025-06-15",
+      "doj": "2025-06-14",
       "dob": "1998-10-11"
     },
     "15108872": {
@@ -3550,7 +3686,7 @@
       "designation": "Officer",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-06-21",
+      "doj": "2025-06-20",
       "dob": "2000-10-28"
     },
     "15108873": {
@@ -3558,7 +3694,7 @@
       "designation": "Assistant Manager",
       "department": "Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-06-21",
+      "doj": "2025-06-20",
       "dob": "1996-12-28"
     },
     "15108874": {
@@ -3566,7 +3702,7 @@
       "designation": "Junior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2025-06-15",
+      "doj": "2025-06-14",
       "dob": "1997-04-21"
     },
     "15108875": {
@@ -3574,7 +3710,7 @@
       "designation": "Senior Executive",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2025-06-15",
+      "doj": "2025-06-14",
       "dob": "1992-11-24"
     },
     "15108881": {
@@ -3590,7 +3726,7 @@
       "designation": "Chief Executive Officer",
       "department": "Operations",
       "location": "Corporate Office",
-      "doj": "2025-06-15",
+      "doj": "2025-06-14",
       "dob": "1972-11-13"
     },
     "15108902": {
@@ -3598,7 +3734,7 @@
       "designation": "Junior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2025-06-19",
+      "doj": "2025-06-18",
       "dob": "2000-09-25"
     },
     "15108915": {
@@ -3614,7 +3750,7 @@
       "designation": "Executive",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-07-01",
+      "doj": "2025-06-30",
       "dob": "1999-06-30"
     },
     "15108923": {
@@ -3622,7 +3758,7 @@
       "designation": "Executive Director",
       "department": "Manufacturing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-06-01",
+      "doj": "2025-05-31",
       "dob": "1956-10-25"
     },
     "15108927": {
@@ -3630,7 +3766,7 @@
       "designation": "Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2025-07-01",
+      "doj": "2025-06-30",
       "dob": "1989-05-15"
     },
     "15108959": {
@@ -3638,7 +3774,7 @@
       "designation": "Executive I",
       "department": "Business Excellence",
       "location": "Pharma Corporate",
-      "doj": "2025-07-15",
+      "doj": "2025-07-14",
       "dob": "1999-12-25"
     },
     "15108977": {
@@ -3646,7 +3782,7 @@
       "designation": "Senior Brand Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-08-03",
+      "doj": "2025-08-02",
       "dob": "1988-12-01"
     },
     "15109017": {
@@ -3654,7 +3790,7 @@
       "designation": "Senior Portfolio Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-08-03",
+      "doj": "2025-08-02",
       "dob": "1990-08-10"
     },
     "15109039": {
@@ -3662,7 +3798,7 @@
       "designation": "Officer",
       "department": "Customer Service",
       "location": "ECO Thread Corporate",
-      "doj": "2025-08-12",
+      "doj": "2025-08-11",
       "dob": "1998-03-23"
     },
     "15109072": {
@@ -3686,7 +3822,7 @@
       "designation": "Officer",
       "department": "Commercial",
       "location": "ECO Thread Corporate",
-      "doj": "2025-09-01",
+      "doj": "2025-08-31",
       "dob": "1998-09-20"
     },
     "15109121": {
@@ -3702,7 +3838,7 @@
       "designation": "Assistant Manager",
       "department": "Enterprise System",
       "location": "ECO Thread Corporate",
-      "doj": "2025-09-07",
+      "doj": "2025-09-06",
       "dob": "1992-06-05"
     },
     "15109144": {
@@ -3718,7 +3854,7 @@
       "designation": "Functional Analyst",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2025-09-01",
+      "doj": "2025-08-31",
       "dob": "2000-03-23"
     },
     "15109217": {
@@ -3726,7 +3862,7 @@
       "designation": "Deputy Manager",
       "department": "Planning and Implementation",
       "location": "Ceramics Corporate",
-      "doj": "2025-10-16",
+      "doj": "2025-10-15",
       "dob": "1995-12-11"
     },
     "15109221": {
@@ -3734,7 +3870,7 @@
       "designation": "Deputy Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2025-10-01",
+      "doj": "2025-09-30",
       "dob": "1990-11-01"
     },
     "15109248": {
@@ -3742,7 +3878,7 @@
       "designation": "Product Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-10-05",
+      "doj": "2025-10-04",
       "dob": "2000-10-15"
     },
     "15109249": {
@@ -3750,7 +3886,7 @@
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2025-10-15",
+      "doj": "2025-10-14",
       "dob": "1996-03-06"
     },
     "15109250": {
@@ -3758,7 +3894,7 @@
       "designation": "Assistant Manager",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2025-10-06",
+      "doj": "2025-10-05",
       "dob": "1994-01-01"
     },
     "15109260": {
@@ -3766,7 +3902,7 @@
       "designation": "Senior Executive",
       "department": "Procurement",
       "location": "Corporate Office",
-      "doj": "2025-10-01",
+      "doj": "2025-09-30",
       "dob": "1997-04-22"
     },
     "15109261": {
@@ -3774,7 +3910,7 @@
       "designation": "Senior Executive",
       "department": "Commercial",
       "location": "Corporate Office",
-      "doj": "2025-10-01",
+      "doj": "2025-09-30",
       "dob": "1994-11-20"
     },
     "15109263": {
@@ -3782,7 +3918,7 @@
       "designation": "Executive",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2025-10-01",
+      "doj": "2025-09-30",
       "dob": "1998-01-01"
     },
     "15109287": {
@@ -3790,7 +3926,7 @@
       "designation": "Senior Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2025-10-15",
+      "doj": "2025-10-14",
       "dob": "1996-03-10"
     },
     "15109288": {
@@ -3814,7 +3950,7 @@
       "designation": "Product Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2025-10-26",
+      "doj": "2025-10-25",
       "dob": "1999-06-06"
     },
     "15109322": {
@@ -3822,7 +3958,7 @@
       "designation": "Senior Manager",
       "department": "IT Infrastructure",
       "location": "ECO Thread Corporate",
-      "doj": "2025-11-01",
+      "doj": "2025-10-31",
       "dob": "1990-05-24"
     },
     "15109323": {
@@ -3830,7 +3966,7 @@
       "designation": "Senior Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-11-01",
+      "doj": "2025-10-31",
       "dob": "1987-01-16"
     },
     "15109334": {
@@ -3838,7 +3974,7 @@
       "designation": "Software Engineer",
       "department": "Enterprise System",
       "location": "Digital Corporate",
-      "doj": "2025-11-01",
+      "doj": "2025-10-31",
       "dob": "1999-02-19"
     },
     "15109338": {
@@ -3854,7 +3990,7 @@
       "designation": "Executive",
       "department": "Corporate HR",
       "location": "Corporate Office",
-      "doj": "2025-11-01",
+      "doj": "2025-10-31",
       "dob": "1998-10-19"
     },
     "15109394": {
@@ -3862,7 +3998,7 @@
       "designation": "Manager",
       "department": "Marketing",
       "location": "Ceramics Corporate",
-      "doj": "2025-12-01",
+      "doj": "2025-11-30",
       "dob": "1993-12-26"
     },
     "15109409": {
@@ -3870,7 +4006,7 @@
       "designation": "Executive",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-12-01",
+      "doj": "2025-11-30",
       "dob": "1998-11-23"
     },
     "15109411": {
@@ -3878,7 +4014,7 @@
       "designation": "Senior Manager",
       "department": "Internal Audit",
       "location": "Corporate Office",
-      "doj": "2025-12-01",
+      "doj": "2025-11-30",
       "dob": "1990-03-19"
     },
     "15109413": {
@@ -3886,7 +4022,7 @@
       "designation": "Chief Information Officer",
       "department": "Operations",
       "location": "Digital Corporate",
-      "doj": "2025-11-23",
+      "doj": "2025-11-22",
       "dob": "1965-11-22"
     },
     "15109428": {
@@ -3894,7 +4030,7 @@
       "designation": "Executive",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2025-12-15",
+      "doj": "2025-12-14",
       "dob": "1997-07-22"
     },
     "15109431": {
@@ -3902,7 +4038,7 @@
       "designation": "Associate",
       "department": "Sales",
       "location": "Pharma Corporate",
-      "doj": "2025-12-21",
+      "doj": "2025-12-20",
       "dob": "1999-04-27"
     },
     "15109442": {
@@ -3910,7 +4046,7 @@
       "designation": "Executive",
       "department": "Central Distribution Center",
       "location": "Lifestyle Corporate",
-      "doj": "2025-12-15",
+      "doj": "2025-12-14",
       "dob": "1991-10-09"
     },
     "15109481": {
@@ -3918,7 +4054,7 @@
       "designation": "Senior Marketing Manager",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2026-01-05",
+      "doj": "2026-01-04",
       "dob": "1983-01-01"
     },
     "15109484": {
@@ -3926,7 +4062,7 @@
       "designation": "Portfolio Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2026-01-15",
+      "doj": "2026-01-14",
       "dob": "1996-03-06"
     },
     "15109485": {
@@ -3942,7 +4078,7 @@
       "designation": "Junior Executive",
       "department": "Accounts and Finance",
       "location": "Corporate Office",
-      "doj": "2026-01-01",
+      "doj": "2025-12-31",
       "dob": "2002-04-12"
     },
     "15109503": {
@@ -3950,7 +4086,7 @@
       "designation": "Outlet In-Charge",
       "department": "Retail Sales",
       "location": "Lifestyle Corporate",
-      "doj": "2026-01-20",
+      "doj": "2026-01-19",
       "dob": "1994-07-26"
     },
     "15109504": {
@@ -3966,7 +4102,7 @@
       "designation": "Executive",
       "department": "Pre-Audit",
       "location": "Corporate Office",
-      "doj": "2026-01-18",
+      "doj": "2026-01-17",
       "dob": "1999-06-26"
     },
     "15109537": {
@@ -3974,7 +4110,7 @@
       "designation": "Product Executive",
       "department": "Marketing",
       "location": "Pharma Corporate",
-      "doj": "2026-02-15",
+      "doj": "2026-02-14",
       "dob": "2003-03-01"
     },
     "15109540": {
@@ -3982,7 +4118,7 @@
       "designation": "Assistant Manager",
       "department": "Sales",
       "location": "Ceramics Corporate",
-      "doj": "2026-02-01",
+      "doj": "2026-01-31",
       "dob": "1995-10-09"
     },
     "15109572": {
@@ -3990,16 +4126,40 @@
       "designation": "Executive I",
       "department": "Medical Affairs",
       "location": "Pharma Corporate",
-      "doj": "2026-02-15",
+      "doj": "2026-02-14",
       "dob": "1997-10-10"
+    },
+    "15109573": {
+      "name": "Mr.Alinda Al Arib",
+      "designation": "Junior Executive",
+      "department": "Accounts and Finance",
+      "location": "Corporate Office",
+      "doj": "2026-01-31",
+      "dob": "2002-05-29"
     },
     "15109587": {
       "name": "Mr.Mezba Alam Tushar",
       "designation": "Manager",
       "department": "Sales and Marketing",
       "location": "ECO Thread Corporate",
-      "doj": "2026-02-15",
+      "doj": "2026-02-14",
       "dob": "1993-12-28"
+    },
+    "15109641": {
+      "name": "Ms.Samira Alam Afsana",
+      "designation": "Assistant Manager",
+      "department": "Corporate HR",
+      "location": "Ceramics Corporate",
+      "doj": "2026-03-01",
+      "dob": "1995-09-21"
+    },
+    "15109694": {
+      "name": "Mr.Sojib Saha",
+      "designation": "Executive",
+      "department": "Design and Development",
+      "location": "Corporate Office",
+      "doj": "2026-03-02",
+      "dob": "1998-07-20"
     }
   },
   "records": [
@@ -12342,11 +12502,3982 @@
       "normal": 2,
       "maxrun": 1,
       "swipeAvg": 578
+    },
+    {
+      "id": "15100005",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 315,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15100006",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 19,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 529
+    },
+    {
+      "id": "15100011",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 523
+    },
+    {
+      "id": "15100014",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15100015",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 91,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15100016",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 67,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15100017",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 76,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15100018",
+      "ym": "2026-03",
+      "days": 14,
+      "min": 1021,
+      "consec": 13,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 592
+    },
+    {
+      "id": "15100020",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15100021",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 212,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15100023",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 227,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100024",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15100025",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15100029",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 264,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15100032",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 45,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 533
+    },
+    {
+      "id": "15100033",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15100044",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 48,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15100058",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15100061",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 58,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 539
+    },
+    {
+      "id": "15100063",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15100065",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 114,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15100077",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 254,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 652
+    },
+    {
+      "id": "15100082",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 95,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15100086",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 305,
+      "consec": 10,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15100088",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 258,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15100090",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 81,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15100092",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 155,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15100094",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 83,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 623
+    },
+    {
+      "id": "15100096",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 120,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15100098",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 58,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15100099",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15100104",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 164,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 607
+    },
+    {
+      "id": "15100106",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 44,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15100107",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 125,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15100108",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 548,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 571
+    },
+    {
+      "id": "15100111",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15100113",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 68,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15100119",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 96,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100123",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15100124",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 28,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 539
+    },
+    {
+      "id": "15100132",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 140,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100134",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 389,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15100135",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 180,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15100145",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 169,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 625
+    },
+    {
+      "id": "15100147",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 232,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 641
+    },
+    {
+      "id": "15100154",
+      "ym": "2026-03",
+      "days": 13,
+      "min": 888,
+      "consec": 10,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15100162",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 50,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15100164",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 212,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 550
+    },
+    {
+      "id": "15100165",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15100166",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 43,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100170",
+      "ym": "2026-03",
+      "days": 16,
+      "min": 612,
+      "consec": 13,
+      "normal": 3,
+      "maxrun": 4,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15100173",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 467,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 603
+    },
+    {
+      "id": "15100185",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 313,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15100189",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 128,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15100195",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 524
+    },
+    {
+      "id": "15100201",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 474,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 599
+    },
+    {
+      "id": "15100210",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15100211",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 68,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 535
+    },
+    {
+      "id": "15100213",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 123,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15100226",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 51,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15100231",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 535
+    },
+    {
+      "id": "15100252",
+      "ym": "2026-03",
+      "days": 15,
+      "min": 723,
+      "consec": 13,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15100258",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 171,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15100267",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15100277",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 98,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15100282",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 201,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15100288",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 48,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15100303",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15100304",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 232,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 772
+    },
+    {
+      "id": "15100372",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 102,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15100712",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 28,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15100792",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 54,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15100927",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 252,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 636
+    },
+    {
+      "id": "15101055",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 22,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15101573",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 313,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15101636",
+      "ym": "2026-03",
+      "days": 8,
+      "min": 304,
+      "consec": 5,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15101642",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 30,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15101647",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 228,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15101664",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 92,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15101688",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 143,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15101715",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 13,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 523
+    },
+    {
+      "id": "15101723",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15101731",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 53,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15101752",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15101755",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15101758",
+      "ym": "2026-03",
+      "days": 8,
+      "min": 750,
+      "consec": 2,
+      "normal": 6,
+      "maxrun": 2,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15101786",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15101995",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 39,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15102005",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 45,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15102055",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 75,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 535
+    },
+    {
+      "id": "15102063",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 52,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15102166",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 260,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15102227",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 123,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15102237",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15102244",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 87,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15102246",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 72,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 582
+    },
+    {
+      "id": "15102282",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 50,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15102333",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 140,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15102340",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15102552",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15103196",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15103207",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 246,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15103216",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 148,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 658
+    },
+    {
+      "id": "15103233",
+      "ym": "2026-03",
+      "days": 17,
+      "min": 1489,
+      "consec": 16,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 628
+    },
+    {
+      "id": "15103275",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 100,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 590
+    },
+    {
+      "id": "15103279",
+      "ym": "2026-03",
+      "days": 17,
+      "min": 1242,
+      "consec": 15,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 583
+    },
+    {
+      "id": "15103289",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 193,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15103298",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 50,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15103460",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 70,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 610
+    },
+    {
+      "id": "15103463",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 29,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 539
+    },
+    {
+      "id": "15103502",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 21,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103505",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 54,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15103511",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 233,
+      "consec": 8,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15103556",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 85,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15103588",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 82,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15103596",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 475,
+      "consec": 5,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15103618",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 51,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103625",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 112,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15103635",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 524
+    },
+    {
+      "id": "15103703",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 72,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15103704",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 57,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15103721",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 35,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15103726",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 201,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15103755",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 71,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 611
+    },
+    {
+      "id": "15103763",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 43,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15103789",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 62,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 526
+    },
+    {
+      "id": "15103790",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15103804",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 323,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15103911",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 167,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 586
+    },
+    {
+      "id": "15103913",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15103952",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 36,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15103967",
+      "ym": "2026-03",
+      "days": 12,
+      "min": 425,
+      "consec": 9,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15103978",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15103982",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 66,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15104012",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 83,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15104105",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 149,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15104156",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 27,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15104184",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15104203",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 260,
+      "consec": 4,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15104227",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 99,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15104237",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15104240",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 41,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15104243",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 93,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15104315",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 86,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 626
+    },
+    {
+      "id": "15104328",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 561,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15104343",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 112,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15104413",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 89,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15104425",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 135,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15104445",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 168,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 609
+    },
+    {
+      "id": "15104452",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 32,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15104473",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15104491",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 341,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15104509",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 73,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15104592",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 55,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15104603",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 243,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15104653",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 232,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15104663",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 25,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 535
+    },
+    {
+      "id": "15104693",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15104698",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 79,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15104712",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 347,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15104738",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15104742",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 31,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15104746",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 85,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15104748",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 218,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 619
+    },
+    {
+      "id": "15104775",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 255,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15104793",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 100,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15104811",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 247,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15104846",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 145,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15105038",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 156,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15105057",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 81,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 530
+    },
+    {
+      "id": "15105058",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 69,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 533
+    },
+    {
+      "id": "15105176",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 110,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15105218",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 102,
+      "consec": 3,
+      "normal": 0,
+      "maxrun": 3,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15105221",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 159,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 605
+    },
+    {
+      "id": "15105222",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 138,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15105225",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 64,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 531
+    },
+    {
+      "id": "15105321",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 278,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 613
+    },
+    {
+      "id": "15105346",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 24,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15105358",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 86,
+      "consec": 3,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15105359",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 64,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15105370",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 36,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 546
+    },
+    {
+      "id": "15105380",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 803,
+      "consec": 3,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 671
+    },
+    {
+      "id": "15105387",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 92,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 551
+    },
+    {
+      "id": "15105393",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15105397",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 276,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 579
+    },
+    {
+      "id": "15105462",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 74,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15105503",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15105521",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 133,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15105568",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 434,
+      "consec": 0,
+      "normal": 7,
+      "maxrun": 1,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15105631",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 127,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15105632",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 202,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15105633",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 98,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15105635",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 106,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 646
+    },
+    {
+      "id": "15105668",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 168,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15105675",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 153,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 663
+    },
+    {
+      "id": "15105676",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 36,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 546
+    },
+    {
+      "id": "15105697",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15105699",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 40,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 530
+    },
+    {
+      "id": "15105701",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 96,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 573
+    },
+    {
+      "id": "15105737",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 574,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 684
+    },
+    {
+      "id": "15105786",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 32,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15105898",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 431,
+      "consec": 3,
+      "normal": 0,
+      "maxrun": 3,
+      "swipeAvg": 654
+    },
+    {
+      "id": "15105926",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 234,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 569
+    },
+    {
+      "id": "15105927",
+      "ym": "2026-03",
+      "days": 8,
+      "min": 135,
+      "consec": 4,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15105928",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 24,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15105931",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 37,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15105950",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 162,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 672
+    },
+    {
+      "id": "15105951",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 127,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 637
+    },
+    {
+      "id": "15105964",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 797,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 653
+    },
+    {
+      "id": "15106003",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 94,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106004",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 68,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15106006",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 201,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 550
+    },
+    {
+      "id": "15106084",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15106110",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 645,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 623
+    },
+    {
+      "id": "15106146",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 279,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 587
+    },
+    {
+      "id": "15106150",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15106167",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 247,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15106242",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 56,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15106262",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 69,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15106263",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 91,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15106264",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 119,
+      "consec": 5,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106266",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 1319,
+      "consec": 6,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 687
+    },
+    {
+      "id": "15106323",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15106388",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 431,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 625
+    },
+    {
+      "id": "15106396",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 32,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15106397",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 265,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15106398",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 103,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15106399",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 50,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106436",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 76,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15106438",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 127,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15106470",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15106472",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 67,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15106500",
+      "ym": "2026-03",
+      "days": 19,
+      "min": 2467,
+      "consec": 16,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 648
+    },
+    {
+      "id": "15106507",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 525
+    },
+    {
+      "id": "15106517",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 45,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15106520",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 307,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15106550",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 228,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15106594",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 47,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15106595",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 94,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15106628",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 723,
+      "consec": 7,
+      "normal": 4,
+      "maxrun": 5,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15106636",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 154,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 694
+    },
+    {
+      "id": "15106676",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 100,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 575
+    },
+    {
+      "id": "15106683",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 208,
+      "consec": 4,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15106726",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 64,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15106768",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 152,
+      "consec": 3,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 535
+    },
+    {
+      "id": "15106801",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 48,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15106803",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 63,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15106852",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 240,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 630
+    },
+    {
+      "id": "15106884",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 233,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 627
+    },
+    {
+      "id": "15106949",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 66,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 542
+    },
+    {
+      "id": "15106966",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 253,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 594
+    },
+    {
+      "id": "15106971",
+      "ym": "2026-03",
+      "days": 16,
+      "min": 650,
+      "consec": 13,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 581
+    },
+    {
+      "id": "15106976",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15106977",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 260,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15106981",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 549,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15107015",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15107021",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 15,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15107024",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 217,
+      "consec": 6,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15107080",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 70,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15107096",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 75,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 559
+    },
+    {
+      "id": "15107148",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 74,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 584
+    },
+    {
+      "id": "15107155",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 69,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107177",
+      "ym": "2026-03",
+      "days": 8,
+      "min": 204,
+      "consec": 6,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15107179",
+      "ym": "2026-03",
+      "days": 22,
+      "min": 4051,
+      "consec": 19,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 704
+    },
+    {
+      "id": "15107187",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 181,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15107189",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 44,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15107217",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 168,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 596
+    },
+    {
+      "id": "15107231",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 71,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15107261",
+      "ym": "2026-03",
+      "days": 16,
+      "min": 1909,
+      "consec": 14,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 639
+    },
+    {
+      "id": "15107268",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 620,
+      "consec": 9,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15107283",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 485,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15107303",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 18,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15107323",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 74,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 547
+    },
+    {
+      "id": "15107333",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 618,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 618
+    },
+    {
+      "id": "15107349",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 45,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 533
+    },
+    {
+      "id": "15107399",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 252,
+      "consec": 5,
+      "normal": 4,
+      "maxrun": 3,
+      "swipeAvg": 568
+    },
+    {
+      "id": "15107405",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 92,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15107406",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 271,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15107409",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 552
+    },
+    {
+      "id": "15107423",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 75,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15107433",
+      "ym": "2026-03",
+      "days": 23,
+      "min": 3534,
+      "consec": 23,
+      "normal": 0,
+      "maxrun": 6,
+      "swipeAvg": 673
+    },
+    {
+      "id": "15107441",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15107511",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 86,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15107512",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15107521",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15107522",
+      "ym": "2026-03",
+      "days": 16,
+      "min": 451,
+      "consec": 13,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15107549",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 167,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 4,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15107606",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 138,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15107609",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 24,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 564
+    },
+    {
+      "id": "15107624",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 356,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 593
+    },
+    {
+      "id": "15107635",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107645",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 90,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15107678",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 198,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15107730",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 149,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15107764",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 50,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107773",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 92,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 632
+    },
+    {
+      "id": "15107774",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 476,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 637
+    },
+    {
+      "id": "15107799",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 569,
+      "consec": 3,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 660
+    },
+    {
+      "id": "15107804",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 101,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15107812",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 46,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15107838",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 46,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15107840",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 128,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 638
+    },
+    {
+      "id": "15107854",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 81,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107858",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 43,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 532
+    },
+    {
+      "id": "15107958",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 112,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107965",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 99,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15107989",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 132,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15107990",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 68,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 608
+    },
+    {
+      "id": "15107992",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 188,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15107993",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 90,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15107994",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15107998",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 162,
+      "consec": 3,
+      "normal": 7,
+      "maxrun": 3,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108006",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 141,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 681
+    },
+    {
+      "id": "15108036",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 330,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 4,
+      "swipeAvg": 576
+    },
+    {
+      "id": "15108045",
+      "ym": "2026-03",
+      "days": 7,
+      "min": 191,
+      "consec": 2,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15108049",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 192,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15108088",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 112,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15108123",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 32,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 526
+    },
+    {
+      "id": "15108150",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 99,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15108152",
+      "ym": "2026-03",
+      "days": 18,
+      "min": 887,
+      "consec": 16,
+      "normal": 2,
+      "maxrun": 5,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15108162",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 205,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 578
+    },
+    {
+      "id": "15108185",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 93,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108192",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 36,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 528
+    },
+    {
+      "id": "15108209",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 557
+    },
+    {
+      "id": "15108215",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 363,
+      "consec": 5,
+      "normal": 6,
+      "maxrun": 3,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15108217",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 16,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 526
+    },
+    {
+      "id": "15108218",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15108234",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 122,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 662
+    },
+    {
+      "id": "15108237",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 210,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 580
+    },
+    {
+      "id": "15108297",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15108304",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 26,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 536
+    },
+    {
+      "id": "15108323",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 491,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 5,
+      "swipeAvg": 562
+    },
+    {
+      "id": "15108372",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 75,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 615
+    },
+    {
+      "id": "15108386",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 35,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 545
+    },
+    {
+      "id": "15108399",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 120,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 600
+    },
+    {
+      "id": "15108444",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 30,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15108469",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 56,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 566
+    },
+    {
+      "id": "15108487",
+      "ym": "2026-03",
+      "days": 21,
+      "min": 3284,
+      "consec": 16,
+      "normal": 5,
+      "maxrun": 4,
+      "swipeAvg": 675
+    },
+    {
+      "id": "15108551",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 73,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15108554",
+      "ym": "2026-03",
+      "days": 20,
+      "min": 3956,
+      "consec": 13,
+      "normal": 7,
+      "maxrun": 4,
+      "swipeAvg": 717
+    },
+    {
+      "id": "15108556",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 78,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 549
+    },
+    {
+      "id": "15108563",
+      "ym": "2026-03",
+      "days": 15,
+      "min": 420,
+      "consec": 14,
+      "normal": 1,
+      "maxrun": 5,
+      "swipeAvg": 538
+    },
+    {
+      "id": "15108709",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 101,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15108726",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 626,
+      "consec": 7,
+      "normal": 3,
+      "maxrun": 3,
+      "swipeAvg": 588
+    },
+    {
+      "id": "15108728",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 160,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108729",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 212,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 616
+    },
+    {
+      "id": "15108801",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 85,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 595
+    },
+    {
+      "id": "15108853",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 168,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 560
+    },
+    {
+      "id": "15108872",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 48,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15108873",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 81,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 567
+    },
+    {
+      "id": "15108874",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 34,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 544
+    },
+    {
+      "id": "15108875",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 115,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15108890",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 388,
+      "consec": 4,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 606
+    },
+    {
+      "id": "15108902",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 100,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 543
+    },
+    {
+      "id": "15108916",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 85,
+      "consec": 0,
+      "normal": 6,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15108923",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 799,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 806
+    },
+    {
+      "id": "15108927",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 97,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15108959",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 248,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 634
+    },
+    {
+      "id": "15108977",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 75,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 585
+    },
+    {
+      "id": "15109017",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 143,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 546
+    },
+    {
+      "id": "15109039",
+      "ym": "2026-03",
+      "days": 9,
+      "min": 191,
+      "consec": 4,
+      "normal": 5,
+      "maxrun": 2,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109119",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 14,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15109131",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 146,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 589
+    },
+    {
+      "id": "15109150",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 396,
+      "consec": 2,
+      "normal": 3,
+      "maxrun": 2,
+      "swipeAvg": 601
+    },
+    {
+      "id": "15109217",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 224,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 574
+    },
+    {
+      "id": "15109221",
+      "ym": "2026-03",
+      "days": 17,
+      "min": 1422,
+      "consec": 12,
+      "normal": 5,
+      "maxrun": 5,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15109248",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 288,
+      "consec": 2,
+      "normal": 4,
+      "maxrun": 2,
+      "swipeAvg": 558
+    },
+    {
+      "id": "15109249",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 12,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 522
+    },
+    {
+      "id": "15109250",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 160,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 563
+    },
+    {
+      "id": "15109260",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 429,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 620
+    },
+    {
+      "id": "15109261",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 54,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 537
+    },
+    {
+      "id": "15109263",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 521
+    },
+    {
+      "id": "15109287",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 357,
+      "consec": 5,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 570
+    },
+    {
+      "id": "15109318",
+      "ym": "2026-03",
+      "days": 6,
+      "min": 187,
+      "consec": 4,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 541
+    },
+    {
+      "id": "15109322",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 47,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109323",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 97,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15109334",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 369,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 602
+    },
+    {
+      "id": "15109341",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 98,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 638
+    },
+    {
+      "id": "15109394",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 86,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 553
+    },
+    {
+      "id": "15109409",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 83,
+      "consec": 0,
+      "normal": 4,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109411",
+      "ym": "2026-03",
+      "days": 5,
+      "min": 202,
+      "consec": 0,
+      "normal": 5,
+      "maxrun": 1,
+      "swipeAvg": 556
+    },
+    {
+      "id": "15109413",
+      "ym": "2026-03",
+      "days": 14,
+      "min": 777,
+      "consec": 12,
+      "normal": 2,
+      "maxrun": 4,
+      "swipeAvg": 572
+    },
+    {
+      "id": "15109428",
+      "ym": "2026-03",
+      "days": 11,
+      "min": 270,
+      "consec": 10,
+      "normal": 1,
+      "maxrun": 3,
+      "swipeAvg": 565
+    },
+    {
+      "id": "15109431",
+      "ym": "2026-03",
+      "days": 4,
+      "min": 118,
+      "consec": 2,
+      "normal": 2,
+      "maxrun": 2,
+      "swipeAvg": 540
+    },
+    {
+      "id": "15109442",
+      "ym": "2026-03",
+      "days": 10,
+      "min": 259,
+      "consec": 8,
+      "normal": 2,
+      "maxrun": 3,
+      "swipeAvg": 548
+    },
+    {
+      "id": "15109481",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 28,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 524
+    },
+    {
+      "id": "15109484",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 17,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15109486",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 28,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 524
+    },
+    {
+      "id": "15109503",
+      "ym": "2026-03",
+      "days": 22,
+      "min": 3908,
+      "consec": 17,
+      "normal": 5,
+      "maxrun": 3,
+      "swipeAvg": 697
+    },
+    {
+      "id": "15109530",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 73,
+      "consec": 0,
+      "normal": 3,
+      "maxrun": 1,
+      "swipeAvg": 534
+    },
+    {
+      "id": "15109537",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 88,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 554
+    },
+    {
+      "id": "15109540",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 27,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 524
+    },
+    {
+      "id": "15109572",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 33,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 527
+    },
+    {
+      "id": "15109573",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 102,
+      "consec": 0,
+      "normal": 2,
+      "maxrun": 1,
+      "swipeAvg": 561
+    },
+    {
+      "id": "15109587",
+      "ym": "2026-03",
+      "days": 3,
+      "min": 45,
+      "consec": 2,
+      "normal": 1,
+      "maxrun": 2,
+      "swipeAvg": 555
+    },
+    {
+      "id": "15109641",
+      "ym": "2026-03",
+      "days": 2,
+      "min": 134,
+      "consec": 2,
+      "normal": 0,
+      "maxrun": 2,
+      "swipeAvg": 577
+    },
+    {
+      "id": "15109694",
+      "ym": "2026-03",
+      "days": 1,
+      "min": 11,
+      "consec": 0,
+      "normal": 1,
+      "maxrun": 1,
+      "swipeAvg": 551
     }
   ],
   "months": [
     "2026-01",
-    "2026-02"
+    "2026-02",
+    "2026-03"
   ],
-  "updatedAt": "2026-08-09T07:44:31.742Z"
+  "updatedAt": "2026-08-09T07:45:00.337Z"
 }
